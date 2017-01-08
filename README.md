@@ -18,7 +18,7 @@ Examples of fully entries are:
 - {d}Šul-gi               Šulgir[]RN
 - {d}Nin-gir-su-ke4       Ningirsuk[]DN
 - U3-ta2-mi-ca-ra-am-ta   Utamišaram[]PN
-- Uri5{ki}-ce             Urim[]SN
+- Uri5{ki}-ce3            Urim[]SN
 
 # Process
 The current list (in the directory Output) is produced by the Python 3.5 Notebook included in this repository. It takes the entirety of the data set in (BDTNS)[http://bdtns.filol.csic.es/], extracts names (characterized by an initial capital) and attempts to normalize these names on the basis of rules. The result has many errors and infelicities, but is a good start for a researcher who is knowledgeable about this period. All normalizations will be reviewed and, where necessary, corrected. The current list, therefore, is only stage 1 in the process.
