@@ -1,0 +1,3062 @@
+&X000001 = Ur 03 Personal Names beginning A
+# http://oracc.museum.upenn.edu/epsd2/qpn
+# note to self: all -Ca-a endings treat as -Caya/-Caʾa?
+
+	Transliteration			Normalized
+$ (ll. 0-28 temporarily ignored)
+0	A-AH-{d}Utu			A.AH.{d}Utu[]PN		AhŠamaš 'brother of Šamaš'?
+1	A-AMA-a2-a			A.AMA.a₂.a[]PN
+2	A-AN-ba-az			A.AN.ba.az[]PN
+3	A-Ab-ba-ge-na-ta		Abbagina[]PN
+4	A-Ad-da				Adda[]PN
+5	A-Ad-da-kal-la			Addakala[]PN
+6	A-Ad-da-mu			Addaŋu[]PN
+7	A-An-na-hi-li-bi		A.An.na.hi.li.bi[]PN
+8	A-CIR-da			A.ŠIR.da[]PN
+9	A-DU-ba-bi			A.DU.ba.bi[]PN
+10	A-DU-gam-ma			A.DU.gam.ma[]PN
+11	A-DU-la-URU			A.DU.la.URU[]PN
+12	A-DU.DU-ce3			A.DU.DU[]PN
+13	A-DU.DU-e			A.DU.DU.e[]PN
+14	A-DU.DU-ta			A.DU.DU[]PN
+15	A-GU4-na-mu			A.GU₄.na.ŋu₁₀[]PN
+16	A-KA-a				A.KA.a[]PN
+17	A-KU-um				A.KU.um[]PN
+18	A-KU.KU-lum			A.KU.KU.lum[]PN
+19	A-KU.KU-ta			A.KU.KU[]PN
+20	A-LUM-ma			A.LUM.ma[]PN
+21	A-NE-i3-zi			A.NE.i₃.zi[]PN
+22	A-NE-ku-bi			A.NE.ku.bi[]PN
+23	A-NI-ma				A.NI.ma[]PN
+24	A-NI-sig5			A.NI.sag₁₀[]PN
+25	A-NI-ta				A.NI[]PN
+26	A-PA4-u2-a			A.PA₄.u₂.a[]PN
+27	A-TU5-ce3			A.TU₅[]PN
+28	A-U.E2-nu-tuku			A.U.E₂.nu.tuku[]PN
+29	A-a				Aya[]PN
+30	A-a-				A.a.[...][]PN		5654 possibilities	₄
+31	A-a-Kal-la			Ayakala[]PN
+32	A-a-NI				Ayani[]PN		his father?
+33	A-a-UN-e-ba-ab-du7		Ayaʾuŋebabdu[]PN
+34	A-a-a				Ayaya[]PN		'grandfather'?
+35	A-a-ab-ba			Aʾabbak[]PN		uncertain ('Mr. Sea'?); or, aya + abba 'grandfather'?
+36	A-a-ar				Ayar[]PN		1 Umma
+37	A-a-ba				Ayaba[]PN		uncertain; 'father is bestower'? (Irisaŋrig)
+38	A-a-ba-ni			Ayabani[]PN		uncertain; 'goddess Aya is my fashioner'? (Irisaŋrig)
+39	A-a-ba-ta			Ayaba[]PN		Irisaŋrig
+40	A-a-bad3			Ayabad[]PN
+41	A-a-bad3-da-ri2-a		Ayabadariʾa[]PN
+42	A-a-bar-ra			Ayabara[]PN
+43	A-a-bi-ta			Ayabi[]PN
+44	A-a-bi2-du10			Ayabidug[]PN
+45	A-a-ca3-mu			Ayašagŋu[]PN
+46	A-a-ce3				Aya[]PN
+47	A-a-dingir			Ayadiŋir[]PN
+48	A-a-dingir-mu			Ayadiŋirŋu[]PN
+49	A-a-dingir-mu-ce3		Ayadiŋirŋu[]PN
+50	A-a-dingir-mu-ta		Ayadiŋirŋu[]PN
+51	A-a-dingir-ta			Ayadiŋir[]PN
+52	A-a-du10-ga			Ayaduga[]PN
+53	A-a-e				Ayaʾe[]PN		NRVN 1 226 r 15: igi A-a-e
+54	A-a-ga				Ayaga[]PN
+55	A-a-ga-mu			Ayagaŋu[]PN
+56	A-a-ga-ta			Ayaga[]PN
+57	A-a-ge-na			Ayagina[]PN
+58	A-a-ge-na-ta			Ayagina[]PN
+59	A-a-gi-na			Ayagina[]PN
+60	A-a-gir15			Ayagir[]PN
+61	A-a-gir15{ir}			Ayagir[]PN
+62	A-a-gu-ni			Ayaguni[]PN
+63	A-a-ha-ma-ti			Ayahamatil[]PN
+64	A-a-i3-li2			Abuʾili[]PN
+65	A-a-i3-li2-cu			Abuʾilišu[]PN
+66	A-a-i3-li2-su			Abuʾilisu[]PN
+67	A-a-igi-du8-a			Ayaʾigiduʾa[]PN		or, Ayaʾigiduha?
+68	A-a-kal				Ayakala[]PN
+69	A-a-kal-la			Ayakala[]PN
+70	A-a-kal-la-			unkn			1944 posssibilities
+71	A-a-kal-la-bi			Ayakalabi[]PN
+72	A-a-kal-la-ce3			Ayakala[]PN
+73	A-a-kal-la-ka			Ayakala[]PN
+74	A-a-kal-la-mu			Ayakalaŋu[]PN
+75	A-a-kal-la-ra			Ayakala[]PN
+76	A-a-kal-la-ta			Ayakala[]PN
+77	A-a-kal-laa			Ayakala[]PN		BM 107758 Seal l. 2: dam a-a-kal-la
+78	A-a-ki-lu5			Ayakilula[]PN		15 Umma, 4 Girsu
+79	A-a-ki-lu5-la			Ayakilula[]PN
+80	A-a-ki:lu5-la			Ayakilula[]PN
+81	A-a-lal3			Ayalal[]PN
+82	A-a-li2-tum			Ayalitum[]PN
+83	A-a-lu2-du10			Ayaludug[]PN
+84	A-a-lu2-du10-a			Ayaludug[]PN
+85	A-a-ma				Ayama[]PN		hypo?
+86	A-a-ma-an-gi4			Ayamangi[]PN
+87	A-a-mu				Ayaŋu[]PN
+88	A-a-mu-ce3			Ayaŋu[]PN
+89	A-a-mu-dah			Ayamutah[]PN
+90	A-a-mu-na			Ayamuna[]PN		hypo for Ayamuna+vb?
+91	A-a-mu-ra			Ayaŋu[]PN
+92	A-a-mu-ta			Ayaŋu[]PN
+93	A-a-na-tum-e			Ayanatum[]PN
+94	A-a-ni				Ayani[]PN		= Ayanum?
+95	A-a-ni-cu			Ayanišu[]PN
+96	A-a-ni-cu-ce3			Ayanišu[]PN
+97	A-a-nu-um			Ayanum[]PN
+98	A-a-ri				Ayari[]PN		= Ayar?
+99	A-a-ri2-in			A.a.ri₂.in[]PN		hypo?
+100	A-a-ri2-mu-ce3			Ayariŋu[]PN
+101	A-a-tec2-mu			Ayatešŋu[]PN
+102	A-a-ti				Ayati[]PN		= Ayatum?
+103	A-a-tum				Ayatum[]PN		only TCL 5 6038 r i 37; same as Ayati?
+104	A-a-u4-su3-ce3			Ayaʾusudše[]PN
+105	A-a-ur-sag			Ayaʾursaŋ[]PN
+106	A-a-uru-IN			Aya.iri.IN[]PN
+107	A-a-uru-mu			Ayaʾiriŋu[]PN
+108	A-a-za-ni			Ayazani[]PN
+109	A-a-zi-da			Ayazida[]PN
+110	A-a-zi-mu			Ayaziŋu[]PN
+111	A-a-zi-mu-ta			Ayaziŋu[]PN
+112	A-a-zu				Ayazu[]PN
+113	A-a-{d}Nanna-ar-kal-la		AyaNanarkalag[]PN
+114	A-a2-lal3			Aʾalal[]PN
+115	A-ab--sa6-ga			unkn			VAT 02441 r 1: gir3 a-ab-[x?];-sa6-ga; probly A-a-[ba?]-sa6-ga
+116	A-ab-a				Abba[]PN		uncertain; or, Ayaba?
+117	A-ab-ba				Abba[]PN
+118	A-ab-ba-a			Abba[]PN
+119	A-ab-ba-a-ta			Abba[]PN
+120	A-ab-ba-bi			Abbabi[]PN
+121	A-ab-ba-bi-ta			Abbabi[]PN
+122	A-ab-ba-ce3			Abba[]PN
+123	A-ab-ba-ga			Abbaga[]PN
+124	A-ab-ba-gu-la			Abbagula[]PN
+125	A-ab-ba-ha-ma-ti		Abbahamatil[]PN
+126	A-ab-ba-ka			Abba[]PN		entries are X of Abba
+127	A-ab-ba-kal-la			Abbakalag[]PN
+128	A-ab-ba-kal-la-ta		Abbakalag[]PN
+129	A-ab-ba-me			Abba[]PN
+130	A-ab-ba-mmu			Abbaŋu[]PN		typo
+131	A-ab-ba-mu			Abbaŋu[]PN
+132	A-ab-ba-mu-ce3			Abbaŋu[]PN
+133	A-ab-ba-mu-gen7			Abbaŋugin[]PN
+134	A-ab-ba-mu-ta			Abbaŋu[]PN
+135	A-ab-ba-ni			Abbani[]PN
+136	A-ab-ba-ni-ka			Abbani[]PN
+137	A-ab-ba-ni-ta			Abbani[]PN
+138	A-ab-ba-si2-im-ti		Abbasimti[]PN
+139	A-ab-ba-sig5			Abbasag[]PN
+140	A-ab-ba-ta			Abba[]PN
+141	A-ab-ba-zi-mu			Abbaziŋu[]PN
+142	A-ab-ba-zi-mu-ta		Abbaziŋu[]PN
+143	A-ab-bu-mu			Abbuŋu[]PN
+144	A-ab-du10-ga			Abbaduga[]PN
+145	A-ab-e				Abe[]PN
+146	A-ab-gu-la			Abbagula[]PN
+147	A-ab-mi-ra-din			Abmiradin[]PN		1 PD
+148	A-ab-na-ca			Abunaša[]PN		uncertain (1 Irisaŋrig); father carries?
+149	A-ac-an-ne2			Ašane[]PN		4 Umma seals
+150	A-ac-gi4-pa3-da-ac		Ašgipada[]PN
+151	A-ac-gi4-pa3-da-ce3		Ašgipada[]PN
+152	A-ac-gi4-pa3-da-ta		Ašgipada[]PN
+153	A-ac-ki-pa3			Ašgipada[]PN
+154	A-ac-ki-pa3-ce3			Ašgipada[]PN
+155	A-ac-ki-pa3{ki}-ce3		Ašgipada[]SN
+156	A-ad-a-bi			Addabi[]PN
+157	A-ad-da				Adda[]PN
+158	A-ad-da-BAD3-ri			Addaduri[]PN		Sem.: Adad is my wall? or Adad is eternal? (1 Umma)
+159	A-ad-da-a			Adda[]PN
+160	A-ad-da-ad			Addaʾadda[]PN		uncertain (grandfather?) (1 Girsu messenger)
+161	A-ad-da-bi			Addabi[]PN
+162	A-ad-da-ce3			Adda[]PN
+163	A-ad-da-hu			Addahu[]PN
+164	A-ad-da-ka-ta-am3		Adda[]PN
+165	A-ad-da-kal-la			Addakalag[]PN
+166	A-ad-da-mu			Addaŋu[]PN
+167	A-ad-da-ni-ra-am-an-ni		AddaniramAni[]PN	uncertain; Akk.: Adad is beloved of AN? (1 PD)
+168	A-ad-du10-ga			Addaduga[]PN
+169	A-ad-kal-la			Addakalag[]PN
+170	A-ad2-gal			Adgal[]PN		or, Addagal?
+171	A-ag-ga-mu			Agaŋu[]PN
+172	A-ah-KAL.LA			Ahdan[]PN		or, Ahdannum 'brother is strong'? (2 Nippur)
+173	A-ah-zu				Ahzu[]PN
+174	A-al-NI				A.al.NI[]PN
+175	A-al-NI-ta			A.al.NI[]PN
+176	A-al-ba-ni-du11			Albanidug[]PN		1 Umma
+177	A-al-ca-na{ki}			Alšana[]SN
+178	A-al-la				Alla[]PN
+179	A-al-la-i3-zu			Allaʾizu[]PN
+180	A-al-la-mu			Allaŋu[]PN
+181	A-al-la-mu-ce3			Allaŋu[]PN
+182	A-al-la-mu-ta			Allaŋu[]PN
+183	A-al-la-ni			unkn			BM 106224 o 2 (restored); possibly Allanitum (1 Umma)
+184	A-al-la-ni-tum			Allanitum[]PN
+185	A-al-la-ra			Alla[]PN		ITT 3 06573 r 5 (dative)
+186	A-al-la-ri			unkn			MVN 16 0749, NYPL 204: A-al-la-ri-[x?] (Umma); probly Allari+post position
+187	A-al-la-ru			Allaru[]PN		1 Umma; = Allari?
+188	A-al-la-ta			Alla[]PN
+189	A-al-li2			Alli[]PN		1 Umma, 1 Garshana; = Allu?
+190	A-al-lu				Allu[]PN		all Garshana; = Alli?
+191	A-al-lu-a			Allu[]PN		-a is gen?
+192	A-al-lu-u2			Allu[]PN
+193	A-al-mu				Alŋu[]PN
+194	A-al-mu-ta			Alŋu[]PN
+195	A-al-ni				Alli[]PN		all Umma
+196	A-al-ni-mu			Alliŋu[]PN
+197	A-al-ni-ta			Alli[]PN
+198	A-al-zu				Alzu[]PN
+199	A-am-ma				Ama[]PN
+200	A-am3				Ayam[]PN		he is father? (1 PD)
+201	A-ama-la-lum			A.ama.la.LUM[]PN	2 Girsu (WMAH 219 o 6, r 13)
+202	A-ambar{ki}			Aʾambar[]SN		field-name? (Girsu)
+203	A-ambar{ki}-ta			Aʾambar[]SN		field-name? (Girsu)
+204	A-an				Ana[]PN			uncertain (5 Umma, 1 Ur)
+205	A-an-NI-mu			Aʾaneŋu[]PN		hypo?
+206	A-an-du				A.AN.DU[]PN		2 Umma
+207	A-an-na				Ana[]PN			or, Aʾanak (hypo for something like A-pada-anak?)
+208	A-an-na-a			Ana[]PN			or, Aʾanak (hypo for something like A-pada-anak?)
+209	A-an-na-a-mu			Anaŋu[]PN		hypo? (Aʾanakŋu?)
+210	A-an-na-bi			Anabi[]PN
+211	A-an-na-mu			Anaŋu[]PN
+212	A-an-na-mu-ta			Anaŋu[]PN
+213	A-an-na-ti			Anatil[]PN		hypo?
+214	A-ar-ba-tal			Arbatal[]PN		Hurrian
+215	A-ar-ha-ac			Arhaš[]PN
+216	A-ar-ka				A.ar.KA[]PN		1 Umma
+217	A-at-ta				Atta[]PN		1 Susa; = Atti/Attiʾa?
+218	A-at-ti				Atti[]PN		1 Umma; = Atta/Attiʾa?
+219	A-at-ti-a			Attiʾa[]PN		1 unkn prov; = Atta/Atti?
+220	A-ba				Abba[]PN
+221	A-ba-				unkn			1877 possibilities
+222	A-ba-DI.A			A.ba.DI.A[]PN		1 Girsu
+223	A-ba-DINGIR			Abadiŋir[]PN		hypo? (1 Girsu)
+224	A-ba-HI				unkn			Nisaba 15/2 0728 o i 15 (PD; broken context)
+225	A-ba-NAG-nu-mu-ni-KA		A.ba.NAG.nu.mu.ni.KA[]PN       1 Girsu
+226	A-ba-NE-gen7			A.ba.NE.gin₇[]PN
+227	A-ba-a				Abaʾa[]PN		uncertain; hypo for Abaʾayaŋugin or similar?
+228	A-ba-a-a			Abaʾaya[]PN		hypo for Abaʾayaŋugin or similar? (2 SI.A-a Arch.)
+229	A-ba-a-a-mu			Abaʾayaŋugin[]PN	TMH NF 1-2 145 o 5: 0.1.0 A-ba-a-a-gin7# (Nippur; photo/copy)
+230	A-ba-a-a-mu-gen7		Abaʾayaŋugin[]PN
+231	A-ba-a-ce3			Abaʾaya[]PN		hypo for Abaʾayaŋugin or similar? (1 SI.A-a Arch.)
+232	A-ba-a-mu-gen7			Abaʾayaŋugin[]PN
+233	A-ba-a-ta			Abaʾa[]PN		uncertain; hypo for Abaʾayaŋugin or similar?
+234	A-ba-ab-ni			Abaʾabbani[]PN		hypo for 'Who is (like) his father' or similar?
+235	A-ba-ad-da-gen7			Abaʾaddagin[]PN
+236	A-ba-al				AbaʾAlla[]PN		hypo for A-ba-al-la-gin7?
+237	A-ba-al-la			AbaʾAlla[]PN
+238	A-ba-al-la-ce3			AbaʾAlla[]PN
+239	A-ba-al-la-cu-um		Aballašum[]PN		= Aballaša?
+240	A-ba-al-la-ka			AbaʾAlla[]PN
+241	A-ba-al-la-ta			AbaʾAlla[]PN
+242	A-ba-al-ta			AbaʾAlla[]PN
+243	A-ba-al{ki}			Awal[]SN
+244	A-ba-an				Abaʾan[]PN		hypo?
+245	A-ba-an-da-sa2			Abaʾandasa[]PN
+246	A-ba-an-da-sa2-ta		Abaʾandasa[]PN
+247	A-ba-an-hu-me			Abanhu[]PN
+248	A-ba-an-i3-li2			Abanili[]PN
+249	A-ba-an-ne-an			Abaʾaneʾan[]PN		hypo?
+250	A-ba-an-ne2-in-si3-ge-en6	Abaʾaneʾinsegen[]PN	1 Umma
+251	A-ba-an-ne2-si3-ge		Abaʾanesege[]PN		2 Girsu
+252	A-ba-ar-da			Abarda[]PN		= Abarduk? (1 PD)
+253	A-ba-ar-du-uk			Abarduk[]PN		= Abarda? (1 PD; Elamite?)
+254	A-ba-ar-ni-um{ki}		Abarniʾum[]SN
+255	A-ba-at				Abat[]PN		or, Abbaʾadda 'grandfather'?
+256	A-ba-at-i3-li2			Abadili[]PN		slave of god; or, Awatili 'word of (my) god'?
+257	A-ba-ba				Ababa[]PN
+258	A-ba-ba-ni-du			Ababaniŋen[]PN		1 Ur; who has gone out?
+259	A-ba-ba-tum			Ababatum[]PN
+260	A-ba-bi2-dim2			Ababidim[]PN		who has fashioned?
+261	A-ba-bi2-um			Ababiʾum[]PN		= Ababum?
+262	A-ba-bu-um			Ababum[]PN		= Ababiʾum?
+263	A-ba-bu-um-ce3			Ababum[]PN		= Ababiʾum?
+264	A-ba-ce3-DU.NI			A.ba.še₃.DU.NI[]PN	1 Girsu
+265	A-ba-cec-mu-gen7		Abašešŋugin[]PN
+266	A-ba-cu				Abbašu[]PN
+267	A-ba-cu-an-da-du		AbbašuDadu[]PN
+268	A-ba-cu-luh-{d}Inanna		AbašuluhInanak[]PN
+269	A-ba-cu-na			Abašuna[]PN
+270	A-ba-cu-na-ta			Abašuna[]PN
+271	A-ba-cu-ud-NE-AN		A.ba.šu.ud.NE.AN[]PN	1 Irisaŋrig
+272	A-ba-da-sa2			Abaʾandasa[]PN
+273	A-ba-da-sa2-me			Abaʾandasa[]PN
+274	A-ba-di-DU.NI			A.ba.di.DU.NI[]PN	1 Girsu
+275	A-ba-di-ba-ni			Abadibani[]PN		1 Umma; who is his doom-bestower
+276	A-ba-di-ni			Abadini[]PN		1 Umma
+277	A-ba-dingir-cec-gen7		unkn			BM 106041 o vi 20 (Umma; translit only; broken context)
+278	A-ba-dingir-ga2-gen7		Abadiŋirŋagin[]PN
+279	A-ba-dingir-gen7		Abadiŋirgin[]PN
+280	A-ba-dingir-mu-gen7		Abadiŋirŋugin[]PN
+281	A-ba-du10-ga			Abaduga[]PN
+282	A-ba-e-ne-gen7			Abaʾenegin[]PN
+283	A-ba-e-ta-ni			Abaʾetani[]PN
+284	A-ba-gal			Abagal[]PN		hypo?; or, Abbagina 'true father'?
+285	A-ba-gal-{d}En-lil2-la2		AbagalEnlilak[]PN
+286	A-ba-ge-na-ta			Abagina[]PN		or, Abbagina 'true father'?
+287	A-ba-ha-ma-ti			Abahamatil[]PN
+288	A-ba-hu				Abahu[]PN		hypo?
+289	A-ba-i3-da-e3			Abaʾindane[]PN
+290	A-ba-i3-ne2-si3-ge4		Abaʾinesege[]PN		= A-ba-an-ne2-si3-ge 'who is equal to An/him'?
+291	A-ba-i3-sum			Abaʾišum[]PN
+292	A-ba-in-da-an-e3		Abaʾindane[]PN
+293	A-ba-in-da-e3			Abaʾindane[]PN
+294	A-ba-in-da-ne			Abaʾindane[]PN
+295	A-ba-in-zu			Abaʾinzu[]PN
+296	A-ba-ki				Abaki[]PN		hypo?
+297	A-ba-ki-du-ni			Abakigubane[]PN		uncertain; 'who is in his station'?
+298	A-ba-ki-e			Abakiʾe[]PN		uncertain; 'who is in that place'?
+299	A-ba-ki-ni			Abakine[]PN		uncertain; 'who is in his place'?
+300	A-ba-ki-ni-ta			Abakine[]PN
+301	A-ba-ki-uru-ni			Abakiʾurune[]PN		'who is in an exalted place'?
+302	A-ba-la				Abala[]PN		sandhi for AbaʾAlla?
+303	A-ba-la-ca			Aballaša[]PN		= Aballašum?
+304	A-ba-lu5			Abaluge[]PN		RA 10 066 087 r 8 (unkn prov)
+305	A-ba-lugal-mu			Abalugalŋu[]PN		hypo?
+306	A-ba-lugal-mu-gen7		Abalugalŋugin[]PN
+307	A-ba-mu				Abbaŋu[]PN		or, Abaŋu 'my whoever'?
+308	A-ba-na				Abbanak[]PN
+309	A-ba-na-ak-tum			Abanaktum[]PN
+310	A-ba-nam-DU			A.ba.nam.DU[]PN
+311	A-ba-nam-DU-in			A.ba.nam.DU[]PN
+312	A-ba-nam-TAG-i3-BAD		Abanamtaginuš[]PN	uncertain; 'who has blocked wrongdoing'? (BAD = uš₂ 'to block'?)
+313	A-ba-nam-TAG-in-BAD		Abanamtaginuš[]PN
+314	A-ba-nan-tag-in-BAD		Abanamtaginuš[]PN	typo (UET 3, 1040 r iii 1: nan for nam)
+315	A-ba-ne-gen7			Abaʾenegin[]PN
+316	A-ba-ne-gen7-ce3		Abaʾenegin[]PN
+317	A-ba-ne2-si3-ge			Abaʾinesege[]PN		= A-ba-an-ne2-si3-ge?
+318	A-ba-ni				Abani[]PN		hypo, or 'who is he'?
+319	A-ba-ni-DINGIR			Abbanidiŋir[]PN		uncertain (unkn prov); 'his father is god'?
+320	A-ba-ni-a			Abaniʾa[]PN		hypo
+321	A-ba-ni-da-NE-ke4		Abaʾindane[]PN
+322	A-ba-ni-si3-ge			Abaʾinesege[]PN		= A-ba-an-ne2-si3-ge?
+323	A-ba-nin-gen7			Abaningin[]PN
+324	A-ba-nin-mu-gen7		Abaninŋugin[]PN
+325	A-ba-ra				Abara[]PN		= Abari?
+326	A-ba-ri				Abari[]PN		= Abara?
+327	A-ba-ri-cum			Abarišum[]PN
+328	A-ba-sa6			Abbasaga[]PN		or, Abasaga 'who is good'?
+329	A-ba-sa6-ga			Abbasaga[]PN
+330	A-ba-sa6-ga-ta			Abbasaga[]PN
+331	A-ba-sig5			Abbasaga[]PN
+332	A-ba-su-na			Abasuna[]PN		uncertain (1 Girsu); 'who is in his skin'?
+333	A-ba-sukud			Abbasukud[]PN		or, Abasukud 'who is tall'?
+334	A-ba-ti				Abbatil[]PN		or Abati/Abatil (2 Girsu, 1 Irisaŋrig); possibly 2 distinct names
+335	A-ba-ti-in			Abbatil[]PN		uncertain (1 unkn prov)
+336	A-ba-zi-ka			Abaziga[]PN
+337	A-ba-zu				Abazu[]PN		'who are you'?
+338	A-ba-{d}Ba-u2-gen7		AbaBaʾugen[]PN
+339	A-ba-{d}Cara2			AbaŠara[]PN		hypo?
+340	A-ba-{d}Cara2-gen7		AbaŠaragin[]PN
+341	A-ba-{d}Cara2-gen7-ta		AbaŠaragin[]PN
+342	A-ba-{d}Cara2-ta		AbaŠara[]PN
+343	A-ba-{d}Cul-gi-gen7		AbaŠulgirgin[]PN
+344	A-ba-{d}Dumu-zi-gen7		AbaDumuzidgin[]PN
+345	A-ba-{d}En-lil2			AbaʾEnlil[]PN		hypo?
+346	A-ba-{d}En-lil2-gen7		AbaʾEnlilgin[]PN
+347	A-ba-{d}En-lil2-gen7-ce3	AbaʾEnlilgin[]PN
+348	A-ba-{d}En-lil2-gen7-ta		AbaʾEnlilgin[]PN
+349	A-ba-{d}En-lil2-la2		AbaʾEnlil[]PN		hypo? (1 Umma)
+350	A-ba-{d}En-lil2-la2-gen7	AbaʾEnlilgin[]PN
+351	A-ba-{d}En-lil2-la2-gen7-ta	AbaʾEnlilgin[]PN
+352	A-ba-{d}Lamma-gen7		AbaLamargin[]PN
+353	A-ba-{d}Nanna			AbaNanna[]PN		hypo?
+354	A-ba-{d}Nanna-gen7		AbaNanagin[]PN
+355	A-ba-{d}Nin-MAR.KI-gen7		A.ba.{d}Nin.MAR.KI.gin₇[]PN
+356	A-ba-{d}Nin-dar-a-gen7		AbaNindaragin[]PN
+357	A-ba-{d}Nin-gal-gen7		AbaNingalgin[]PN
+358	A-ba-{d}Nin-gir2-su-gen7	AbaNinŋirsukgin[]PN
+359	A-ba-{d}Utu-gen7		AbaʾUtugin[]PN
+360	A-ba-{d}en-lil2-gen7		AbaʾEnlilgin[]PN
+361	A-bar-cum			Abaršum[]PN		= Abarša?
+362	A-bi				Abi[]PN			hypo?
+363	A-bi-DU10			Abiṭab[]PN
+364	A-bi-a				Abiʾa[]PN
+365	A-bi-a-a			Abiʾa[]PN		or, AbiʾAya?; = Abaʾaya?
+366	A-bi-a-bi-ih			AbiʾEbih[]PN
+367	A-bi-a-ti			Abiʾati[]PN
+368	A-bi-ba-num2			Abibanum[]PN
+369	A-bi-bi-a			Abibiʾa[]PN
+370	A-bi-ca-ru-um			Abišarrum[]PN		Ashm. 1932-283 o 4: a-bi-ša-ru-um-E₃ (phonetic for agent?)
+371	A-bi-ca-ru-um-e			Abišarrum[]PN		Ashm. 1932-283 r 1: a-bi-ša-ru-um-E (agent)
+372	A-bi-du10			Abiṭab[]PN
+373	A-bi-ga-ru-e			Abikaruʾe[]PN		Akk.: my father is short? (< karû 'short'); or, my father is a GUR₇?
+374	A-bi-i3-li2			Abiʾili[]PN
+375	A-bi-in-za			Abinza[]PN
+376	A-bi-la				Abila[]PN
+377	A-bi-la-ak-ta			Abila[]PN
+378	A-bi-li-bur			Abilibur[]PN
+379	A-bi-ma				Abima[]PN
+380	A-bi-ma-a			Abima[]PN
+381	A-bi-nu-ri			Abinuri[]PN
+382	A-bi-nu-um			Abinum[]PN
+383	A-bi-si2-im-ti			Abisimti[]PN
+384	A-bi-{d}UTU{ci}			AbiŠamši[]PN
+385	A-bi2				Abi[]PN			hypo?; = Abiʾa?
+386	A-bi2-				A.bi₂.[...][]PN
+387	A-bi2-AN			Abiʾili[]PN		or, Abiʾilum
+388	A-bi2-DINGIR			Abiʾili[]PN		or, Abiʾilum
+389	A-bi2-DINGIR-su			A.bi₂.DINGIR.su[]PN	is sfx SU used for ŠU (ie, Abi-ilišu)?
+390	A-bi2-DU10			Abiṭab[]PN
+391	A-bi2-DU10-ta			Abiṭab[]PN
+392	A-bi2-E2			A.bi₂.E₂[]PN		father of the house?
+393	A-bi2-GIC			A.bi₂.GIŠ[]PN
+394	A-bi2-KAL			Abidan[]PN
+395	A-bi2-NE.NE			A.bi₂.NE.NE[]PN
+396	A-bi2-SIG5			Abiṭab[]PN		uncertain (1 Umma)
+397	A-bi2-UD			Abiʾellum[]PN
+398	A-bi2-UD.IC			A.bi₂.UD.IŠ[]PN		AbiŠamšiš 'my father is like the sun'?
+399	A-bi2-a				Abiʾa[]PN		hypo?; or, Abiya?
+400	A-bi2-a-bi-ah			AbiʾEbih[]PN
+401	A-bi2-a-bi2-ah			AbiʾEbih[]PN
+402	A-bi2-a-hi			Abiʾahi[]PN
+403	A-bi2-a-li2			Abiʾali[]PN
+404	A-bi2-a-mu-ti			Abiʾamuti[]PN
+405	A-bi2-a-num2			AbiʾAnum[]PN
+406	A-bi2-a-pi-ih			AbiʾEbih[]PN
+407	A-bi2-a-ta			Abiʾa[]PN		or, Abiya?
+408	A-bi2-a-ti			Abiʾati[]PN
+409	A-bi2-a-ti-ka			Abiʾati[]PN
+410	A-bi2-a-ti-kam			Abiʾati[]PN
+411	A-bi2-a-ti-ke4			Abiʾati[]PN
+412	A-bi2-a-ti-ta			Abiʾati[]PN
+413	A-bi2-ba-na{ki}			Abibana[]SN
+414	A-bi2-ba-ni			Abibani[]PN
+415	A-bi2-ce-im-ti			Abisimti[]PN		typo: Nisaba 15, 0455 o 4: a-bi2-si2-im-ti nin
+416	A-bi2-cu			Abišu[]PN
+417	A-bi2-da			Abida[]PN		hypo?
+418	A-bi2-dam			Abidam[]PN
+419	A-bi2-e-lum			Abiʾellum[]PN
+420	A-bi2-hu-um			Abihum[]PN		for Ebihum?
+421	A-bi2-i3-li2			Abiʾili[]PN
+422	A-bi2-ic-ki-in			Abiʾiškin[]PN		what vb is this?
+423	A-bi2-ic-qi2-il			Abiʾišqil[]PN		what vb is this?
+424	A-bi2-in-tu-ni			Abintuni[]PN
+425	A-bi2-ki-in			Abikin[]PN
+426	A-bi2-ki-me-am3			Abikimeʾam[]PN		PPAC 4, 267 o iii 7'; are all elements part of name?
+427	A-bi2-ku-num2			Abikunnum[]PN
+428	A-bi2-ma			Abima[]PN
+429	A-bi2-ma-ta			Abima[]PN
+430	A-bi2-na-ni			Abinani[]PN		1 Nippur (seal)
+431	A-bi2-nin-am3			A.bi₂.NIN[]PN		PPAC 5, 0284 r iii 16 (Girsu)
+432	A-bi2-nu-a			Abinuʾa[]PN
+433	A-bi2-nu-ri			Abinuri[]PN
+434	A-bi2-ri-syi			Abireṣi[]PN
+435	A-bi2-sa-ad			Abisatum[]PN		= Abišadû '(my) father is a mountain'
+436	A-bi2-sa-du			Abisatum[]PN		= Abišadû '(my) father is a mountain'
+437	A-bi2-sa-tum			Abisatum[]PN		= Abišadû '(my) father is a mountain'
+438	A-bi2-sa6-sa6			A.bi₂.ŠA₆.ŠA₆[]PN	= Abidummuq '(my) father is very good'?
+439	A-bi2-si-im-ti			Abisimti[]PN
+440	A-bi2-si-in-DI			Abisimti[]PN
+441	A-bi2-si-ni-DI			Abisimti[]PN
+442	A-bi2-si2-bi-ti			Abisibitti[]PN
+443	A-bi2-si2-im-de3		Abisimti[]PN
+444	A-bi2-si2-im-ti			Abisimti[]PN
+445	A-bi2-si2-im-ti-		unkn			probly broken context
+446	A-bi2-si2-im-ti-ce3		Abisimti[]PN
+447	A-bi2-si2-im-ti-e		Abisimti[]PN
+448	A-bi2-si2-im-ti-kam		Abisimti[]PN
+449	A-bi2-si2-im-ti-ra		Abisimti[]PN
+450	A-bi2-si2-im-ti-ta		Abisimti[]PN
+451	A-bi2-ta			Abi[]PN
+452	A-bi2-tu-kul2-ti		Abitukulti[]PN
+453	A-bi2-tum			Abitum[]PN
+454	A-bi2-tum-e			Abitum[]PN
+455	A-bi2-tya-ab			Abiṭab[]PN
+456	A-bi2-zu			Abizu[]PN
+457	A-bi2-zu-zi			Abizuzi[]PN
+458	A-bi2-{d}En-lil2		AbiʾEnlil[]PN
+459	A-bi2-{d}Suen			AbiSuʾen[]PN
+460	A-bi2-{d}UTU			AbiŠamaš[]PN
+461	A-bi2a				unkn			typo; probly Abiʾa
+462	A-bi3-DU10			Huwawa[]PN		BM 113667 o 6: hu?#-PI-PI (Umma)
+463	A-bu				Abu[]PN			hypo?
+464	A-bu-DIB-NI			A.bu.DIB.NI[]PN		= Abudapni 'father is my hero'?
+465	A-bu-DINGIR			Abuʾilum[]PN
+466	A-bu-DU10			Abuṭab
+467	A-bu-DU10-ce3			Abuṭab
+468	A-bu-DU10-ta			Abuṭab
+469	A-bu-DU10-um			Abuṭabum[]PN
+470	A-bu-PI				A.bu.PI[]PN		(1 Susa)
+471	A-bu-ZA				A.bu.ZA[]PN		3 PD
+472	A-bu-a				Abuʾa[]PN
+473	A-bu-an-ne2			A.bu.an.NI[]PN		1 Girsu
+474	A-bu-ba-gar3			Abuwaqar[]PN
+475	A-bu-ba-ni			Abubani[]PN
+476	A-bu-bu				Abubu[]PN
+477	A-bu-cu				Abušu[]PN
+478	A-bu-cu-ni			Abušuni[]PN		14 out of 18 < Irisaŋrig
+479	A-bu-cu-nu			Abušunu[]PN		= Abušuni?; 1 < Irisaŋrig
+480	A-bu-da				Agida[]PN
+481	A-bu-da-a			Agida[]PN
+482	A-bu-da-ab			Abuṭab[]PN
+483	A-bu-da-ab2			Abuṭab[]PN
+484	A-bu-du10			Abuṭab[]PN
+485	A-bu-du8			A.bu.DU₈[]PN		MDP 14 096 49 o 2 (Susa); = A-bu-DU10?
+486	A-bu-i3-lum			Abumilum[]PN
+487	A-bu-la-ad{ki}			Abulad[]SN
+488	A-bu-ma				Abuma[]PN
+489	A-bu-mi-DINGIR			Abumilum[]PN
+490	A-bu-mi-lum			Abumilum[]PN
+491	A-bu-mi-um			Abumiʾum[]PN
+492	A-bu-mu				Abuŋu[]PN
+493	A-bu-na				Abuna[]PN		= Abuni (3 PD)?
+494	A-bu-ni				Abuni[]PN		= Abuna?
+495	A-bu-ni-a			Abuniʾa[]PN
+496	A-bu-ni-cu			Abunišu[]PN
+497	A-bu-ni-ka			Abuni[]PN
+498	A-bu-ni-ma			Abunima[]PN
+499	A-bu-ni-ra			Abuni[]PN
+500	A-bu-ni-ta			Abuni[]PN
+501	A-bu-nu-gen7			Abunugin[]PN
+502	A-bu-u3-ta			Abu[]PN			or, Abuʾu
+503	A-bu-um				Abu[]PN
+504	A-bu-um-DINGIR			Abumilum[]PN
+505	A-bu-um-DINGIR-ce3		Abumilum[]PN
+506	A-bu-um-DINGIR-ma		Abumilum[]PN
+507	A-bu-um-DINGIR-su2		A.bu.um.DINGIR.su₂[]PN	1 PD
+508	A-bu-um-DINGIR-ta		Abumilum[]PN
+509	A-bu-um-DINGIR{lum}		Abumilum[]PN
+510	A-bu-um-ba-qar			Abuwaqar[]PN
+511	A-bu-um-ce3			Abu[]PN
+512	A-bu-um-i3-li2			Abumilum[]PN
+513	A-bu-um-i3-lum			Abumilum[]PN
+514	A-bu-um-ma			Abuma[]PN
+515	A-bu-um-mi-car			Abumišar[]PN
+516	A-bu-um-mi-car3			Abumišar[]PN
+517	A-bu-um-{d}Dumu-zi		AbuDumuzi[]PN
+518	A-bu-zu-ni			Abuzuni[]PN
+519	A-bu-{da}DU10			Abuṭab[]PN
+520	A-bu-{ta3}DU10			Abuṭab[]PN
+521	A-bu3				Abu[]PN
+522	A-bu3-DA-UM			A.bu₃.DA.UM[]PN		BM 098218 r 9: A-bu3-DA-UM?# (Girsu; translit only); possibly Abuṭab
+523	A-bu3-LUGAL			Abušarrum[]PN
+524	A-bu3-a				Abuʾa[]PN
+525	A-bu3-bu2			Abubu[]PN
+526	A-bu3-bu3			Abubu[]PN
+527	A-bu3-cu-ni			Abušuni[]PN
+528	A-bu3-cu-ni-ta			Abušuni[]PN
+529	A-bu3-da			Abuda[]PN
+530	A-bu3-du10			Abuṭab[]PN
+531	A-bu3-i-car			Abumišar[]PN
+532	A-bu3-ni			Abuni[]PN
+533	A-bu3-tya-ab			Abuṭab[]PN
+534	A-bu3-um-ba-qar			Abuwaqar[]PN
+535	A-bu-hu-um-me-lum		Abuhumelum[]PN
+536	A-cE				not PN			HSS 04 005 o iv 9: 2 {ŋeš}banšur asalₓ(A.TU#) (Girsu; photo/copy)
+537	A-ca-ti-nu-ri			Ašatinuri[]PN
+538	A-ca3				Ašag[]PN
+539	A-ca3-zu-um			Ašazum[]PN		1 Umma
+540	A-ci-AN				ErAnak[]PN
+541	A-ci-AN-ce3			ErAnak[]PN
+542	A-ci-AN-e			ErAnak[]PN
+543	A-ci-AN-ka			ErAnak[]PN
+544	A-ci-AN-ta			ErAnak[]PN
+545	A-ci-an				ErAnak[]PN
+546	A-ci-ba-tal			Ašipatal[]PN		Hurrian
+547	A-ci-ma-num2{ki}		Ašimanum[]SN
+548	A-ci:an				ErAna[]PN
+549	A-cir{ki}			Aššur[]SN
+550	A-cu-ki-ni			Ašukini[]PN
+551	A-cum{ki}-ce3			Ašum[]SN
+552	A-cur4{ki}			Aššur[]SN
+553	A-cur5				Aššur[]SN
+554	A-cur5-ra-ce3			Aššur[]SN
+555	A-cur5-ra{ki}			Aššur[]SN
+556	A-cur5{ki}			Aššur[]SN
+557	A-cur6				Aššur[]SN
+558	A-cur{ki}			Aššur[]SN
+559	A-da				Adda[]PN
+560	A-da-DU-mu			A.da.DU.ŋu₁₀[]PN
+561	A-da-a				Adda[]PN
+562	A-da-a-gal			Addagal[]PN		1 Girsu
+563	A-da-ab-a-ti-cu			Adabatišu[]PN		1 Irisaŋrig
+564	A-da-ah				Adah[]PN
+565	A-da-al-ce-en6			Adalšen[]PN		Hurrian
+566	A-da-am				Adam[]PN		= Adama (Umma)?
+567	A-da-ba-ni			Addabani[]PN		Adad is my fashioner?; or, Abubani 'father is my fashioner'?
+568	A-da-be-li2			I.DA.be.li₂[]PN		UCP 9-2-2 007 o 4: ki I-da-be-li2 (Umma; photo/copy)		
+569	A-da-ci-in			Adalšen[]PN		Hurrian
+570	A-da-cum{ki}-ma			Adašum[]SN
+571	A-da-da				Adada[]PN
+572	A-da-du				Adadu[]PN
+573	A-da-dub-ki			A.da.DUB.KI[]PN		1 unkn prov
+574	A-da-ga				Adaga[]PN
+575	A-da-ga-an			A.da.ga.AN[]PN		1 Umma
+576	A-da-ga-ce3			Adaga[]PN
+577	A-da-ga-ta			Adaga[]PN
+578	A-da-gal			Adaggal[]PN		all PD
+579	A-da-gal-cum			Adaggalšum[]PN		3 PD
+580	A-da-gal-cum-e			Adaggalšum[]PN		1 PD
+581	A-da-gal-di			Addagaldi[]PN
+582	A-da-gara2-e			Addagara[]PN
+583	A-da-gu-la			Addagula[]PN
+584	A-da-hi				Addadug[]PN
+585	A-da-ka-al-la			Addakalag[]PN
+586	A-da-kal-la			Addakalag[]PN
+587	A-da-la2-a			Addalal[]PN
+588	A-da-lal			Addalal[]PN
+589	A-da-lal3			Addalal[]PN
+590	A-da-lal3-a			Addalal[]PN
+591	A-da-lal3-bi			Addalalbi[]PN
+592	A-da-lal3-ce3			Addalal[]PN
+593	A-da-lal3-e			Addalal[]PN
+594	A-da-lal3-me			Addalal[]PN
+595	A-da-lal3-ta			Addalal[]PN
+596	A-da-lal3{ki}			Addalal[]SN		typo: BPOA 2 2552 o 8: 1/2 A-da-lal3 ki Ur-{d}Šara2-ta
+597	A-da-ma				Adama[]PN		= Adam (Umma)?
+598	A-da-me-na			Adamena[]PN		= Adameni (Umma)?
+599	A-da-me-ni			Adameni[]PN		= Adamena (Nippur)?
+600	A-da-mu				Addaŋu[]PN
+601	A-da-mu-ce3			Addaŋu[]PN
+602	A-da-na-bi-ir			Adanabir[]PN		< ebēru Gtn? (1 Umma)
+603	A-da-nam			Addanam[]PN
+604	A-da-ni				Addani[]PN
+605	A-da-ni-ta			Addani[]PN
+606	A-da-ra				Adda[]PN
+607	A-da-ra-hu-uh3{ki}		Adarahuh[]SN
+608	A-da-ra{ki}			Adara[]SN
+609	A-da-ru-um			Adarum[]PN
+610	A-da-si-in			AddaSuʾen[]PN		1 Girsu
+611	A-da-ta				Adda[]PN
+612	A-da-ti				Adati[]PN		= Adatum?
+613	A-da-ti-ta			Adati[]PN
+614	A-da-tum			Adatum[]PN		= Adati?
+615	A-dam-DUN			A.dam.DUN[]SN		= Elam (generally in context with Susa; = Elamite Haltamti)?
+616	A-dam-DUN-ce3			A.dam.DUN[]SN
+617	A-dam-DUN-ke4			A.dam.DUN[]SN
+618	A-dam-DUN-ta			A.dam.DUN[]SN
+619	A-dam-DUN{ki}			A.dam.DUN[]SN
+620	A-dam-DUN{ki}-ce3		A.dam.DUN[]SN
+621	A-dam-DUN{ki}-ka		A.dam.DUN[]SN
+622	A-dam-DUN{ki}-ke4		A.dam.DUN[]SN
+623	A-dam-DUN{ki}-me		A.dam.DUN[]SN
+624	A-dam-DUN{ki}-ta		A.dam.DUN[]SN
+625	A-dan-na			Adana[]PN		Nisaba 15/2 0105 r 1: A?-dan?-na lu2-kin-/gi4-a lugal (Irisaŋrig)
+626	A-dar				Adar[]PN
+627	A-dar-cen			Adaršen[]PN
+628	A-di-a				Adiʾa[]PN
+629	A-di3-na-dum			Adinadum[]PN
+630	A-dingir			A.AN[]PN		= Ayadiŋir? (2 Umma)
+631	A-du				Adu[]PN			A-ra₂?
+632	A-du-a				Aduʾa[]PN		BM 105689 r 3: A?-du-a (copy); 3 citations for A-du-a-a (CUSAS 3)
+633	A-du-ce3			Adu[]PN
+634	A-du-du				Adudu[]PN
+635	A-du-lu2			Adulu[]PN		1 Umma
+636	A-du-lu2'			Adulu[]PN		typo; should be deleted (= 00635)
+637	A-du-ma				Aduma[]PN
+638	A-du-na2			Aduna[]PN		Adunud? (2? Umma)
+639	A-du-ta				Adu[]PN
+640	A-du-tum			Adutum[]PN
+641	A-du10				Ayaduga[]PN
+642	A-du10-ga			Ayaduga[]PN
+643	A-du10-ka			Ayaduga[]PN
+644	A-du11-ge-bi			Ayadugebi[]PN		1 Girsu
+645	A-du6-ki			A.du₆.ki[]PN		Nisaba 06 26 viii 16' (1 Umma)
+646	A-du8-du8			Adudu[]PN
+647	A-dul9-la-ti			Adulatil[]PN
+648	A-e-bar				Aʾebar[]SN
+649	A-e-bar-ka			Aʾebar[]SN
+650	A-e-bar-ka{ki}			Aʾebar[]SN
+651	A-e-bar-ra			Aʾebar[]SN
+652	A-e-bar-ra-ka			Aʾebar[]SN
+653	A-e-bar-ra{ki}			Aʾebar[]SN
+654	A-e-bar-ra{ki}-ce3		Aʾebar[]SN
+655	A-e-bar{ki}			Aʾebar[]SN
+656	A-e-bar{ki}-ka			Aʾebar[]SN
+657	A-e-li2				Aʾeli[]PN
+658	A-esir2-had2			not PN			BM 105552 o 1 (copy): 58 gu₂ esir₂-had₂ (collated A.LAGAB×KUL?)
+659	A-ga				Aga[]PN
+660	A-ga-ARAD2-ce3			A.ga.ARAD[]PN		BM 025094 o 9 (photo seems to show ARAD)
+661	A-ga-NI				Agani[]PN
+662	A-ga-a				Aga[]PN
+663	A-ga-a-ta			Aga[]PN
+664	A-ga-am				Agam[]PN
+665	A-ga-am-me			Agam[]PN
+666	A-ga-da-ni			Agadani[]PN
+667	A-ga-de3			Agade[]SN
+668	A-ga-de3{ki}			Agade[]SN
+669	A-ga-de3{ki}|			Agade[]SN		typo; should be deleted (= 00668)
+670	A-ga-ga				Agaga[]PN
+671	A-ga-ga-ce3			Agaga[]PN
+672	A-ga-ga-ta			Agaga[]PN
+673	A-ga-ga{ki}-me			Agaga[]SN
+674	A-ga-hu-ce3			Agahu[]PN
+675	A-ga-lum			Agalum[]PN
+676	A-ga-ma-a			Agama[]PN		Agamaya or Agamaʾa?
+677	A-ga-mu-um			Agamum[]PN
+678	A-ga-mu-um-ta			Agamum[]PN
+679	A-ga-tar-sir2-sir2		Agatarsirsir[]PN
+680	A-ga-ti				Agatila[]PN		all Garshana; not Sum.?; = Agati/Agatum?
+681	A-ga-ti-a			Agatila[]PN		6 Garshana; 2 Umma; 3 < Šāt-Eštar Arch.
+682	A-ga-ti-ma			Agatima[]PN		= Agatila?; NYPLC 452 o 1 (SI.A-a Arch.); -ma is emphatic?
+683	A-ga-tum			Agatum[]PN		= Agati?
+684	A-gal-zi			Agalzi[]PN		= Agalziga? (13 out of 14 Umma)
+685	A-gal-zi-ga			Agalziga[]PN		PPAC 5 0957 o 3: A-gal-zi-ga? (Umma)
+686	A-gar3-TUR.TUR			A.gar₃.TUR.TUR[]SN	probly generic 'small meadows'
+687	A-gar3-Umma{ki}-ta		AgarUmma[]SN		generic 'from Umma-meadows'?
+688	A-gar3-gibil			Agargibil[]SN		probly generic 'new/fresh meadows'
+689	A-gaz{ki}			Agaz[]SN
+690	A-ge				Ayagina[]PN		or, Ayagin, Agina
+691	A-ge-na				Ayagina[]PN
+692	A-ge-na-ce3			Ayagina[]PN
+693	A-gectin			Aŋeštin[]PN
+694	A-gectin-na			Aŋeštin[]PN
+695	A-gi				Ayagina[]PN
+696	A-gi-gi				Agigi[]PN
+697	A-gi-li-ta			Agili[]PN
+698	A-gi-pu-um			Agipum[]PN
+699	A-gi-ze2-ta			Agize[]SN		Girsu
+700	A-gi-zi2{ki}-ta			Agize[]SN		Girsu
+701	A-gi4				Agi[]PN
+702	A-gi4-a				Agiʾa[]PN
+703	A-gi4-ce3			Agi[]PN
+704	A-gi4-gi4			Agigi[]PN
+705	A-gi4-ta			Agi[]PN
+706	A-gid2-da			Agida[]PN
+707	A-gin2-ni-ta			Alli[]PN		BCT 2, 144 r 2: ki A-al#-li₂-ta# (Umma; photo/copy)
+708	A-gizi				unkn			BM 113792 r 11: A-gi#/zi# (Umma); GI or ZI (needs coll.)
+709	A-gu				Agu[]PN
+710	A-gu-				unkn			1739 possibilities
+711	A-gu-a				Aguʾa[]PN
+712	A-gu-a-NI			Aguʾali[]PN		1 PD, 1 Umma, 1 Ur
+713	A-gu-a-li2			Aguʾali[]PN		2 PD
+714	A-gu-a-me			Aguʾa[]PN
+715	A-gu-a-mu			Aguʾaŋu[]PN
+716	A-gu-a-ni			Aguʾali[]PN		1 PD, 1 Ur
+717	A-gu-a-nu-ri			Aguʾanuri[]PN
+718	A-gu-a-si2-im-ti		Aguʾasimti[]PN
+719	A-gu-a-ta			Aguʾa[]PN
+720	A-gu-a-ti			Aguʾati[]PN
+721	A-gu-ce3			Agu[]PN
+722	A-gu-da				Aguda[]PN
+723	A-gu-du				Agudu[]PN
+724	A-gu-du-du			Agududu[]PN
+725	A-gu-du-ta			Agudu[]PN
+726	A-gu-gu				Agugu[]PN
+727	A-gu-gu-a			Aguguʾa[]PN		1 Umma, 1 Girsu
+728	A-gu-gu-ce3			Agugu[]PN
+729	A-gu-gu-ka-ce3			Agugu[]PN
+730	A-gu-gu-ni			Aguguni[]PN		2 Girsu
+731	A-gu-gu-ta			Agugu[]PN
+732	A-gu-gu-tum			Agugutum[]PN
+733	A-gu-ka				Agu[]PN
+734	A-gu-ni				Aguni[]PN		= Ayaguni (2 Girsu)?
+735	A-gu-ni-cu			Agunišu[]PN		1 Girsu
+736	A-gu-nu-um			Agunum[]PN
+737	A-gu-ta				Agu[]PN
+738	A-gu-za				Aguza[]PN
+739	A-gu-za-an			Aguzanum[]PN		1 Umma (messenger)
+740	A-gu-za-ar			Aguzar[]PN
+741	A-gu-za-na			Aguzana[]PN		= Aguzanum (1 Umma)?
+742	A-gu-za-num2			Aguzanum[]PN		1 Umma (messenger)
+743	A-gu-zum			Aguzum[]PN
+744	A-gu2-zi			Aguzi[]PN
+745	A-gu2-zi-me			Aguzi[]PN
+746	A-gu3				not PN			syntax; in phrase a-gu₃ PN(-e) ba(-a)-ŋar (Umma)
+747	A-gub-ba			Aguba[]PN		= Agube?
+748	A-gub-ba-bi			Agubabi[]PN
+749	A-gub-ba-ga			Agubaga[]PN
+750	A-gub-ba-na			Agubana[]PN
+751	A-gub-ba-na-ta			Agubana[]PN
+752	A-gub-be2			Agube[]PN		OrSP 47-49 218 seal 1: A-gub?-be2 (copy); photo shows upside down DU (Umma)
+753	A-gur4-HU			A.gur₄.HU[]PN		= A.gur₄.RI?; MVN 06 338 r 10: dumu A-gur4-HU [...] (Girsu; translit only)
+754	A-gur4-re			A.gur₄.RI[]PN		= A.gur₄.HU?; MVN 06 338 r 9: dumu A-gur4-re# [...] (Girsu; translit only)
+755	A-ha-a				Aha[]PN			Ahaʾa or Ahaya?
+756	A-ha-a-tum			Ahatum[]PN
+757	A-ha-am-ar-ci			Ahamarši[]PN
+758	A-ha-am-ar-ci2			Ahamarši[]PN
+759	A-ha-am-wa-qar			Ahamwaqar[]PN
+760	A-ha-an-ci-bu			Ahanšibu[]PN
+761	A-ha-an-ci-bu-			Ahanšibu[]PN		UTI 6 3790 o 11: 1c A-ha-an-ši-bu-x-x? (copy); 1st X may be UM?
+762	A-ha-an-ci-pu			Ahanšibu[]PN
+763	A-ha-an-ci2-bu			Ahanšibu[]PN
+764	A-ha-an-ni-cu			Ahanišu[]PN
+765	A-ha-an-ni-cu-ce3		Ahanišu[]PN
+766	A-ha-an-ni-cu-ta		Ahanišu[]PN
+767	A-ha-an-si-pu			Ahanšibu[]PN		1 PD
+768	A-ha-an-ti-bu			Ahantibu[]PN
+769	A-ha-ar-ci-ce3			Aharši[]PN
+770	A-ha-ba-ni			Ahabani[]PN
+771	A-ha-ci-pu			Ahanšibu[]PN		1 PD
+772	A-ha-cu				Ahašum[]PN		1 PD
+773	A-ha-cu-um			Ahašum[]PN		1 PD
+774	A-ha-du10			Ahaṭab[]PN
+775	A-ha-ma-ti			Ayahamatil[]PN
+776	A-ha-ni-ca			Ahaniša[]PN		= Ahanišu?
+777	A-ha-ni-cu			Ahanišu[]PN
+778	A-ha-ni-cu-ta			Ahanišu[]PN
+779	A-ha-ni-zu			Ahanišu[]PN		typo; TRU 050 copy & photo show ŠU
+780	A-ha-ti				Ahati[]PN		= Ahatum?
+781	A-ha-ti-id			Ahatid[]PN		1 PD; CUSAS 3 0352 o 7 (photo shows ID uncertain)
+782	A-ha-tum			Ahatum[]PN
+783	A-ha-zu-um			Ahazum[]PN
+784	A-hi-AN				Ahiʾilum[]PN		or, Ahiʾili?; = Ahilum?
+785	A-hi-DINGIR			Ahiʾilum[]PN
+786	A-hi-DINGIR-ta			Ahiʾilum[]PN
+787	A-hi-a				Ahiʾa[]PN		or, Ahiya; hypo?
+788	A-hi-a-ni			Ahiʾani[]PN
+789	A-hi-ba-ac-ti			Ahibašti[]PN		3 Garshana, 2 Umma
+790	A-hi-ba-ac2-ti			Ahibašti[]PN		2 Garshana
+791	A-hi-ba-ca-at			Ahibašti[]PN		1 Garshana
+792	A-hi-li2-bi			Ahilibbi[]PN
+793	A-hi-lum			Ahilum[]PN		= Ahiʾilum?
+794	A-hi-ma				Ahima[]PN
+795	A-hi-ma-ra			Ahima[]PN
+796	A-hi-ma-ta			Ahima[]PN
+797	A-hi-mi-lum			Ahimilum[]PN
+798	A-hi-si2-im-ti			Ahisimti[]PN
+799	A-hi-u3				Ahiʾu[]PN		1 Nippur
+800	A-hu-AN.AN			A.hu.AN.AN[]PN		1 Girsu (BM 019782 r 9; photo)
+801	A-hu-BU				A.hu.BU[]PN		1 Umma (messenger)
+802	A-hu-DINGIR			Ahuʾilum[]PN		or, Ahuʾili?
+803	A-hu-DU10			Ahuṭab[]PN
+804	A-hu-DU10-ce3			Ahuṭab[]PN
+805	A-hu-DU10-ta			Ahuṭab[]PN
+806	A-hu-LUM-ma			A.hu.LUM.ma[]PN
+807	A-hu-NE.LUM			A.hu.NE.LUM[]PN		Ahubinum 'brother is a son'?
+808	A-hu-We-er			AhuWer[]PN
+809	A-hu-We-er--ta			AhuWer[]PN		typo
+810	A-hu-We-er-ce3			AhuWer[]PN
+811	A-hu-We-er-ta			AhuWer[]PN
+812	A-hu-a				Ahuʾa[]PN		hypo?
+813	A-hu-a-AN			A.hu.a.AN[]PN		Ahuʾaʾilum '(my) brother is a god'?
+814	A-hu-a-DINGIR			A.hu.a.DINGIR[]PN	Ahuʾaʾilum '(my) brother is a god'?
+815	A-hu-a-a			Ahuʾaya[]PN		hypo?
+816	A-hu-a-bi2			Ahuʾabi[]PN
+817	A-hu-a-ce3			Ahuʾa[]PN
+818	A-hu-a-cu-ni			Ahuʾašuni[]PN		1 Girsu (messenger)
+819	A-hu-a-du10			Ahuʾahi[]PN		or, Ahuʾaṭab
+820	A-hu-a-du10-e			Ahuʾahi[]PN		or, Ahuʾaṭab
+821	A-hu-a-ga			Ahuʾaga[]PN
+822	A-hu-a-hi			Ahuʾahi[]PN		or, Ahuʾaṭab
+823	A-hu-a-ka			Ahuʾa[]PN
+824	A-hu-a-ke4			Ahuʾa[]PN
+825	A-hu-a-me			Ahuʾa[]PN
+826	A-hu-a-mu			Ahuʾaŋu[]PN		1 Girsu
+827	A-hu-a-mur			Ahuʾamur[]PN
+828	A-hu-a-ni			Ahuʾali[]PN
+829	A-hu-a-qar			Ahuwaqar[]PN
+830	A-hu-a-ra			Ahuʾa[]PN
+831	A-hu-a-ta			Ahuʾa[]PN
+832	A-hu-a-tal			Ahuʾatal[]PN		Hurrian? (Akk. A.HU for Hur. šen- 'brother'?)
+833	A-hu-a-ti			Ahuʾati[]PN
+834	A-hu-a-ti-ta			Ahuʾati[]PN
+835	A-hu-am3			Ahuʾam[]PN		1 Umma (messenger)
+836	A-hu-ba				unkn			no citation
+837	A-hu-ba-ca			Ahubaša[]PN
+838	A-hu-ba-har			A.hu.BA.HAR[]PN		= Ahuwaqar?; 3 Girsu (messenger)
+839	A-hu-ba-kid-du			A.hu.ba.KID.DU[]PN	1 Girsu (messenger)
+840	A-hu-ba-ni			Ahubani[]PN
+841	A-hu-ba-qar			Ahuwaqar[]PN
+842	A-hu-ba-qar-ce3			Ahuwaqar[]PN
+843	A-hu-ba-qar-ta			Ahuwaqar[]PN
+844	A-hu-ba-qar3			Ahuwaqar[]PN		qar3 typo for gar3
+845	A-hu-ca-tu			Ahušatum[]PN
+846	A-hu-ca-tum			Ahušatum[]PN
+847	A-hu-cu-ni			Ahušuni[]PN
+848	A-hu-cu-ni-ZE2			A.hu.šu.ni.ZE₂[]PN	1 PD (SET 063 77; translit only)
+849	A-hu-cu-ni-ta			Ahušuni[]PN
+850	A-hu-cu-u2			Ahušu[]PN		or, Ahušuʾu?
+851	A-hu-hi				Ahuṭab[]PN
+852	A-hu-i3-li2			Ahuʾili[]PN		1 Girsu
+853	A-hu-i3-lum			Ahuʾilum[]PN
+854	A-hu-ki-in			Ahukin[]PN
+855	A-hu-la				Ahula[]PN		BM 105687 r 9: (provisions) A-hu-la?# (Umma; translit only)
+856	A-hu-la-an			Ahulan[]PN		1 Umma
+857	A-hu-lum			Ahulum[]PN		1 Nippur
+858	A-hu-ma				Ahuma[]PN
+859	A-hu-ma-a			Ahuma[]PN
+860	A-hu-ma-ce3			Ahuma[]PN
+861	A-hu-ma-ni			Ahumani[]PN		AAICAB 1/3, Bod. B 14 (121) seal (unkn prov)
+862	A-hu-me-bi2			Ahumebi[]PN
+863	A-hu-me-me			Ahumeme[]PN
+864	A-hu-mi-lum			Ahumilum[]PN
+865	A-hu-na				Ahuna[]PN
+866	A-hu-ni				Ahuni[]PN
+867	A-hu-ni-ce3			Ahuni[]PN
+868	A-hu-ni-ci			Ahuniši[]PN
+869	A-hu-ni-cu			Ahunišu[]PN
+870	A-hu-ni-cu-ta			Ahunišu[]PN
+871	A-hu-ni-im			Ahunim[]PN		1 PD; gen of Ahunum? (SET 093 o 18: 1 gud kišib A-hu-ni-im)
+872	A-hu-ni-ta			Ahuni[]PN
+873	A-hu-ra-ni			Ahurani[]PN		JAOS 108 120 TA 1931-T622 seal ii 3: dumu A-hu-ra?-ni?
+874	A-hu-sig5			Ahuṭab[]PN		uncertain
+875	A-hu-su-ni			Ahušuni[]PN		IM 092363 o 1: DIŠ A-hu-[S]U?-ni (copy)
+876	A-hu-ti{ki}			Ahuti[]SN
+877	A-hu-tum			Ahutum[]PN
+878	A-hu-u-ni			Ahuni[]PN
+879	A-hu-u-ni-ta			Ahuni[]PN
+880	A-hu-um				Ahum[]PN
+881	A-hu-um-AN			Ahumili[]PN		or, Ahumilum; read Ahu- for Ahum-, etc?
+882	A-hu-um-BA			A.hu.um.BA[]PN
+883	A-hu-um-DINGIR			Ahumili[]PN		or, Ahumilum
+884	A-hu-um-a-hi			Ahumahi[]PN
+885	A-hu-um-ba-ni			Ahumbani[]PN
+886	A-hu-um-ba-qar			Ahumwaqar[]PN
+887	A-hu-um-be-li2			Ahumbeli[]PN
+888	A-hu-um-bu-uk-su		Ahumbuksu[]PN		BM 023222 o 2: A-hu?-um?-bu-uk/-su? (Girsu)
+889	A-hu-um-i3-li2			Ahumili[]PN
+890	A-hu-um-i3-lum			Ahumilum[]PN
+891	A-hu-um-lum			Ahumilum[]PN		2 Girsu (messenger)
+892	A-hu-um-ma			Ahuma[]PN
+893	A-hu-um-ma-ce3			Ahuma[]PN
+894	A-hu-um-ma-ke4			Ahuma[]PN
+895	A-hu-um-ma-ta			Ahuma[]PN
+896	A-hu-um-me-lum			Ahumilum[]PN
+897	A-hu-wa-qar			Ahuwaqar[]PN
+898	A-hu-wa-qar-ra			Ahuwaqar[]PN
+899	A-hu-wa-qar-ta			Ahuwaqar[]PN
+900	A-hu-we-er			AhuWer[]PN
+901	A-hu-we-er-ta			AhuWer[]PN
+902	A-hu-zu				Ahuzu[]PN
+903	A-huc-a				Ahuša[]PN
+904	A-i3-li2			Abuʾili[]PN
+905	A-i3-li2-cu			Abuʾilišu[]PN
+906	A-i3-li2-su			Abuʾilisu[]PN		1 PD, 1 SI.A-a Arch.
+907	A-ia-lum			A.PI.lum[]PN		Awilum?; TIM 3 151 r 1: [x] a-PI-lum (copy)
+908	A-igi-na			Ayaʾigina[]PN
+909	A-ka				A.KA[]PN
+910	A-ka-la				Ayakala[]PN
+911	A-ka-lu2			Akalu[]PN		UTI 5 3188 o iii 13: DIŠ Ra-ni-šu ki [A]-ka-/lu2 (translit)
+912	A-kab-ce-en6-ke4		Akapšen[]PN		Hurrian
+913	A-kab-si-in			Akapšen[]PN
+914	A-kal-a				Ayakala[]PN
+915	A-kal-la			Ayakala[]PN
+916	A-kal-la-a			Ayakala[]PN
+917	A-kal-la-ar			Ayakala[]PN
+918	A-kal-la-ce3			Ayakala[]PN
+919	A-kal-la-ka			Ayakala[]PN
+920	A-kal-la-ka-ce3			Ayakala[]PN
+921	A-kal-la-ke4			Ayakala[]PN
+922	A-kal-la-ke4-ne			Ayakala[]PN
+923	A-kal-la-me			Ayakala[]PN
+924	A-kal-la-mu			Ayakalaŋu[]PN
+925	A-kal-la-ra			Ayakala[]PN
+926	A-kal-la-ta			Ayakala[]PN
+927	A-kal-la-ti			Ayakala[]PN		Orient 16 104 165 r 4: ki a-kal-la-TI (probly mistake for TA)
+928	A-kal-le			Akale[]PN		or, Ayakale
+929	A-kap-ce-en			Akapšen[]PN		Hurrian
+930	A-kar-ni-ic			Akarniš[]PN
+931	A-ki-EN-a			A.ki.EN[]PN		1 A-ki-EN-a, 4 A-ki-EN (all Umma)
+932	A-ki-a				Akiʾa[]PN
+933	A-ki-a-ta			Akiʾa[]PN
+934	A-ki-a-ti-ta			Akiʾati[]PN
+935	A-ki-ca-ar			Akišar[]PN		or, Ayakišar
+936	A-ki-car			Akišar[]PN
+937	A-ki-car-ta			Akišar[]PN
+938	A-ki-lu5-ge2			Ayakiluge[]PN
+939	A-ki-lu5-la			Ayakilula[]PN
+940	A-ki-ma				Akima[]PN
+941	A-ki-tum			Akitum[]PN
+942	A-kir4-zal			Akirizal[]PN		or, Ayakirizal
+943	A-kiri3-zal			Akirizal[]PN
+944	A-ku-a				Akuʾa[]PN
+945	A-ku-da-an			Akudan[]PN
+946	A-ku-ki				Akuki[]PN
+947	A-ku-ni				Akuni[]PN
+948	A-ku-um-mi			Akummi[]PN
+949	A-ku-za				Akuza[]PN
+950	A-ku5-da			Akuda[]PN
+951	A-kun-NE			A.kun.NE[]PN
+952	A-kun-NE-ka			A.kun.NE[]PN
+953	A-kun-NE-ka-ta			A.kun.NE[]PN
+954	A-kun-NE-ta			A.kun.NE[]PN
+955	A-kur-ra			Akura[]PN
+956	A-la				Ala[]PN			Alla?
+957	A-la-HI				A.la.HI[]PN		Allaṭab? (1 Garshana)
+958	A-la-NE				Alabi[]PN		uncertain (1 Nippur)
+959	A-la-a				Ala[]PN
+960	A-la-a-hu-um			Alahum[]PN
+961	A-la-a{ki}-ka			Ala[]SN			1 Girsu
+962	A-la-bi				Alabi[]PN
+963	A-la-ca				Alaša[]PN
+964	A-la-he2-a-ta			Alaheʾa[]PN
+965	A-la-hu-um			Alahum[]PN
+966	A-la-la				Alala[]PN
+967	A-la-la-a			Alala[]PN
+968	A-la-la-ti			Alalati[]PN
+969	A-la-la2			Alala[]PN
+970	A-la-ma				Alama[]PN
+971	A-la-mu				Alaŋu[]PN		Allaŋu?
+972	A-la-mu-ta			Alaŋu[]PN
+973	A-la-ni-tum			Alanitum[]PN
+974	A-la-ru-um			Alarum[]PN
+975	A-la-sum			Alasum[]PN
+976	A-la-ti				Alati[]PN		= Alatu(m)? (1 SI.A-a Arch.)
+977	A-la-tu				Alatu[]PN		= Alatum?/Alati? (1 Irisaŋrig)
+978	A-la-tum			Alatum[]PN		= Alatu?/Alati? (1 Garshana, 4 Tūram-ilī Arch.)
+979	A-la-u3				Alaʾu[]PN		1 Umma
+980	A-la-zum			Alazum[]PN
+981	A-la2				Ala[]PN			Alla?
+982	A-lal3-la-lum			Alalalum[]PN
+983	A-li				Ali[]PN
+984	A-li-UD				A.li.UD[]PN
+985	A-li-UD-ta			A.li.UD[]PN
+986	A-li-a				Aliʾa[]PN		hypo?
+987	A-li-a-hi			Aliʾahi[]PN
+988	A-li-a-hu			Aliʾahu[]PN		1 Girsu; = Aliʾah?
+989	A-li-ah				Aliʾah[]PN		mostly Girsu; = Aliʾahu?
+990	A-li-ah-ce3			Aliʾah[]PN
+991	A-li-ah-ta			Aliʾah[]PN
+992	A-li-ba-ca-at			Alibašat[]PN		= Alibašti?
+993	A-li-ca3-ge			Ališage[]PN
+994	A-li-cu-ni			Ališuni[]PN
+995	A-li-du10			Aliṭab[]PN
+996	A-li-hi				Aliṭab[]PN
+997	A-li-ib				Alib[]PN		1 Umma
+998	A-li-ih				Aliʾah[]PN
+999	A-li-ih-ta			Aliʾah[]PN
+1000	A-li-na-ze2			Alinaze[]PN
+1001	A-li-ud-e			A.li.UD[]PN
+1002	A-li-um-me			Aliʾummi[]PN
+1003	A-li-um-mi			Aliʾummi[]PN
+1004	A-li2				Ali[]PN
+1005	A-li2-AD			Aliʾabi[]PN
+1006	A-li2-DU10			Aliṭab[]PN
+1007	A-li2-We-er			AliWer[]PN
+1008	A-li2-a				Aliʾa[]PN
+1009	A-li2-a-a			Aliʾa[]PN
+1010	A-li2-a-ah			Aliʾah[]PN
+1011	A-li2-a-bi			Aliʾabi[]PN
+1012	A-li2-a-bi2			Aliʾabi[]PN
+1013	A-li2-a-ha-ti			Aliʾahati[]PN
+1014	A-li2-a-hi			Aliʾahi[]PN
+1015	A-li2-a-hi-ce3			Aliʾahi[]PN		
+1016	A-li2-a-hum			Aliʾahum[]PN
+1017	A-li2-a-li2			Aliʾali[]PN
+1018	A-li2-a-mur			Aliʾamur[]PN
+1019	A-li2-a-um			Aliʾaʾum[]PN
+1020	A-li2-ah			Aliʾah[]PN
+1021	A-li2-ah-ha-ca			Aliʾahaša[]PN
+1022	A-li2-ba-ac-ti			Alibašti[]PN
+1023	A-li2-ba-ac2-ti			Alibašti[]PN
+1024	A-li2-ba-la			Alibala[]PN
+1025	A-li2-bi-a			Alibiʾa[]PN		hypo?
+1026	A-li2-cu-ni			Ališuni[]PN
+1027	A-li2-i3-li2			Aliʾili[]PN
+1028	A-li2-id			Alid[]PN		Walid?
+1029	A-li2-id-{d}Suen		AlidSuʾen[]PN		WalidSuʾen?
+1030	A-li2-li2			Alili[]PN		sandhi for Aliʾili?
+1031	A-li2-li2-ce3			Alili[]PN
+1032	A-li2-mu			Aliŋu[]PN
+1033	A-li2-mu-ce3			Aliŋu[]PN
+1034	A-li2-ni			Alili[]PN
+1035	A-li2-ni-			Alili[]PN
+1036	A-li2-ni-KU			A.li₂.ni.KU[]PN
+1037	A-li2-ni-cu			Alilišu[]PN
+1038	A-li2-ni-su			Alilisu[]PN
+1039	A-li2-ni-su-ta			Alilisu[]PN
+1040	A-li2-ni-su2			Alilisu[]PN
+1041	A-li2-ni:cu			Alilišu[]PN
+1042	A-li2-tum			Alitum[]PN
+1043	A-li2-u2-ta2			Aliʾuta[]PN
+1044	A-li2-ud-da			Aliʾuta[]PN
+1045	A-li2-um-mi			Aliʾummi[]PN
+1046	A-li2-wi			Aliwi[]PN
+1047	A-lim-ma-ta			Alima[]PN		1 Garshana
+1048	A-lu-a				Aluʾa[]PN
+1049	A-lu-lu				Alulu[]PN
+1050	A-lu-lu-tum			Alulutum[]PN
+1051	A-lu-lu-tum-me			Alulutum[]PN
+1052	A-lu-lu5			Alulu[]PN
+1053	A-lu-mu				Aluŋu[]PN
+1054	A-lu-ta				Alu[]PN
+1055	A-lu-tya-bum2			Aluṭabum[]PN
+1056	A-lu-um				Alum[]PN
+1057	A-lu-um{ki}			Alum[]SN
+1058	A-lu-zi-na			Aluzina[]PN
+1059	A-lu2-du10			Aluṭab[]PN
+1060	A-lu2-hi			Aluṭab[]PN
+1061	A-lu2-i3-li2			Aluʾili[]PN
+1062	A-lu5				A.LUL[]PN		var of Alulu?; lul/lu5/lugx/lub?
+1063	A-lu5-				unkn			605 possibilities
+1064	A-lu5-a				Aluʾa[]PN
+1065	A-lu5-lu5			Alulu[]PN
+1066	A-lu5-lu5-ta			Alulu[]PN
+1067	A-lu5-mu			A.LUL.ŋu[]PN
+1068	A-lu5-ni			A.LUL.ni[]PN
+1069	A-lum-ma			Aluma[]PN
+1070	A-ma-DU10			A.ma.DU₁₀[]PN		Ayamadug 'father is good to me'?
+1071	A-ma-a				Amaya[]PN		uncertain
+1072	A-ma-a-a			Amaya[]PN
+1073	A-ma-a-ta			Amaya[]PN		uncertain
+1074	A-ma-ad				Amat[]PN		Akk. 'servant-girl'?
+1075	A-ma-ad-e2-a			Amatbitim[]PN		Akk. 'maid of the house(hold)'?
+1076	A-ma-an-Ec18-tar2		AmanEštar[]PN
+1077	A-ma-an-i3-li2			Amanili[]PN
+1078	A-ma-an-ne-en			Amanen[]PN
+1079	A-ma-an-ne-en6			Amanen[]PN
+1080	A-ma-an-{d}Suen			AmanSuʾen[]PN
+1081	A-ma-at				Amaʾad[]PN
+1082	A-ma-ci-a			Amašiʾa[]PN
+1083	A-ma-da-DINGIR			Amatili[]PN		uncertain (1 Umma)
+1084	A-ma-la				Amala[]PN
+1085	A-ma-ne-en-CA			A.ma.ne.en.ŠA[]PN
+1086	A-ma-nu				Amanu[]PN
+1087	A-ma-nu-ta			Amanu[]PN
+1088	A-ma-si2-li			Amasili[]PN
+1089	A-ma-ti				Amati[]PN		Ayamatil 'father gave life to me'?
+1090	A-ma-u2				Amaʾu[]PN
+1091	A-mac-ti-ak			Amaštiʾak[]WN		PDT 2 0918 r iii 7: gu2 i7 A-maš-ti-ak
+1092	A-mat-i3-li2			Amatili[]PN
+1093	A-mat-{d}Nanna-ce3		AmatNanna[]PN
+1094	A-mi-ir-AN			Amirili[]PN
+1095	A-mi-ir-{d}Cul-gi		AmirŠulgi[]PN
+1096	A-mi-ru-um-me-ec2		Amirum[]PN
+1097	A-min-ba-du			A.min.ba.DU[]PN		1 Girsu
+1098	A-mu				Ayaŋu[]PN
+1099	A-mu-DU8.UD			Ayaŋu[]PN		RSM 1909.405-17 4 o 13: DU8.UD may be SIMUG (Sippar; photo)
+1100	A-mu-a				Amuʾa[]PN
+1101	A-mu-a-ce3			Amuʾa[]PN
+1102	A-mu-an-ne2			Ayaŋuʾane[]PN		hypo?
+1103	A-mu-du				A.mu.DU[]PN		1 Ur
+1104	A-mu-er2-LU-numun		Amuʾa[]PN		MVN 13 458 o 9: a-mu-a u₃-kul (PD; photo)
+1105	A-mu-kal-le-ta			Ayaŋukale[]PN
+1106	A-mu-ma-gi4			Ayaŋumagi[]PN
+1107	A-mu-ru-um			Amurum[]PN
+1108	A-mu-ur-DINGIR			Amurili[]PN
+1109	A-mun				Amun[]PN
+1110	A-mur-An-num2			AmurAnum[]PN
+1111	A-mur-DINGIR			Amurili[]PN
+1112	A-mur-DINGIR-cu			Amurilišu[]PN
+1113	A-mur-DINGIR-ta			Amurili[]PN
+1114	A-mur-DINGIR{im}		AmurAdad[]PN		Nisaba 22 089 o 7: a-mur-{d}IM (erasure?) u3-kul (photo)
+1115	A-mur-DiNGIR			Amurili[]PN
+1116	A-mur-E2-a			AmurEa[]PN
+1117	A-mur-E2-a-ta			AmurEa[]PN
+1118	A-mur-E3			A.mur.E₃[]PN		MLC 00677 o 7 (no copy/photo)
+1119	A-mur-ZU			A.mur.ZU[]PN
+1120	A-mur-da-ku-um			Amurdaqqum[]PN		'I have seen a child'?
+1121	A-mur-ga-la			A.mur.GA.LA[]PN		GA.LA for kala(g)?; Akk. Amurdannam 'I have seen a strong-one'?, or Amurwaqram 'I have seen a precious-one'?
+1122	A-mur-i-lum-ra			Amurilum[]PN
+1123	A-mur-i3-li2			Amurili[]PN
+1124	A-mur-kal-la			A.mur.KAL.LA[]PN	Akk. Amurdannam 'I have seen a strong-one'?, or Amurwaqram 'I have seen a precious-one'?
+1125	A-mur-kal-la-ta			A.mur.KAL.LA[]PN
+1126	A-mur-la-ba			Amurlaba[]PN
+1127	A-mur-{d}A-za-KA		A.mur.AN.a.za.KA[]PN
+1128	A-mur-{d}Cul-gi			AmurŠulgi[]PN
+1129	A-mur-{d}EN.			unkn			typo (likely {d}EN.ZU)
+1130	A-mur-{d}ICKUR			AmurAdad[]PN
+1131	A-mur-{d}Nin-hur-sag		AmurNinhursaŋ[]PN
+1132	A-mur-{d}Suen			AmurSuʾen[]PN
+1133	A-mur-{d}Suen-ce3		AmurSuʾen[]PN
+1134	A-mur-{d}UTU			AmurŠamaš[]PN
+1135	A-mur7-al-kar3			A.MURGU₂.AL.GAR₃[]PN	TÉL 056 r 1: translit uncertain (no photo/copy)
+1136	A-na				Ana[]PN
+1137	A-na-Ec18-tar2-ta2-ak-la-at	AnaʾEštartaklat[]PN
+1138	A-na-a				Ana[]PN			= Anaya?
+1139	A-na-a-MU			Anaŋu[]PN
+1140	A-na-a-a			Anaya[]PN
+1141	A-na-a-ce3			Ana[]PN
+1142	A-na-ab-E2-a			AnabEa[]PN
+1143	A-na-ah-i3-li2			Anahili[]PN
+1144	A-na-ah-i3-li2-ta		Anahili[]PN
+1145	A-na-an-mu			Anadiŋirŋu[]PN
+1146	A-na-at-E2-a			AnatEa[]PN
+1147	A-na-bi				Anabi[]PN
+1148	A-na-da-ba-at			Anaṭabat[]PN
+1149	A-na-da-hul			Anadahul[]PN
+1150	A-na-ec18-tar2-ta2-ak-la-at	AnaʾEštartaklat[]PN
+1151	A-na-gu				Anagu[]PN
+1152	A-na-gu-gu			Anagugu[]PN
+1153	A-na-gu-ta			Anagu[]PN
+1154	A-na-ha				Anaha[]PN
+1155	A-na-ha-ne2			Anahani[]PN		RTC 290 o 6 (Girsu)
+1156	A-na-ha-ne2-e			Anahani[]PN		RTC 290 r 3 (Girsu)
+1157	A-na-hi-ba-at			Anaṭabat[]PN
+1158	A-na-hi-li			Anahili[]PN
+1159	A-na-hi-li2-bi			Anahilibi[]PN
+1160	A-na-hi-li2-ta			Anahili[]PN
+1161	A-na-i3-li2			Anaʾili[]PN
+1162	A-na-in-da-ci			Anaʾindaši[]PN
+1163	A-na-lu				Analu[]PN
+1164	A-na-lu2			Analu[]PN
+1165	A-na-lu2-ba			A.na.lu₂.ba[]PN		1 Girsu; hypo for A.na.lu₂.ba.DU?
+1166	A-na-lu2-ba-DU			A.na.lu₂.ba.DU[]PN	3 Girsu
+1167	A-na-lu2-ce3			Analu[]PN
+1168	A-na-lu5			Analu[]PN
+1169	A-na-mu				Anaŋu[]PN
+1170	A-na-na				Anana[]PN
+1171	A-na-na-a			Anana[]PN
+1172	A-na-nam-tum2-mu		Ananamtumu[]PN
+1173	A-na-ni-a			Ananiʾa[]PN		= Ananiʾak? (1 Nippur)
+1174	A-na-ni-ak			Ananiʾak[]PN		= Ananiʾa? (2 PD, 1 Umma)
+1175	A-na-ni-cu			Ananišu[]PN
+1176	A-na-ni-ne-ka			A.na.ni.NE.KA[]PN
+1177	A-na-nu-um-DINGIR		Ananumilum[]PN
+1178	A-na-ti				Anati[]PN		= Anatum?
+1179	A-na-ti-a			Anatiʾa[]PN
+1180	A-na-ti-ta			Anati[]PN
+1181	A-na-tum			Anatum[]PN		= Anati?
+1182	A-na-{d}Suen-tak2-la-ku		AnaSuʾentaklaku[]PN
+1183	A-ne2				Ani[]PN
+1184	A-ni				Ani[]PN
+1185	A-ni-a				Aniʾa[]PN
+1186	A-ni-a-ga			Aniʾaga[]PN		BM 113818 r 4: A-ni-a-ga (sic) (Umma messenger)
+1187	A-ni-ad				Aniʾad[]PN		Ayaniʾad?
+1188	A-ni-da				Anida[]PN		Ayanida?
+1189	A-ni-ib				Anib[]PN
+1190	A-ni-mu				Aniŋu[]PN
+1191	A-ni-na				Anina[]PN
+1192	A-ni-ri2-ni			Anirini[]PN
+1193	A-ni-ta				Ani[]PN
+1194	A-ni-tum			Anitum[]PN		Annitum?
+1195	A-ni-zu-ma			Anizuma[]PN
+1196	A-ni-zu-ta			Anizu[]PN
+1197	A-ni2-ti-dam			Anitidam[]PN
+1198	A-nu-ARAD2.IB.CE3		A.nu.ARAD₂.IB.ŠE₃[]PN	1 Susa (seal)
+1199	A-nu-gal2			Ayanugal[]PN
+1200	A-nu-il				Anuʾil[]PN
+1201	A-nu-ni-a			unkn			no citation
+1202	A-nu-nu				Anunu[]PN
+1203	A-nu-um-pa-dan			Anumpadan[]PN
+1204	A-num2-me-il-lum		Anumilum[]PN
+1205	A-num2-me-li2			Anumili[]PN
+1206	A-pi				Api[]PN
+1207	A-pi-4-sal4{ki}			Apisal[]SN
+1208	A-pi-ih-il			Apihil[]PN
+1209	A-pi-la-ca			Apilaša[]PN		= Apilašam?
+1210	A-pi-la-ca-am			Apilašam[]PN		= Apilaša?
+1211	A-pi-la-nim			Apilanim[]PN		1 Susa
+1212	A-pi-la-nu-um			Apilanum[]PN
+1213	A-pi-la-num2			Apilanum[]PN
+1214	A-pi-la-tum			Apilatum[]PN
+1215	A-pi-li-a			Apiliʾa[]PN
+1216	A-pi-li2			Apili[]PN		= Apilum?
+1217	A-pi-li2-a			Apiliʾa[]PN
+1218	A-pi-lum			Apilum[]PN		= Apiluma?
+1219	A-pi-lum-ma			Apiluma[]PN
+1220	A-pi-lum-ma-ta			Apiluma[]PN
+1221	A-pi-na-har			Apinahar[]PN		Umma
+1222	A-pi-te-el2			Apitel[]PN
+1223	A-pi2-ak{ki}			Apiʾak[]SN
+1224	A-pi2-ak{ki}-ka			Apiʾak[]SN
+1225	A-pi2-ak{ki}-ta			Apiʾak[]SN
+1226	A-pi2-sal4{ki}			Apisal[]SN
+1227	A-pi3-sal4{ki}			Apisal[]SN		ArOr 62 247 I 879 o 5: lu2-kin-gi4-a / u3 A-pi4(KA)-sal4{ki} (photo)
+1228	A-pi4-				unkn			typo?; probly Apisal
+1229	A-pi4-ca			Apiša[]PN
+1230	A-pi4-sal			Apisal[]PN
+1231	A-pi4-sal-la{ki}-ce3		Apisala[]SN
+1232	A-pi4-sal4			Apisal[]PN
+1233	A-pi4-sal4-a-ta			Apisala[]PN
+1234	A-pi4-sal4-ce3			Apisal[]PN
+1235	A-pi4-sal4-ki			Apisal[]PN
+1236	A-pi4-sal4-la			Apisal[]PN
+1237	A-pi4-sal4-la{ki}		Apisal[]SN
+1238	A-pi4-sal4-la{ki}-ce3		Apisal[]SN
+1239	A-pi4-sal4-la{ki}-ta		Apisal[]SN
+1240	A-pi4-sal4-me			Apisal[]SN
+1241	A-pi4-sal4-ta			Apisal[]SN
+1242	A-pi4-sal4{ki}			Apisal[]SN
+1243	A-pi4-sal4{ki}-			Apisal[]SN		typo?
+1244	A-pi4-sal4{ki}-ce		Apisal[]SN		RA 25 20 AF 1 r ii 27 restored (še for še3) (Umma)
+1245	A-pi4-sal4{ki}-ce3		Apisal[]SN
+1246	A-pi4-sal4{ki}-ka		Apisal[]SN
+1247	A-pi4-sal4{ki}-ka-ta		Apisal[]SN
+1248	A-pi4-sal4{ki}-ke4		Apisal[]SN
+1249	A-pi4-sal4{ki}-ke4-ne		Apisal[]SN
+1250	A-pi4-sal4{ki}-ke4-ne-ta	Apisal[]SN
+1251	A-pi4-sal4{ki}-me		Apisal[]SN
+1252	A-pi4-sal4{ki}-ta		Apisal[]SN
+1253	A-pi4-sal{ki}			Apisal[]SN
+1254	A-pi4-sal{ki}-ce3		Apisal[]SN
+1255	A-pi4-sal{ki}-ta		Apisal[]SN
+1256	A-pi5-ak{ki}			Apiʾak[]SN
+1257	A-pi5-la-a			Apila[]PN
+1258	A-pi5-la-ca			Apilaša[]PN
+1259	A-pi5-la-ca-ce3			Apilaša[]PN
+1260	A-pi5-la-num2			Apilanum[]PN
+1261	A-pi5-la-num2-ta		Apilanum[]PN
+1262	A-pi5-la-ta			Apila[]PN
+1263	A-pi5-la-ti			Apilati[]PN		= Apilatum?
+1264	A-pi5-la-tum			Apilatum[]PN		= Apilati?
+1265	A-pi5-li			Apili[]PN		= Apilum?
+1266	A-pi5-li2			Apili[]PN		= Apilum?
+1267	A-pi5-li2-GI			A.pi₅.li₂.GI[]PN	5 Girsu
+1268	A-pi5-li2-a			Apiliʾa[]PN
+1269	A-pi5-li3-GAR3			A.pi₅.li₃.GAR₃[]PN	BDTNS translit does not match photo/copy (P124753)
+1270	A-pi5-lum			Apilum[]PN
+1271	A-pi5-lum-ma			Apiluma[]PN		= Apilum?
+1272	A-pi5-lum-ta			Apilum[]PN
+1273	A-pi5-sal4{ki}			Apisal[]SN
+1274	A-pi5-sal4{ki}-ce3		Apisal[]SN
+1275	A-pil2-ki-in			Apilkin[]PN
+1276	A-pil2-ki2-en8			Apilkin[]PN
+1277	A-pil2-sa-um			Apilsaʾum[]PN
+1278	A-pil3-GIM			Apilkin[]PN
+1279	A-pil3-la-ce3			Apila[]PN
+1280	A-pirig-am3			Ayapiriŋam[]PN
+1281	A-pu-nu-um			Apunum[]PN
+1282	A-pu3-gi4			Apugi[]PN
+1283	A-pu3-pu3			Abubu[]PN
+1284	A-pu3-ul			Apul[]PN
+1285	A-puzur4-a-a			Ayapuzuraya[]PN		hypo?
+1286	A-ra-RI				A.ra.RI[]PN		1 Girsu
+1287	A-ra-ab-ri2-na			Arabrina[]PN		2 Girsu
+1288	A-ra-ab-uru-na			unkn			no citations
+1289	A-ra-am-gi			Aramgi[]PN		Aramkin?
+1290	A-ra-ap-hu-um{ki}		Arraphum[]SN
+1291	A-ra-ku-um			Arakum[]PN
+1292	A-ra-mi{ki}			Arami[]SN
+1293	A-ra-u2-e{ki}			Araʾuʾe[]SN
+1294	A-ra-zu-{d}I-bi2-{d}Suen-ka-ce3-pa3-da	ArazuIbbiSuʾenakšepada[]PN	AUAM 73.2209 o ii 6 (PD; en Eridu) 'found acc. to the supplication of IbbiSuen'?
+1295	A-ra-zu-{d}I-bi2-{d}Suen-na-pa3-da	ArazuIbbiSuʾenakšepada[]PN	AUAM 73.2209 r i 11 (PD; en Eridu) 'found acc. to the supplication of IbbiSuen'?	
+1296	A-ra2				Ara[]PN
+1297	A-ra2-mu			Araŋu[]PN
+1298	A-ra2-mu-ce3			Araŋu[]PN
+1299	A-ra2-mu-ka			Araŋu[]PN
+1300	A-ra2-mu-ta			Araŋu[]PN
+1301	A-ra2-nu			Aranu[]PN
+1302	A-ra2-ra-mu			Araŋu[]PN		RA gloss for DU?
+1303	A-ra2-ta			Ara[]PN
+1304	A-ra2-zal-la			Arazala[]PN
+1305	A-ra{ki}			Ara[]SN
+1306	A-ri-a				Ariʾa[]PN
+1307	A-ri-du-bu-uk			Aridubuk[]PN		Elamite?
+1308	A-ri-ip-a-tal			Aripatal[]PN		Hurrian
+1309	A-ri-ip-hu-up-pi2		Ariphuppi[]PN		Hurrian
+1310	A-ri-ma				Arima[]PN
+1311	A-ri-me-me			Arimeme[]PN
+1312	A-ri2-bi			Aribi[]PN
+1313	A-ri2-bi-ta			Aribi[]PN
+1314	A-ri2-bi-um{ki}			Aribiʾum[]SN
+1315	A-ri2-ik			Arik[]PN
+1316	A-ri2-ik-tum-ma			Ariktum[]PN		2 Umma (gen?)
+1317	A-ri2-ip-a-tal			Aripatal[]PN		Hurrian
+1318	A-ri2-ip-hu-up-pi2		Ariphuppi[]PN		Hurrian
+1319	A-ru-ru				Aruru[]PN
+1320	A-sa6				Ayasaga[]PN
+1321	A-sa6-ga			Ayasaga[]PN
+1322	A-sa6-ga-a			Ayasaga[]PN
+1323	A-sa6-sa6			Ayasagsag[]PN
+1324	A-sal-la			Asala[]PN
+1325	A-si-lu				Asilu[]PN
+1326	A-si-lu-ta			Asilu[]PN
+1327	A-si-lu2			Asilu[]PN
+1328	A-si-ma-nu-um{ki}		Asimanum[]SN
+1329	A-si-ma-num2			Asimanum[]SN
+1330	A-si-ma-num2{ki}		Asimanum[]SN
+1331	A-si-ma2-a			Asima[]PN		Asimaʾak?
+1332	A-sig5				Ayasaga[]PN
+1333	A-su				Asu[]PN
+1334	A-su6-ni			Ayasuni[]PN
+1335	A-sya-ha-ar{ki}-me		Aṣahar[]SN
+1336	A-sya-ru-um			Aṣarum[]SN
+1337	A-sya-ru-um-a-ur2-ra{ki}	Aṣarumaʾura[]SN
+1338	A-sya-ru-um-a-ur2-ra{ki}-ka	Aṣarumaʾuraka[]SN
+1339	A-sya-ru-um-a-ur3-ra{ki}-ta	Aṣarumaʾura[]SN
+1340	A-sya-ru-um-da-gi		Aṣarumdaqqi[]SN
+1341	A-sya-ru-um-da-gi-ke4		Aṣarumdaqqi[]SN
+1342	A-sya-ru-um-da-gi{ki}		Aṣarumdaqqi[]SN
+1343	A-sya-ru-um-da-gi{ki}-ka-me	Aṣarumdaqqi[]SN
+1344	A-sya-ru-um-da-num2		Aṣarumdannum[]SN
+1345	A-sya-ru-um-ma			Aṣarum[]SN		PN?
+1346	A-sya-ru-um-wa-ar-qa{ki}	Aṣarumwarqa[]SN
+1347	A-sya-ru-um{ki}-ka-ta		Aṣarum[]SN
+1348	A-sya-ru-um{ki}-ta		Aṣarum[]SN
+1349	A-ta				Atta[]PN		uncertain
+1350	A-ta-a				Atta[]PN		uncertain
+1351	A-ta-li-ku			Atalliku[]PN
+1352	A-ta-na-ah-i3-li2		Atanahili[]PN
+1353	A-ta-ta				Atata[]PN		uncertain
+1354	A-ta2-ce-en-ta			Attašen[]PN		Hurrian
+1355	A-ta2-kal2-cum			Atakkalšum[]PN
+1356	A-ta2-kal2-cum-e		Atakkalšum[]PN
+1357	A-ta2-kar3			Ataqqar[]PN
+1358	A-ta2-na-PIRIG			Atanapil[]PN
+1359	A-ta2-na-ah			Atanah[]PN
+1360	A-tal-ce-en			Atalšen[]PN		Hurrian
+1361	A-tal-me-me			Atalmeme[]PN		Hurrian
+1362	A-tal2-{d}Mar-tu-ra		AtalMartu[]PN		Hurrian
+1363	A-tar-da			Atarda[]PN
+1364	A-ti				Ati[]PN			Ayatil?
+1365	A-ti-DINGIR			unkn			JMEOS 15 41 2 o 7 (restored)
+1366	A-ti-DINGIR-me			unkn			JMEOS 15 41 2 seal: Kur-da-šu / dumu A-ti-[DINGIR?]
+1367	A-ti-a				Atiʾa[]PN
+1368	A-ti-a-ta			Atiʾa[]PN
+1369	A-ti-da				Atida[]PN
+1370	A-ti-da-ka			Atida[]PN
+1371	A-ti-da-ta			Atida[]PN
+1372	A-ti-e				Atiʾe[]PN
+1373	A-ti-ma-tum			Atimatum[]PN
+1374	A-ti-num2			Atinum[]PN
+1375	A-ti-ti				Ayatiti[]PN
+1376	A-tir-mu			Ayatirŋu[]PN
+1377	A-tir-ta			Ayatir[]PN
+1378	A-tu				Ayatud[]PN
+1379	A-tu-5AC			unkn			typo (for A-tu5-AC); probly not PN
+1380	A-tu-AN				Ayatuddiŋir[]PN
+1381	A-tu-GIC			Ayatudŋeš[]PN
+1382	A-tu-Ma-ma			AyatudMama[]PN
+1383	A-tu-Uri5{ki}-ce3		AyatudUrim[]SN
+1384	A-tu-a				Atuʾa[]PN		Ayatuʾa?
+1385	A-tu-a-ce3			Atuʾa[]PN
+1386	A-tu-a-ni			Atuʾani[]PN		Ayatuʾani?
+1387	A-tu-banda3{da}			Ayatudbanda[]PN
+1388	A-tu-ce3			Ayatud[]PN
+1389	A-tu-da				Ayatuda[]PN
+1390	A-tu-da-ga			Atudaga[]PN
+1391	A-tu-du				Atudu[]PN		Ayatuda? (MVN 01 144 o 11'; name translit only) PD
+1392	A-tu-e				Ayatud[]PN
+1393	A-tu-gu-la			Ayatudgula[]PN
+1394	A-tu-he-gal			Ayatudheŋal[]PN		typo?; MVN 06, 539 o 4 (1 Girsu; no photo/copy)
+1395	A-tu-he-gal2			Ayatudheŋal[]PN		1 Girsu
+1396	A-tu-kal			Ayatdukala[]PN
+1397	A-tu-kal-la			Ayatudkala[]PN
+1398	A-tu-kal-la-ta			Ayatudkala[]PN
+1399	A-tu-kam			Ayatudkam[]PN
+1400	A-tu-ke4			Ayatud[]PN
+1401	A-tu-ke4-ne			Ayatud[]PN
+1402	A-tu-ki				Atuki[]PN		1 PD
+1403	A-tu-me				Ayatud[]PN
+1404	A-tu-mu				Ayatudŋu[]PN
+1405	A-tu-nimgir			Ayatudniŋir[]PN
+1406	A-tu-ra				Ayatud[]PN
+1407	A-tu-su-si-ig			Ayatud[]PN		typo: NBC 00121 o 6: 1# gud# [A-t]u su-si-ig '1 bull for Ayatu the flayer'
+1408	A-tu-ta				Ayatuda[]PN
+1409	A-tu-{d}TUG2.NUN		AyatudNamnun[]PN
+1410	A-u2-a				Ayaʾuʾa[]PN
+1411	A-u2-da				Aʾuda[]SN		field-name(s) in Umma
+1412	A-u2-da-tur			Aʾuda[]SN		typo; qualification of field-name in Umma (tur vs gu-la)
+1413	A-u2-u2				Ayaʾuʾu[]PN		Hawaiian
+1414	A-u3-da-il			Aʾudaʾil[]PN		labeled Martu
+1415	A-u3-ze2-uc			Aʾuzeʾuš[]PN		1 Girsu
+1416	A-u4-da-ta			Aʾuda[]SN		typo; Santag 7 085 r 1: ki-su7 a-u2-da-ta (Umma; copy)
+1417	A-unken-ne2			Ayaʾunkine[]PN		hypo?
+1418	A-uru-mu			Ayaʾiriŋu[]PN
+1419	A-wa-al{ki}			Awal[]SN
+1420	A-wa-an{ki}-ka			Awan[]SN
+1421	A-wa-ar-ka			Awarka[]PN
+1422	A-wa-at-i3-li2			Awatili[]PN
+1423	A-wa-kal-la			Awakal[]PN
+1424	A-wa-la-LUM			Awilanum[]PN
+1425	A-wa-na-ah			Awanah[]PN		BM 106043 (Umma SH26 or 32; no photo/copy)
+1426	A-wa-na-kam			Awanah[]PN		AUCT 3 286 o 5: 0.2.0 A-wa-na-HI×NUN? (Umma SH31; so photo, copy KAM)
+1427	A-wa-nu-um			Awanum[]PN
+1428	A-wi#-li-ia			unkn			typo; MDP 54 33 o 2: a-PI-[...]
+1429	A-za				Aza[]PN
+1430	A-za-LUM			Azalum[]PN
+1431	A-za-a				Aza[]PN
+1432	A-za-a-ce3			Aza[]PN
+1433	A-za-ab				Azab[]PN
+1434	A-za-ad				Azad[]PN
+1435	A-za-ak-za-kum			Azakzakum[]PN
+1436	A-za-am3			Azaʾam[]PN
+1437	A-za-am3-e			Azaʾam[]PN
+1438	A-za-ar				Azar[]PN		= Aṣarum?
+1439	A-za-ar-{d}Cul-gi-ce3		AzarŠulgir[]PN		AṣarŠulgi?
+1440	A-za-ar-{d}Cul-gi-ra		AzarŠulgir[]PN
+1441	A-za-ar-{d}Cul-gi-ra-ka		AzarŠulgir[]PN
+1442	A-za-at-al-la			AsatAlla[]PN
+1443	A-za-ba-an			Azaban[]PN
+1444	A-za-ba-ni			Azabani[]PN
+1445	A-za-ba-nu-ni			Azabanuni[]PN
+1446	A-za-cu-mu			Azašuŋu[]PN
+1447	A-za-da				Azada[]PN
+1448	A-za-ki-ni			Asakini[]PN
+1449	A-za-lum			Azalum[]PN
+1450	A-za-ma-a			Azama[]PN
+1451	A-za-ma-an{ki}			Azaman[]SN
+1452	A-za-ma-tum			Asamatum[]PN
+1453	A-za-ni				Ayazani[]PN
+1454	A-za-ru-um-a-pil		Azarumapil[]PN
+1455	A-za-ru-um-ma			Azarum[]PN
+1456	A-za-tum			Asatum[]PN
+1457	A-za-um				Asaʾum[]PN
+1458	A-za-za				Azaza[]PN
+1459	A-za-za-mu			Azazaŋu[]PN
+1460	A-zar3-E2-a			AzarEa[]PN
+1461	A-zi				Ayazi[]PN		= Ayazid?
+1462	A-zi-a				Ayaziʾa[]PN		hypo?; all DN in theophoric names
+1463	A-zi-ba				Ayaziba[]PN		hypo of Ayazibarazig?
+1464	A-zi-ba-ra-zi			Ayazibarazig[]PN
+1465	A-zi-da				Ayazid[]PN		= Ayazi?
+1466	A-zi-mu				Ayazidŋu[]PN
+1467	A-zi-na				Ayazina[]PN
+1468	A-zi-na-ta			Ayazina[]PN
+1469	A-zi-na-tum			Assinnatum[]PN
+1470	A-zi-ni				Assinni[]PN
+1471	A-zi-num2			Assinnum[]PN
+1472	A-zi-ri2-gum2			not PN			all Girsu; fields a zi-ri2-gum2
+1473	A-zi-te-en			Aziten[]PN		Hurrian?
+1474	A-zi-um-mi			Aziʾummi[]PN
+1475	A-zi-zi				Azizi[]PN
+1476	A-zu-ambar{ki}			Azuʾambar[]SN
+1477	A-zu-bi				Azubi[]PN
+1478	A-zu-dingir-ra			Azudiŋirak[]PN
+1479	A-zu-ki-ni			Asukini[]PN
+1480	A-zu-li				unkn			AnOr 07 321 o 8: 1 A-zu-l[i- ...]
+1481	A-zu-zu				Azuzu[]PN
+1482	A-zu-zu-nu-um			Azuzunum[]PN
+1483	A-zu-zu-tum			Azuzutum[]PN
+1484	A-{d.ac}Ac7-gi4-pa3-da		Ašgipada[]PN
+1485	A-{da}dam-cah2-ta		A.{da}DAM.DUN[]SN	= Elam (probly Adamdun < Elamite Haltamti 'Elam')
+1486	A.A2.LU.LAGABxA-de3		unkn			no citations
+1487	A.AB.BA-ba-ac-ti		Abumbašti[]PN		uncertain; or, Tiʾamtumbašti?
+1488	A.AB.BA-ba-ac-ti-ce3		Abumbašti[]PN
+1489	A.AB.BA-ba-ac2-ti		Abumbašti[]PN
+1490	A.AB.BA-ba-ac2-ti-e		Abumbašti[]PN
+1491	A.AB.BA-ba-ac2-ti-ra		Abumbašti[]PN
+1492	A.AN-i3-li2			A.AN.i₃.li₂[]PN		Zaninili 'my god provides rain'?
+1493	A.AN-mu				A.AN.ŋu₁₀[]PN		1 Umma
+1494	A.AN.KAB-ta			A.AN.KAB[]PN		1 Nippur
+1495	A.EDIN-ce3			not PN			ITT 5 10010 o 3: kuš ummudₓ(A.EDIN)-še₃ 'hides for waterskins' (Girsu)
+1496	A.ENGUR-pa-e3			Idpaʾe[]PN		2 Umma
+1497	A.GAR5-me			unkn			probly not PN; RIAA 086 o iv 14': (rations) lu2 Li2-ig-ri2 lu2 Mar-ha-ši{ki} u3 lu2 A.GAR5-me (Umma)
+1498	A.GIC{ki}			A.GIŠ{ki}[]SN		1 Umma?
+1499	A.HA{ki}			Kuʾara[]SN
+1500	A.HA{ki}'			Kuʾara[]SN		typo
+1501	A.HA{ki}-ce3			Kuʾara[]SN
+1502	A.HA{ki}-ke4			Kuʾara[]SN
+1503	A.HA{ki}-ta			Kuʾara[]SN
+1504	A.IGI-ba-ni-KAR2		A.IGI.ba.ni.KAR₂[]PN	1 Umma
+1505	A.IGI-gur8-da			A.IGI.gur₈.da[]PN	1 Girsu
+1506	A.IGI-kal-la			Erkala[]PN
+1507	A.KA-bu3			Ugubu[]PN		1 Umma
+1508	A.KA-da-ni			A.KA.da.ni[]PN		1 Umma
+1509	A.KA-ma-ri2{ki}-ce3		Kamari[]SN		typo; BIN 5 327 r 1: a Ka-ma-ri2{ki}-še3; UTI 4 2692 o 2: a-e3-a Ka-ma-ri2{ki}-še3 (Umma)
+1510	A.KA.DU6-a			Ugubi[]PN		Princeton 1 474 seal 3: dumu {ugu2}DUL?# (Umma; photo, no BI visible)
+1511	A.KWU_127-a			unkn			KWU 127 is ZI&ZI; ZI&ZI.A has numun/aški/gin/gug/lamahuš/mud/suluhu/šub/zukum rdgs
+1512	A.LU2-ta			not PN			SN? (1 Girsu; messenger)
+1513	A.MA-{d}Ec4-tar2-ra		A.MA.{d}Eš₄.tar₂[]PN	1 PD
+1514	A.NIG2.GAN2.cEN-ta		A.GAR.GAN₂.ŠEN[]PN	maybe not PN (1 Umma; field-name?)
+1515	A.PAP.IR-me			A.PAP.IR[]PN		maybe not PN (1 Umma?; profession?)
+1516	A.SUHUR{ki}			Asuhur[]SN
+1517	A.TAR-ta			not PN			MVN 16 1323 r 1: a-haš 'sluice' (associated with naŋ-kud 'reservoir')
+1518	A.U2.LU.HUL2.HUL2-na-ce3	unkn			probly not PN (1 Girsu; profession/ethnicity?)
+1519	A.UR2xUD			unkn			no citations
+1520	A2-AC-ba			A₂.AŠ.ba[]PN		1 Girsu
+1521	A2-DU-tur			Aratur[]PN		uncertain
+1522	A2-Ka-ka-mu			AKakaŋu[]PN
+1523	A2-LUM-ma-ta			unkn			probly not PN (1 Umma)
+1524	A2-a-a				Aʾaya[]PN		Aʾayak?
+1525	A2-a-si-lu			Aʾasilu[]PN
+1526	A2-ad-ba-an-gi4			Aʾaddakbangi[]PN	'might of father has returned'?
+1527	A2-ag2-ga2-ni-i3-sa6		Aʾaŋaniʾisag[]PN
+1528	A2-ag2-ga2-ni-sa6		Aʾaŋaniʾisag[]PN
+1529	A2-an-da			Aʾanda[]PN
+1530	A2-an-du-ru-ce3			Aʾanduru[]PN
+1531	A2-an-ne2			Aʾane[]PN		hypo?
+1532	A2-ba-ba			Ababa[]PN		ABabak?
+1533	A2-bi-la-num2			Abilanum[]PN
+1534	A2-bi2-DINGIR			Abiʾili[]PN
+1535	A2-bi2-DU10			Abiṭab[]PN
+1536	A2-bi2-KAL			Abidan[]PN
+1537	A2-bi2-a-bi-ih			AbiʾEbih[]PN
+1538	A2-bi2-a-ti			Abiʾati[]PN
+1539	A2-bi2-i3-li2			Abiʾili[]PN
+1540	A2-bi2-si2-im-ti		Abisimti[]PN
+1541	A2-bi2-tum			Abitum[]PN
+1542	A2-bu-ca			Abuša[]PN
+1543	A2-bu-ru-ma			not PN			2 PD; type of shoe (< Akk. burrumu 'multicolored')
+1544	A2-bu-ru-um-ma			not PN			3 PD; type of shoe (< Akk. burrumu 'multicolored')
+1545	A2-bu-um			Abum[]PN
+1546	A2-da				Ada[]PN
+1547	A2-da-da			Adada[]PN		ADadak?
+1548	A2-da-da-a			Adada[]PN
+1549	A2-da-da-ce3			Adada[]PN
+1550	A2-da-da-ta			Adada[]PN
+1551	A2-da-ga			Adaga[]PN
+1552	A2-da-lal3			Adalal[]PN		Addalal?
+1553	A2-dam-DUN{ki}-ta		A₂.DAM.DUN{ki}[]SN	= Elam
+1554	A2-dingir			Adiŋirak[]PN
+1555	A2-dingir-ga2			Adiŋirŋak[]PN
+1556	A2-dingir-ga2-ku3-ga-ni		Adiŋirŋakkugani[]PN
+1557	A2-dingir-ga2-ta		Adiŋirŋak[]PN
+1558	A2-dingir-mu			Adiŋirakŋu[]PN
+1559	A2-dingir-ziz2-da		Adiŋirakzizda[]PN
+1560	A2-du-du			Adudu[]PN		ADuduk?
+1561	A2-du-mu			Aduŋu[]PN
+1562	A2-du-u2			Aduʾu[]PN
+1563	A2-ga				Aga[]PN
+1564	A2-ga-ga			Agaga[]PN		AGagak?
+1565	A2-ga-ga-ta			Agaga[]PN
+1566	A2-ga-mu			Agaŋu[]PN
+1567	A2-gal2-nu-tuku			Aŋalnutuku[]PN
+1568	A2-gal2-nu-tuku-a		Aŋalnutuku[]PN
+1569	A2-gal2-nu-tuku-ta		Aŋalnutuku[]PN
+1570	A2-gi4-gi4			Agigi[]PN		AGigik?
+1571	A2-gic-u			Aŋešu[]PN
+1572	A2-gu				Agu[]PN
+1573	A2-gu-ce3			Agu[]PN
+1574	A2-gu-gu			Agugu[]PN		AGuguk?
+1575	A2-gu-gu-ta			Agugu[]PN
+1576	A2-gu-ta			Agu[]PN
+1577	A2-gu-u2			Aguʾu[]PN
+1578	A2-gu-u2-ka			Aguʾu[]PN
+1579	A2-gu-u2-ke4			Aguʾu[]PN
+1580	A2-gu-u2-ta			Aguʾu[]PN
+1581	A2-gu2-gu2			Agugu[]PN
+1582	A2-gu2-gu2-ce3			Agugu[]PN
+1583	A2-gu4				Agud[]PN
+1584	A2-gul{ki}-ta			Agul[]SN
+1585	A2-ha-ma-za-a-a			Ahamazaya[]PN
+1586	A2-hu-ul-gal2			Ahulŋal[]PN
+1587	A2-kal-la			Akalag[]PN
+1588	A2-kal-la-ta			Akalag[]PN
+1589	A2-ki-NE			A₂.KI.NE[]PN		1 Girsu
+1590	A2-kuc3-{d}Mar-tu		AkušMartu[]PN
+1591	A2-la				Ala[]PN			Alla?
+1592	A2-la-a				Ala[]PN			Alla?
+1593	A2-la-la			Alala[]PN
+1594	A2-la-la-a			Alala[]PN
+1595	A2-la-la-kam			Alala[]PN
+1596	A2-la-la-ra			Alala[]PN
+1597	A2-la-la-ta			Alala[]PN
+1598	A2-la2-a			Alaya[]EN		seems to be ethnicon (lu2 a2-la2-a; Ur); other ref's = a2 la2 'bind'
+1599	A2-la2-la2			Alala[]PN
+1600	A2-lal3-abzu-ka			Alalabzuk[]SN		OrSP 05 56 22 Wengler 31 le; seems to be field-name
+1601	A2-li2-id			Alid[]PN
+1602	A2-li2-id-DU			Alid[]PN		MCS 1 38 r 2: giri3 a2-li2-id# / D[U-x?] (photo; PD) ra2-gaba?
+1603	A2-li2-id-ta			Alid[]PN
+1604	A2-lu5				Alu[]PN
+1605	A2-lu5-lu5			Alulu[]PN
+1606	A2-lu5-lu5-ce3			Alulu[]PN
+1607	A2-lu5-mu			Aluŋu[]PN
+1608	A2-lu5-ta			Alu[]PN
+1609	A2-lu5-u2			Aluʾu[]PN
+1610	A2-lum-BI			A₂.LUM.BI[]PN
+1611	A2-ma-ru			Amaru[]PN
+1612	A2-mi-la			Amila[]PN
+1613	A2-mi-ni-ce3			Aminiše[]PN		Iraq 41 125 2 o 6 (1 Girsu)?; other ref's = a2-mi of {d}Ba-u2 (Girsu)
+1614	A2-na				Ana[]PN			hypo?
+1615	A2-na-LUM			A₂.na.LUM[]PN		1 Umma
+1616	A2-na-ac			Anašgi[]PN		typo
+1617	A2-na-ac-gi4			Anašgi[]PN
+1618	A2-na-ce3			Ana[]PN
+1619	A2-na-lum			A₂.na.LUM[]PN		1 Girsu
+1620	A2-na-mu			Anaŋu[]PN
+1621	A2-na-mu-ta			Anaŋu[]PN
+1622	A2-na-mu-uk			Anamuk[]PN		Elamite?
+1623	A2-na-na			Anana[]PN
+1624	A2-na-na-a			Anana[]PN
+1625	A2-na-na-ac			Anana[]PN
+1626	A2-na-na-ce3			Anana[]PN
+1627	A2-na-na-me			Anana[]PN
+1628	A2-na-na-ta			Anana[]PN
+1629	A2-na-sa6-ga			Anasaga[]PN
+1630	A2-na-ta			Ana[]PN
+1631	A2-ne-ni			Apili[]PN
+1632	A2-ni				Ani[]PN
+1633	A2-ni-a				Aniʾa[]PN		Nisaba 19 202 o 4: ŋiri3 a2#/-ni-a?# (Ur; copy)
+1634	A2-ni-a2			Alid[]PN
+1635	A2-ni-a2-ce3			Alid[]PN
+1636	A2-ni-a2-ta			Alid[]PN
+1637	A2-ni-da			Anida[]PN		Alida?
+1638	A2-ni-mu			Aniŋu[]PN		hypo?
+1639	A2-ni-ni			Anini[]PN
+1640	A2-ni-ni-ta			Anini[]PN
+1641	A2-ni-ta			Anita[]PN
+1642	A2-ni-ta-KA.KU.CU		Anita[]PN		uncertain; YOS 04 232 o i 21: A2-ni-ta kiri3-dab5 x (Umma; copy)?
+1643	A2-nin-dagal-ta			Anindaŋalak[]PN
+1644	A2-nin-ga-ta			Aninŋak[]PN		Nisaba 06 15 r i 27 (restored); probly typo for A2-nin-ga2-ta
+1645	A2-nin-ga2			Aninŋak[]PN
+1646	A2-nin-ga2-ta			Aninŋak[]PN
+1647	A2-nin-ga2-ta-da		A₂.nin.ga₂.TA.DA[]PN	1 Umma; same as Aninŋata?
+1648	A2-nin-ga2-ta-ta		Aninŋata[]PN		2 Umma?
+1649	A2-nu-nu			Anunu[]PN
+1650	A2-pa3-da			Apada[]PN
+1651	A2-pa3-da-ta			Apada[]PN
+1652	A2-pi-la-ca			Apilaša[]PN
+1653	A2-pi-la-num2			Apilanum[]PN
+1654	A2-pi-li2-a			Apiliʾa[]PN
+1655	A2-pi-li2-ta			Apili[]PN
+1656	A2-pi-lum			Apilum[]PN
+1657	A2-pi-lum-ma			Apiluma[]PN		2 PD; = Apilum?
+1658	A2-pi-lum-ma-ta			Apilum[]PN		3 Garshana; all ki …-ta
+1659	A2-pi-lum-ta			Apilum[]PN
+1660	A2-pi2-li2			Apili[]PN
+1661	A2-pi2-lum-ma			Apiluma[]PN		1 Garshana seal 3: dumu A-pi2-lum-ma
+1662	A2-pi5-la			Apila[]PN
+1663	A2-pi5-la-NI			Apilaya[]PN		uncertain; 1 Girsu (messenger)
+1664	A2-pi5-la-a			Apilaya[]PN
+1665	A2-pi5-la-ca			Apilaša[]PN
+1666	A2-pi5-la-ca-ar			Apilaša[]PN		1 PD (probly dat)
+1667	A2-pi5-la-ca-ce3		Apilaša[]PN
+1668	A2-pi5-la-ca-ta			Apilaša[]PN
+1669	A2-pi5-la-da			Apilaša[]PN		A 31974 r 1: A2-pi5-la-ša?# (photo; Girsu)
+1670	A2-pi5-la-ka3			A₂.NE.X.GA[]PN		BM 014921 o 3 (copy)
+1671	A2-pi5-la-lum			Apilanum[]PN
+1672	A2-pi5-la-nu-um			Apilanum[]PN
+1673	A2-pi5-la-num2			Apilanum[]PN
+1674	A2-pi5-la-num2-e		Apilanum[]PN
+1675	A2-pi5-la-ti			Apilati[]PN
+1676	A2-pi5-la-tum			Apilatum[]PN
+1677	A2-pi5-li			Apili[]PN
+1678	A2-pi5-li-a			Apiliʾa[]PN
+1679	A2-pi5-li2			Apili[]PN
+1680	A2-pi5-li2-a			Apiliʾa[]PN
+1681	A2-pi5-li2-a-ka			Apiliʾa[]PN		Nisaba 15/2 1097 r 1: ki A2-pi5-li2-a/-ka (Irisaŋrig?; translit)
+1682	A2-pi5-li2-a-ta			Apiliʾa[]PN
+1683	A2-pi5-li2-a2			Apiliʾa[]PN
+1684	A2-pi5-li2-ce3			Apili[]PN
+1685	A2-pi5-li2-ke4			Apili[]PN
+1686	A2-pi5-li2-ta			Apili[]PN
+1687	A2-pi5-lum			Apilum[]PN
+1688	A2-pi5-lum-ma			Apiluma[]PN
+1689	A2-pi5-lum-ma-ta		Apilum[]PN		1 Girsu
+1690	A2-pi5-lum-ta			Apilum[]PN
+1691	A2-ra-ag			Arag[]PN		1 Ur
+1692	A2-ra-da-na			Aradana[]PN		1 Girsu
+1693	A2-ri2-ik			Arik[]PN
+1694	A2-sa6-ga			Asaga[]PN
+1695	A2-si-du-du			Asidudu[]PN		1 Girsu
+1696	A2-si-lu			Asilu[]PN
+1697	A2-sum-ma			Ašuma[]PN
+1698	A2-sum-ma-ta			Ašuma[]PN
+1699	A2-sun2				not PN			location assoc'd with grain, near Hu-rim{ki} & Gu2-ab-ba{ki} (all Girsu)
+1700	A2-ta				Ata[]PN
+1701	A2-ta-cu-ta			Atašu[]PN
+1702	A2-ti-im-da-da-ta		Atimdada[]PN		
+1703	A2-ti-mu			Atiŋu[]PN
+1704	A2-ti-ti			Atiti[]PN
+1705	A2-tum-ce3			Atum[]PN		Idum? (1 PD)
+1706	A2-u2				Aʾu[]PN
+1707	A2-u2-mu			Aʾuŋu[]PN
+1708	A2-u2-sa6-sa6			Aʾusagsag[]PN
+1709	A2-u2-u2			AʾUʾu[]PN
+1710	A2-u2-u2-ta			AʾUʾu[]PN
+1711	A2-uru-gic-ta			Aʾiriŋeš[]PN
+1712	A2-zi				Azida[]PN
+1713	A2-zi-da			Azida[]PN
+1714	A2-zi-da-ce3			Azida[]PN
+1715	A2-zi-da-me			Azida[]PN
+1716	A2-zi-da-ta			Azida[]PN
+1717	A2-zu-zu			Azuzu[]PN
+1718	A2-{d}Ba-u2			ABaʾu[]PN		hypo?
+1719	A2-{d}Ba-u2-he2-gal2-ta		ABaʾuheŋal[]PN
+1720	A2-{d}Ba-u2-ta			ABaʾu[]PN
+1721	A2-{d}ICKUR-ba-ni		A₂.{d}IŠKUR.ba.ni[]PN		AhAdadbani?; Nisaba 15/2 0472 seal 1; = o 4: {d}IŠKUR-ba-ni? (PD)
+1722	A2-{d}Ickur-si-EZEMxKASKAL-ke4	A₂.{d}IŠKUR.si.EZEN×KASKAL[]PN	AʾIškur(ak)asila 'arm of Iškur is joy'? (SI is gloss?); BE 3-1 020 o 6' (Nippur)
+1723	A2-{d}Inanna-ka			AʾInanaka[]PN
+1724	A2-{d}Nanna			ANanna[]PN		'power is Nanna'?; or, ANannak 'arm of Nanna'?
+1725	A2-{d}Nanna-ta			ANanna[]PN
+1726	A2-{d}Nin-ga2-ta		ANinŋa[]PN
+1727	A2-{d}Nin-lil2-da		ANinlilda[]PN
+1728	A2-{d}Nin-lil2-ta		ANinlil[]PN
+1729	A2-{d}U2-u2			AʾUʾu[]PN
+1730	A2-{d}Utu			AʾUtu[]PN
+1731	A2.AN-la2			A₂.AN.la₂[]PN		not PN?; NBC 02658 o 1: 2 A2-AN-la2 / kin-gi4-a (Umma; translit)
+1732	A2.AN-ta			A₂.AN[]PN
+1733	A2.AN.DU.RU-ta			A₂.AN.DU.RU[]PN
+1734	A2.DU-ni			A₂.DU.ni[]PN
+1735	A2.MUC2-ig			unkn			ITT 5 06999 0 3: 4 ma-[n]a x[x x]/-MUŠ2-ig (Girsu; copy)
+1736	A2.NI-gi4-me			Anigi[]SN
+1737	A2.NI-gi4{ki}-me		Anigi[]SN
+1738	A2.NI-gi4{ki}-ta		Anigi[]SN
+1739	A2Da-gu				Dagu[]PN		BM 013661 r i 12: 1 gud-ŋeš Da?#-gu (Girsu; copy)
+1740	A2Da-na-AC-da			Da.na.AŠ.da[]PN		BM 022871 r 4: e2-ga2-nun Da-na-AŠ-da / Ur-sa6-ga-a {ŋeš}kiri6 ba-gub-ba (Girsu; photo/copy)
+1741	A:SI-ce-KIN-ku5			not PN			conflation of 2 Girsu MNs: amar-a-a-si & še-KIN-kud
+1742	A:TE-ta				not PN			UTI 5 3106 o 2, 3: (workers) kar-ta / Umma{ki}-še3
+1743	A:hu-ni				Ahuni[]PN
+1744	AB-Ba-gara2			AbbaBagara[]PN		1 Girsu
+1745	AB-a				not PN			Orient 16 076 109 o 4: gi En-gaba-ri6 / AB(×X?)#-a (Girsu; photo/copy)
+1746	AB-ce3				not PN			MVN 06 308 o ii 6: UN-il2 AB-še₃ (Girsu; translit)
+1747	AB-da				not PN			BM 027312 o 5: 3 UN-il2 AB-da MAŠ 0.1.0-ta (Girsu; translit)
+1748	AB-du3-du3			AB.du₃.du₃[]PN
+1749	AB-gal				EnunugalInanak[]PN	typo; MVN 18 474 r 7f (part of year-name for AS 5) (Umma; photo)
+1750	AB-gal-{d}Inanna		EnunugalInanak[]PN	typo; PPAC 4 164 r 3f (part of year-name for AS 5) (Umma; photo)
+1751	AB-gen				Abbagin[]PN		or, Abukin?
+1752	AB-gu-la			Abbagula[]PN
+1753	AB-il2-la			Abbaʾila[]PN
+1754	AB-it-ti			Abuʾitti[]PN
+1755	AB-ma-lik			Abumalik[]PN
+1756	AB-mah				Abbamah[]PN
+1757	AB-me				unkn			MVN 06 141 r 11: [...] AB-me (Girsu; translit)
+1758	AB-na				AB.na[]PN		1 PD
+1759	AB-na-a-ta			AB.na[]PN		1 Umma
+1760	AB-ne				AB.ne[]PN		Abbi?
+1761	AB-ri2-na			Abbaʾirina[]PN
+1762	AB-ru-um			Abrum[]PN
+1763	AB-ta				Abta[]PN		hypo?
+1764	AB-tal2-lugal			not PN			desig. of garment; {tug2}niŋ2-lam2 ab-tal2 lugal
+1765	AB-ti-ga-nu-um			AB.ti.ga.nu.um[]PN	may not be PN (PD; title "sheikh of Tiganum"?)
+1766	AB-za-na-ac			AB.za.na.aš[]PN
+1767	AB-za-ni			AB.za.ni[]PN
+1768	AB.A-bi				not PN			desig. processing of reeds (Girsu)
+1769	AB.KI-ta			unkn			A 31908 o 13: [ki x].AB{ki}-ta (Girsu; photo)
+1770	AB.KI.NE-ta			AB.KI.NE[]PN
+1771	AB.KU-sig5			AB.KU.sig₅[]PN		AB.KU for AB2.KU?
+1772	AB.NAM.TAG-ga2-bi2-du11		unkn			WMAH 284 o ii 14 (Girsu; descriptive qualifier of PN in ii 13?)
+1773	AB.NIN.AB-kam			AB.NIN.AB.kam[]PN	PDT 2 0805 o 6
+1774	AB.NIN.AB-kam-ta		AB.NIN.AB.kam[]PN	PDT 2 0805 r 13
+1775	AB.TAR-ta			Abba[]PN		Syracuse 170 r 3: ki Ab-ba?#-ta
+1776	AB.TUN3-mac2			unkn			probly not PN?; SAKF 008 o 3: (reeds) AB.DUN3-maš šu2-a (Umma; copy)
+1777	AB.ZU-{d}Inanna			AbzuʾInanak[]PN		1 PD
+1778	AB2-ba-sig5			Abbasag[]PN		1 Umma
+1779	AB2xDIC-ra			AB₂×DIŠ.ra[]PN		OrSP 20 82 IB 136 r 3: e2 HI?×X-ra (X = AŠ₂?) (Umma; copy)
+1780	AB2xKAR2-ga			E₂.AB₂×KAR₂.ga[]TN	BM 098292 o 2: ki Ur-{d}Ba-u2 e2 AB2×KAR2-ga
+1781	AB2xKID2.SANGA2-gal		AB₂×TAK₄.SANGA₂.gal[]PN	profession?
+1782	AB2xUD-ti-gi4			AB₂×KAR₂.ti.gi₄[]PN	Šemtigi?; MVN 18 605 r 1: 1.1.0 AB2×KAR2-ti-g[i4] (Umma; photo)
+1783	AB2xX+U.U-ku3-ge		AB₂×X+U.U.kug.ge[]PN	1 Umma (no photo/copy)
+1784	ABxAC2				Abba[]PN
+1785	ABxAC2-me			Abba[]PN
+1786	ABxGADA-na			AB×GADA.na[]PN		BM 012912 o ii 10: 4.1.0 kišib AB×GADA-na (copy)
+1787	ABxHA				Niŋin[]SN		CUSAS 16 074 o i 2' (copy; Girsu); broken context
+1788	ABxU				AB×U[]PN		NBC 00056 r iii 2' (copy; Girsu); partly broken, probly AB×HA
+1789	AB{ki}				AB[]SN
+1790	AB{ki}-ma-ke4			Urim[]SN		ŠEŠ.AB{ki}-ma written over 2 lines
+1791	AC-SAHAR{mucen}			not PN			FLP 0145 deliveries of birds (PD)
+1792	AC-a				AŠ.a[]PN
+1793	AC-a-ta				AŠ.a[]PN
+1794	AC-be-li2			AŠ.be.li₂[]PN
+1795	AC-bi				AŠ.bi[]PN		MVN 06 307 o 18 (broken context)
+1796	AC-ce-bi			AŠ.še.bi[]PN		Nisaba 15/2 1155 (broken context)
+1797	AC-ce3				not PN			adv aš-še3 '1st time'
+1798	AC-gu-uc-num2			Ašgušnum[]PN
+1799	AC-kam				unkn			Nisaba 15/2 1031 r i 38: x A DIM4 AŠ-kam (Umma?; no copy/photo)
+1800	AC-me				not PN			sun-disk
+1801	AC-ni				Dilini[]PN
+1802	AC-ni-u18-ta			AŠ.ni.u₁₈[]PN		Diliniʾuru 'alone he is a storm'?
+1803	AC-ta				AŠ.ta[]PN
+1804	AC-tu				AŠ.tu[]PN
+1805	AC.BUR-na			unkn			UET 3 0745 o 15 (broken context)
+1806	AC.DU-AC.DU-la			Aššamah[]PN		A 31682 o i 17': ki?# AŠ.DU-MAH?-ta (not LA; Girsu; photo)
+1807	AC.DU.PEC-e			Aššapeše[]PN		1 Umma
+1808	AC.NE-i3-li2			Ašpiʾili[]PN		'I asked my god' (< šepû 'ask')? 
+1809	AC2-da				AŠ₂.da[]PN
+1810	AC2-da-ba-lu5			AŠ₂.da.ba.lu₅[]PN	Ašdabalug 'he waits with a curse/wish'?
+1811	ACc				not PN			number
+1812	ACcLugal-{d}Ictaran		LugalIštaran[]PN	YBC 03678 r ii 3: typo for number + PN (Umma)
+1813	ACcx6				not PN			number
+1814	ACcx7				not PN			number
+1815	ACx5				not PN			number
+1816	AD-ab-zu			Abumabzu[]PN		1 Umma (messenger)
+1817	AD-bu-um			Abum[]PN
+1818	AD-ke4				AD[]PN			UET 3 1265 o 7 (Ur; probly AD 'raft')
+1819	AD-mu				Addaŋu[]PN		3 Girsu (all seals); = Ad-mu-a (all Girsu)?
+1820	AD-za-nu-um			AD.za.nu.um[]PN		Abumzaʾnum 'father is endowed' (< zânu 'decorate with')?
+1821	AD.DA-be-li2			Abumbeli[]PN
+1822	AH-bu-ru-um			Ahumburum[]PN
+1823	AH.KAL-i3-li2			AH.KAL.i₃.li₂[]PN	Ahumdannumili 'strong brother is my god' or Ahumwaqrumili 'precious brother is my god'?
+1824	AK-ba-ni			Akbani[]PN		PD (mostly < Mari)
+1825	AK-ta				AK[PN]PN		1 PD; elsewhere: (egir) ... AK-ta
+1826	AK-{d}Suen			AK.{d}Suen[]PN		Santag 6 384 r vi 32 (Umma; broken context); = {d}Nin-ak-{d}Suen (5 Umma)?
+1827	AM-bu-da			AM.bu.da[]PN		1 Girsu (messenger)
+1828	AM-ce3				not PN			bulls (PD)
+1829	AM-da				Amdaʾiŋal[]PN		BM 018964 o 12: Ur-sa6-ga dumu Am-da; r 5: Ur-sa6-ga dumu Am-da-i3-gal2
+1830	AM-i3-li2			AM.i₃.li₂[]PN
+1831	AMA.TAG-ra-bi-ta		AMA.TAG.ra.bi[]PN	1 Girsu (not PN?)
+1832	AMAR-ce3			not PN			grain/fodder for calves
+1833	AMAR-ma-an{ki}			AMAR.ma.an{ki}[]SN	PD
+1834	AMAR-ma-an{ki}-me		AMAR.ma.an{ki}[]SN	PD
+1835	AMAR-ma-ma			AmarMamak[]PN
+1836	AMAR.URU{ki}			AMAR.URU{ki}[]SN	1 Girsu
+1837	AN+ac-a				AN+aš.a[]PN
+1838	AN-AN-zu			AN.AN.zu[]PN		1 PD
+1839	AN-DA-BI-ce3			AN.DA.BI[]PN		1 Nippur
+1840	AN-DINGIR-su			AN.DINGIR.su[]PN	= Anumilišu?
+1841	AN-IGI-DU-NAM-a-zi		AN.IGI.DU.NAM.a.zi[]PN
+1842	AN-Lu2-du10-ga			AN.Lu₂.dug₃.ga[]PN	1 Umma
+1843	AN-TU-AMA-ce3			AN.TU.AMA[]PN
+1844	AN-ZU-bar-ra			unkn			MVN 06 296 o iii 17' (broken context)
+1845	AN-a-a				AN.a.a[]PN		hypo? (1 Girsu)
+1846	AN-a2-ce-ri-da			AN.a₂.še.ri.da[]PN	1 Umma
+1847	AN-a2-dah			Anatah[]PN
+1848	AN-a2-zi-da-ac			AN.a₂.zi.da.aš[]PN	1 Umma
+1849	AN-an-ne2			AN.an.ne₂[]PN		hypo? (2 Umma)
+1850	AN-ba				AN.ba[]PN
+1851	AN-ba-a				AN.ba.a[]PN
+1852	AN-ba-ba			AN.ba.ba[]PN		4 Umma
+1853	AN-ba-ba-a			AN.ba.ba.a[]PN		= AN.ba.ba? (1 Umma)
+1854	AN-ba-la			AN.ba.la[]PN		1 Girsu
+1855	AN-ba-ti-ri-tum-ma		AN.ba.ti.ri.tum[]PN	1 PD
+1856	AN-bi-la-CAR2xEC-U		AN.bi.la.HI×U.U.U.U[]PN	SACT 2 267 o 3 (1 Umma; after photo)
+1857	AN-bu-a				AN.bu.a[]PN		1 Girsu
+1858	AN-bu-um			not PN			metal obj
+1859	AN-bu3-da			AN.bu₃.da[]PN		1 Girsu
+1860	AN-bu3-lu5			AN.bu₃.LUL[]PN		Girsu
+1861	AN-bu3-lu5-ta			AN.bu₃.LUL[]PN
+1862	AN-bu3-ra2			AN.bu₃.ra₂[]PN		1 Girsu (seal)
+1863	AN-bu3-u2-a			AN.bu₃.u₂.a[]PN		1 Girsu
+1864	AN-bu3-za-ni			AN.bu₃.za.ni[]PN	2 Umma
+1865	AN-ce-sag-ku5			not PN			Umma MN (01)
+1866	AN-cu-a				AN.šu.a[]PN		1 Umma
+1867	AN-cu-ib-ni-cu			AN.šu.ib.ni.šu[]PN	1 Umma
+1868	AN-da				AN.da[]PN
+1869	AN-da-ga			AN.da.ga[]PN		mostly Girsu
+1870	AN-da-ga-NI			AN.da.ga.NI[]PN		1 Girsu
+1871	AN-da-gabi			AN.da.ga[]PN		BM 016376 r iii 9: DUB AN-da-ba/bi sipa (Girsu; not photo/copy)
+1872	AN-da-gar3			AN.da.gar₃[]PN		1 SI.A-a Arch.
+1873	AN-da-gu-du			AN.da.gu.du[]PN		Umma
+1874	AN-da-mu			AN.da.ŋu₁₀[]PN		Umma?
+1875	AN-dim2-dim2			not PN			craftsman
+1876	AN-du-du			AN.du.du[]PN
+1877	AN-du-gu			AN.du.gu[]PN		1 Girsu
+1878	AN-dur				not PN			an-usanₓ 'evening' (2 PD)
+1879	AN-e2-a-GAR3-MA2		AN.e₂.a.GAR₃.MA₂[]PN	1 Umma
+1880	AN-en-nu			AN.en.nu[]PN		hypo for Akk. Ennu(m)-DN 'X is gracious'?  (1 Girsu, 1 Ur)
+1881	AN-ga-a				AN.ga.a[]PN		1 PD
+1882	AN-ga-ti			AN.ga.ti[]PN		1 Umma (uncertain)
+1883	AN-ga-tum			AN.ga.tum[]PN		1 PD
+1884	AN-ga2-i3-sa6			Diŋirŋaʾisag[]PN	1 Girsu
+1885	AN-gu-da			AN.gu.da[]PN		unkn (seal)
+1886	AN-gu-du-mu			AN.gu.du.ŋu₁₀[]PN	1 Umma
+1887	AN-gu-gu			AN.gu.gu[]PN		all Umma
+1888	AN-gu-gu-ta			AN.gu.gu[]PN		all Umma
+1889	AN-gu-lu5-lu5			AN.gu.lu₅.lu₅[]PN	1 Girsu
+1890	AN-gu2-da			AN.gu₂.da[]PN		1 Girsu
+1891	AN-gu2-sa6			AN.gu₂.sag₉[]PN		1 Nippur
+1892	AN-gu7-a-ce3			AN.gu₇.a[]PN		Nisaba 05-1 205 U. 30160 (uncertain context; not PN?)
+1893	AN-ha-li2			AN.ha.li₂[]PN		1 Umma
+1894	AN-igi-du			Anpalil[]PN		or, Anigištu?
+1895	AN-igi-mu			AN.igi.ŋu₁₀[]PN		1 Umma
+1896	AN-kec2				AN.keš₂[]PN		1 PD
+1897	AN-ki-bi-ri'			AN.KI.BI.ri[]PN		typo (1 Girsu)
+1898	AN-ki-da-ta			Ankida[]PN		3 Girsu
+1899	AN-ku-zi-ri2			AN.ku.zi.ri₂[]PN	1 PD
+1900	AN-ku3-zu			unkn			AO 12993 seal 1 (Girsu; broken context)
+1901	AN-la-il			AN.la.il[]PN		1 PD
+1902	AN-lil2-la2			AN.lil₂.la₂[]PN		1 Umma
+1903	AN-lu-sa6			AN.lu.sag₉[]PN		= Anlusag?
+1904	AN-lu2-bi			Anlubi[]PN		1 PD
+1905	AN-lu2-mug-sa6			Anlumugsag[]PN		1 PD
+1906	AN-lu2-sa6			Anlusag[]PN
+1907	AN-lugal			Anlugal[]PN		Syracuse 212 seal
+1908	AN-ma-ka-ma			AN.ma.ka.ma[]PN		1 Irisaŋrig (WSem 'who is like (my) god'?)
+1909	AN-mi-li2-ti			AN.mi.li₂.ti[]PN	2 Girsu
+1910	AN-mu				Diŋirŋu[]PN		hypo?
+1911	AN-mu-da-ke4			Diŋirŋuda[]PN		1 Girsu
+1912	AN-mu-ma-sum			Diŋirŋumanšum[]PN	1 PD
+1913	AN-mu-ma-sum-me-ec2		Diŋirŋumanšum[]PN	1 PD
+1914	AN-na-a				Anaʾa[]PN
+1915	AN-na-na			Anana[]PN
+1916	AN-nu-um			Anum[]PN		uncertain (1 Nippur)
+1917	AN-pu3-tum2			Ilumputum[]PN		1 Girsu
+1918	AN-ra-bi2			Ilumrabi[]PN		no citations
+1919	AN-ra-bi2-ta			Ilumrabi[]PN		no citations
+1920	AN-sa6				Diŋirsaga[]PN
+1921	AN-sa6-LAGAR.PA.GADA-sag	AN.sag₉.LAGAR.PA.GADA.saŋ[]PN	1 Nippur
+1922	AN-sa6-ga			Diŋirsaga[]PN
+1923	AN-sa6-ga-a			Diŋirsaga[]PN
+1924	AN-sa6-ga-ce3			Diŋirsaga[]PN
+1925	AN-sa6-ga-ta			Diŋirsaga[]PN
+1926	AN-sig5				Diŋirsaga[]PN		all Umma
+1927	AN-su4				AN.su₄[]PN
+1928	AN-sukkal			Ansukal[]PN
+1929	AN-sukkal-ra			Ansukal[]PN
+1930	AN-ta				not PN			an-ta 'above'
+1931	AN-ti-a				Antiʾa[]PN
+1932	AN-tuku				Diŋirtuku[]PN		'having a god'?
+1933	AN-za-ba-zu-na			AN.za.ba.zu.na[]PN
+1934	AN-za3-mu			Anzagŋu[]PN		2 Irisaŋrig
+1935	AN-zi-KA			AN.zi.KA[]PN		1 Umma
+1936	AN-zi-gi4			AN.zi.gi₄[]PN		= AN-zi-gi4-NI-gi4? (1 Girsu)
+1937	AN-zi-gi4-NI-gi4		AN.zi.gi₄.NI.gi₄[]PN	all Girsu
+1938	AN-zu-a				AN.zu.a[]PN
+1939	AN-zu-zu			AN.zu.zu[]PN		VAT 02329 o ii 2' (Girsu; restored)
+1940	AN-{d}En-lil2-i3-sa6		Enlilisag[]PN		1 Girsu; assumption is dittography
+1941	AN.AN-ta			unkn			STU 24 o 3 (Umma; broken context)
+1942	AN.BU3.ZI-ta			AN.BU₃.ZI[]PN		all Umma
+1943	AN.DU-bi			AN.DU.bi[]PN		BM 106172 o 7: [x] AN.x[x]-bi (Umma; photo)
+1944	AN.DU-ca3-ta			AN.DU.ša₃[]PN		MAT 466 r 1: ki AN.DU-šag4?;-ta (Umma; photos unclear)
+1945	AN.DUL3-gen7			Andulgin[]PN
+1946	AN.DUL3-mu			Andulŋu[]PN
+1947	AN.DUL3-zi			Andulzi[]PN		Andulzid?
+1948	AN.E2-il			AN.E₂.il[]PN		1 PD
+1949	AN.EREN.NIMGIR-ne		unkn			1 Girsu (profession?)
+1950	AN.ERIM-he2-zu			AN.ERIN₂.he₂.zu[]PN	1 PD
+1951	AN.GA-am3			AN.GA.am₃[]PN		MVN 20 141 r i 3: 1 AN.BI?-am3 (Umma; photo)
+1952	AN.GA-mu			AN.GA.ŋu₁₀[]PN		1 PD
+1953	AN.GAR3-ce3			AN.GAR₃[]PN		may not be PN (1 Umma)
+1954	AN.GAR3-ta			AN.GAR₃[]PN
+1955	AN.GEcTIN			AN.GEšTIN[]PN		may not be PN (1 Girsu)
+1956	AN.GU2-ka			AN.GU₂.ka[]PN		may not be PN (1 Ur)
+1957	AN.HAR.IB-gi-a			AN.HAR.IB.gi.a[]PN	1 Girsu (field-name)
+1958	AN.HA{ki}-e			AN.HA{ki}[]SN
+1959	AN.HU.E-ne			AN.HU.E.ne[]PN		probly not PN (1 Girsu)
+1960	AN.KA-na			AN.KA.na[]PN
+1961	AN.KA-{d}Cara2			InimŠara[]PN		1 Umma
+1962	AN.KA.DU-ta			AN.KA.DU[]PN		1 Girsu
+1963	AN.KAL.MA2-ke4			not PN			1 PD (profession?/ethnicon?)
+1964	AN.KAxUD-zi			AN.KA×UD.zi[]PN		1 Umma
+1965	AN.KI.GAG-a			AN.KI.GAG.a[]PN		1 Girsu
+1966	AN.KU-ba-ni			AN.KU.ba.ni[]PN		1 Nippur
+1967	AN.KU-bi			AN.KU.bi[]PN		1 Girsu
+1968	AN.KU-ta			AN.KU[]PN		1 Girsu
+1969	AN.KU-ti-a			AN.KU.ti.a[]PN		1 Umma
+1970	AN.KU.ME-ta			AN.KU.ME[]PN		1 Umma
+1971	AN.MA.GIR3xKAR2			AN.MA.GIR₃×GAN₂@t[]PN	1 Umma	
+1972	AN.MI-ti			AN.MI.ti[]PN		1 Nippur (for AN.IM.MI?)
+1973	AN.MUNUS.UC-bi			AN.SAL.UŠ.bi[]PN	2 PD
+1974	AN.NE-la			AN.NE.la[]PN		1 Nippur
+1975	AN.NI-ba			Aneba[]PN		uncertain (1 Girsu)
+1976	AN.NI-ra-bi2			Ilirabi[]PN
+1977	AN.NIMGIR.Uc			Anagaʾus[]PN		hypo or DN? (1 Umma)
+1978	AN.PI.NI.HA-ce3			AN.PI.NI.HA[]PN		1 Umma
+1979	AN.PU3-a-ka			AN.PU₃.a.ka[]PN		SUL 255 o 6: TE TE.A A.AN KAxGAN2@t-a-ka (Umma; photo/copy)
+1980	AN.RI-ga2			AN.RI.ŋa₂[]PN		1 Nippur
+1981	AN.SAG-ta			AN.SAG[]PN		may not be PN (1 Garshana)
+1982	AN.SAR-ru			AN.SAR.ru[]PN		Šarru '(divine) king'? (1 Girsu)
+1983	AN.URU-eb-ri2			AN.URU.eb.ri₂[]PN	'god of the city is my friend'? (1 Umma)
+1984	AN.Uc.E2			AN.UŠ.E₂[]PN		may not be PN (1 Umma)
+1985	AN.ZA.GU.HAR-um			AN.ZA.GU.HAR.um[]MN	1 SI.A-a Arch.
+1986	AN.cE				AN.ŠE[]PN		ITT 5 06800 r 1' (Girsu; broken context)
+1987	AN.cUM				AN.ŠUM[]PN		1 Girsu
+1988	ANAN-ca-an{ki}-ta		Anšan[]SN		typo; BM 018550 le 1: AN&AN-ša-an{ki};-ta u₃ nibru{ki} kurₓ(DU) (Girsu)
+1989	ANCE-mug			ANŠE.mug[]PN		1 Umma		
+1990	ANCE-ta				not PN			donkeys
+1991	ANCE-zi				not PN			LB 0561 o iv 13 (Girsu; broken context); = anše zi-gum/gum₂/ku-um(-ma)
+1992	ANCE.DU-ce3			not PN			MVN 16 1383 o 3: gi ANŠE×KUR DU-še3 (Umma; copy)
+1993	ANCE.MUNUS-mah2			not PN			1 full-grown she-ass
+1994	AN{lu}-ca-du			Ilušadu[]PN
+1995	APIN-a				not PN			plows
+1996	APIN-ba-zi			not PN			apin/engar ba-zi
+1997	APIN-ba-zi-ta			not PN			apin/engar ba-zi
+1998	APIN-ce3			not PN			(items) for the plow
+1999	APIN-da				not PN			(items) with plow
+2000	APIN-du3-a			not PN
+2001	APIN-gibil-du3			not PN			making new plows
+2002	APIN-gu-la			Engargula[]PN
+2003	APIN-ta				not PN			plows
+2004	ARAD2-DU-ni			ARAD₂.DU.ni[]PN		1 Girsu
+2005	ARAD2-ac2-ra-ni			Waradašrani[]PN		1 Irisaŋrig
+2006	ARAD2-ba			not PN			UET 9 0036 o 4': [x?]-x ŋar-ra šukur2 arad2-ba (Ur; genitive?)
+2007	ARAD2-e2-a			Aradeʾak[]PN		1 Nippur; 1 Ur?; all others 'servants of the house'
+2008	ARAD2-i3-li2			Waradili[]PN
+2009	ARAD2-ib-ni			Wardamibni[]PN
+2010	ARAD2-ra			ARAD₂[]PN		possibly generic 'to/for the servant'; mostly Umma
+2011	ARAD2-su-ni			Warassuni[]PN		uncertain (1 Girsu)
+2012	ARAD2-su2-ni			Warassuni[]PN		uncertain
+2013	ARAD2-su2-ni-me			Warassuni[]PN		uncertain
+2014	ARAD2-u3			ARAD₂.u₃[]PN		all PD
+2015	ASARI-ce3			not PN			'4 jugs for the table'? (Nisaba 15/2 0710 o 2) (PD; no photo/copy)
+2016	ASc				not PN			typo (number)
+2017	Aa-da				Dada[]PN		typo (VAT 02392 o iii 15')
+2018	Aamar-GIR2gunu			Amar.GIR₂@g[]PN		typo (Ashm. 1971-366 o 11); = Amarul 'hastening calf'?
+2019	Ab-				unkn			17365 possibilities
+2020	Ab-a-a				Abbaya[]PN
+2021	Ab-ab-ba-mu			Abbaʾabbaŋu[]PN
+2022	Ab-ab-sa6-ga			Abbaʾabbasaga[]PN
+2023	Ab-ab-sa6-ga-ta			Abbaʾabbasaga[]PN
+2024	Ab-ba				Abba[]PN
+2025	Ab-ba-				unkn			9101 possibilities
+2026	Ab-ba-AN			Abbadiŋir[]PN
+2027	Ab-ba-DINGIR			Abbadiŋir[]PN
+2028	Ab-ba-DU.DU			AbbaDudu[]PN		all Girsu
+2029	Ab-ba-E2-a			AbbaʾEa[]PN
+2030	Ab-ba-GAR.NI			Ab.ba.GAR.NI[]PN	1 Umma
+2031	Ab-ba-GIR3			Abbaʾir[]PN		'father is mighty'? (1 Umma)
+2032	Ab-ba-NE-NE			AbbaNene[]PN		uncertain
+2033	Ab-ba-a				Abba[]PN		or, Abbaya?
+2034	Ab-ba-a-a			Abbaya[]PN
+2035	Ab-ba-a-a-ta			Abbaya[]PN
+2036	Ab-ba-a-ar			Abbaya[]PN
+2037	Ab-ba-a-ka			Abba[]PN
+2038	Ab-ba-a-ke4			Abba[]PN
+2039	Ab-ba-a-me			Abba[]PN
+2040	Ab-ba-a-mu			Abbaŋu[]PN
+2041	Ab-ba-a-num2			Abbanum[]PN
+2042	Ab-ba-a-ta			Abba[]PN
+2043	Ab-ba-ab-ba			Abbaʾabba[]PN
+2044	Ab-ba-ba			Abbaʾabba[]PN
+2045	Ab-ba-ba-a			Abbaʾabba[]PN		1 Girsu
+2046	Ab-ba-ba-ti			Abbabateŋ[]PN		1 PD
+2047	Ab-ba-ce3			Abba[]PN
+2048	Ab-ba-cim			Abbašim[]PN
+2049	Ab-ba-da-da			Abbadada[]PN
+2050	Ab-ba-dingir			Abbadiŋir[]PN
+2051	Ab-ba-du-du			Abbadudu[]PN
+2052	Ab-ba-du10-ga			Abbaduga[]PN
+2053	Ab-ba-du10-ga-ra		Abbaduga[]PN
+2054	Ab-ba-du10-ga-ta		Abbaduga[]PN
+2055	Ab-ba-du10-gage-na		unkn			typo (PDT 2 0924 seal 1) (PD; restored)
+2056	Ab-ba-du11-ga			Abbaduga[]PN
+2057	Ab-ba-dul			Abbadul[]PN
+2058	Ab-ba-e2			Abbaʾe[]PN
+2059	Ab-ba-e2-me			Abbaʾe[]PN
+2060	Ab-ba-ge-na			Abbagina[]PN
+2061	Ab-ba-ge-na-a			Abbagina[]PN
+2062	Ab-ba-ge-na-ce3			Abbagina[]PN
+2063	Ab-ba-ge-na-ka			Abbagina[]PN
+2064	Ab-ba-ge-na-kam			Abbagina[]PN
+2065	Ab-ba-ge-na-ke4			Abbagina[]PN
+2066	Ab-ba-ge-na-ra			Abbagina[]PN
+2067	Ab-ba-ge-na-ta			Abbagina[]PN
+2068	Ab-ba-ge-{na			unkn			942 possibilities
+2069	Ab-ba-gen7			Abbagin[]PN		1 Girsu
+2070	Ab-ba-gi			Abbagina[]PN		1 Girsu
+2071	Ab-ba-gin2			Abbagina[]PN		uncertain (1 Girsu)
+2072	Ab-ba-gu-la			Abbagula[]PN
+2073	Ab-ba-gu-la-ce3			Abbagula[]PN
+2074	Ab-ba-gu-la-ta			Abbagula[]PN
+2075	Ab-ba-gur			Abbagur[]PN		1 Umma
+2076	Ab-ba-igi-du8			Abbaʾigidu[]PN
+2077	Ab-ba-im			Ab.ba.IM[]PN		1 Girsu
+2078	Ab-ba-kal-la			Abbakala[]PN
+2079	Ab-ba-kal-la-a			Abbakala[]PN
+2080	Ab-ba-kal-la-ac			Abbakala[]PN
+2081	Ab-ba-kal-la-ce3		Abbakala[]PN
+2082	Ab-ba-kal-la-me			Abbakala[]PN
+2083	Ab-ba-kal-la-ta			Abbakala[]PN
+2084	Ab-ba-ki-ni			Abukin[]PN		uncertain (1 Ur)
+2085	Ab-ba-ku3-zu			Abbakugzu[]PN
+2086	Ab-ba-la			Abbala[]PN
+2087	Ab-ba-lu-lu			Abbalulu[]PN
+2088	Ab-ba-lum			Abbalum[]PN
+2089	Ab-ba-mu			Abbaŋu[]PN
+2090	Ab-ba-mu-ce3			Abbaŋu[]PN
+2091	Ab-ba-mu-ka			Abbaŋu[]PN
+2092	Ab-ba-mu-ke4			Abbaŋu[]PN
+2093	Ab-ba-mu-ra			Abbaŋu[]PN
+2094	Ab-ba-mu-ta			Abbaŋu[]PN
+2095	Ab-ba-na			Abbana[]PN		hypo?
+2096	Ab-ba-na-ka			Abbana[]PN
+2097	Ab-ba-ne-ne			AbbaNene[]PN
+2098	Ab-ba-ni			Abbani[]PN
+2099	Ab-ba-ni-ir			Abbani[]PN
+2100	Ab-ba-ni-ke4			Abbani[]PN
+2101	Ab-ba-nun-na			Abbanun[]PN		1 Umma (-na is gen?)
+2102	Ab-ba-ra			Abba[]PN
+2103	Ab-ba-sa6			Abbasaga[]PN
+2104	Ab-ba-sa6-a-ta			Abbasaga[]PN
+2105	Ab-ba-sa6-ga			Abbasaga[]PN
+2106	Ab-ba-sa6-ga-a			Abbasaga[]PN
+2107	Ab-ba-sa6-ga-ce3		Abbasaga[]PN
+2108	Ab-ba-sa6-ga-ka			Abbasaga[]PN
+2109	Ab-ba-sa6-ga-kam		Abbasaga[]PN
+2110	Ab-ba-sa6-ga-me			Abbasaga[]PN
+2111	Ab-ba-sa6-ga-ta			Abbasaga[]PN
+2112	Ab-ba-sa6-ga-ta-ta		Abbasaga[]PN		BM 116656 o 5 (PD; no photo/copy); likely dittography
+2113	Ab-ba-sa6-sa6			Abbasagsag[]PN
+2114	Ab-ba-sag			Abbasaŋ[]PN
+2115	Ab-ba-sag-ce3			Abbasaŋ[]PN
+2116	Ab-ba-sal-la			Abbasala[]PN
+2117	Ab-ba-sig5			Abbasaga[]PN
+2118	Ab-ba-sig5-ce3			Abbasaga[]PN
+2119	Ab-ba-sig5-ra			Abbasaga[]PN
+2120	Ab-ba-sig5-ta			Abbasaga[]PN
+2121	Ab-ba-sila-na			Abbasilana[]PN		1 Umma?; 'father of/in his street/joy'?
+2122	Ab-ba-ta			Abba[]PN
+2123	Ab-ba-ti			Abbatil[]PN
+2124	Ab-ba-uc-cu-sa6-ga		Abbaʾuššusagak[]PN
+2125	Ab-ba-uru			Abbaʾirik[]PN
+2126	Ab-ba-uru-na			Abbaʾirinak[]PN
+2127	Ab-ba-ze2-me			Abbaze[]PN		1 Umma
+2128	Ab-ba-zi			Abbazid[]PN		1 Umma
+2129	Ab-ba-{d}Cara2-gen7		AbaŠaragin[]PN		1 Umma (sic)
+2130	Ab-ba-{d}En-lil2-ta		AbbaʾEnlil[]PN		1 PD
+2131	Ab-ba-{d}Nance			AbbaNanše[]PN		1 Girsu
+2132	Ab-bala				Abbabala[]PN		1 Umma
+2133	Ab-ca-na-ac			Abšanaš[]PN		1 Susa (Elamite?)
+2134	Ab-ce-la-ah			Abšelah[]PN
+2135	Ab-du-ca			Abduša[]PN
+2136	Ab-e-ki-ag2			Abbaʾekiʾaŋ[]PN
+2137	Ab-ge-na			Abbagina[]PN
+2138	Ab-kal-la			Abbakala[]PN
+2139	Ab-la				Abla[]PN		Nebraska 03 seal 3: dumu Ab-la? (PD)
+2140	Ab-ma-a				Abma[]PN		1 Umma (messenger)
+2141	Ab-me-lum			Abmelum[]SN		field-name (Ur)
+2142	Ab-nu-nu-um			Abnunum[]PN		1 Ur
+2143	Ab-ra				Abra[]PN		1 Girsu
+2144	Ab-ra-at			unkn			TCTI 2 04259 o 5: lu2-kin-gi4-a x#-ab?#/-ra-at (copy; Labrat?)
+2145	Ab-ta-ab-e3			Abtabe[]PN
+2146	Ab-ta-be2			Abtabe[]PN
+2147	Ab-u2-a				Abuʾa[]PN		NBC 00627 o 7 (same PN in same sequence as BM 110207)
+2148	Ab-u2-e				Abuʾa[]PN		BM 110207 o 7 (same PN in same sequence as NBC 00627)
+2149	Ab-za-lum			AB.ZA.LUM[]PN		2 Girsu (messenger)
+2150	Ab-za-na-ac			Abzanaš[]PN
+2151	Ab2-la-la			Ablala[]PN
+2152	Ab2-la-la-a			Ablala[]PN
+2153	Ab2-tur3-e			Abture[]PN
+2154	Abzu				Abzu[]SN		994 possibilities
+2155	Abzu-banda3{da}			Abzubanda[]PN
+2156	Abzu-si{ki}			Abzusi[]SN
+2157	Abzu-{d}Inanna			not PN			PTS 1188 o 4: (sheep/goats) for the abzu of Inana (PD)
+2158	Ab{ki}-ma-ke4			Urim[]SN		ŠEŠ.AB{ki} written over 2 lines (3 Umma)
+2159	Ac				not PN			8800 possibilities (probly number)
+2160	Ac+				unkn			8800 possibilities (probly number)
+2161	Ac+MA				unkn			Orient 21 2 r vi 25' (Umma; broken context)
+2162	Ac-cur5{ki}			Aššur[]SN
+2163	Ac-cur6{ki}			Aššur[]SN
+2164	Ac-da-ba{ki}			Ašdaba[]SN
+2165	Ac-da-en-na			Ašdaʾena[]PN		1 PD
+2166	Ac-da-ga			Ašdaga[]PN		1 PD
+2167	Ac-da-gaba			Ašdagaba[]PN		1 Girsu
+2168	Ac-da-gal			Ašdagal[]PN		1 Girsu
+2169	Ac-da-hu-da			Ašdahuda[]PN		1 Šāt-Eštar Arch.?
+2170	Ac-du-ra			Ašdura[]PN
+2171	Ac-gi4-pa3-da			Ašgipada[]PN
+2172	Ac-gi4{ki}-ce3'			Šimaški[]SN		typo
+2173	Ac-gu-ba-rum			Ašgubarum[]PN		1 PD
+2174	Ac-hi-AN			Aš.hi.AN[]PN		1 Umma
+2175	Ac-ka-e				Aš.KA.X[]PN		Ontario 2 317 o 4: Aš-ka?-x (Umma; photo)
+2176	Ac-ku-KAL			Aškudan[]PN		all Umma
+2177	Ac-ku-da-an			Aškudan[]PN		all Umma
+2178	Ac-ku-da-num2			Aškudanum[]PN
+2179	Ac-li2-u19			Ašliʾu[]PN
+2180	Ac-ni-u18			Ašliʾu[]PN
+2181	Ac-ni-u18-ta			Ašliʾu[]PN
+2182	Ac-ni-u19			Ašliʾu[]PN
+2183	Ac-ni-u19-ta			Ašliʾu[]PN
+2184	Ac-nun{ki}-ta			Ešnuna[]SN
+2185	Ac-sig5				not PN			number + qualifier of commodities
+2186	Ac-ta2-kar3			Aštakar[]PN
+2187	Ac-ta2-kar3-ta			Aštakar[]PN
+2188	Ac-wa-ca			X.PI.ra.ma[]PN		MDP 54 21 r 1: [x]x-PI-ra?/-ma (Susa; copy)
+2189	Ac2-a				unkn			MVN 03 321 o 4: me-aš2-nun AŠ2 3(bariga); CDLI: me#-asz2-nun udru{duru5} (Nippur)
+2190	Ac2-ba				Ašba[]PN		1 Aradmu Arch.?
+2191	Ac2-da-gu-ar			Ašdaguʾar[]PN		1 Girsu
+2192	Ac2-de3-NI-e			Aš₂.de₃.NI.e[]PN	1 Umma
+2193	Ac2-du-bi2-ic-ta		Ašdubiš[]PN
+2194	Ac2-du-{d}En-lil2		AšduʾEnlil[]PN		field-name? (1 Umma)
+2195	Ac2-e2-ba			Ašeba[]PN		all Girsu
+2196	Ac2-gur-da			Ašgurda[]PN		1 Irisaŋrig
+2197	Ac2-ku-da-nu-um			Aškudanum[]PN
+2198	Ac2-ku-da-num2			Aškudanum[]PN
+2199	Ac2-ku-ru-na			Aškuruna[]PN		1 Irisaŋrig
+2200	Ac2-nun-na-ce3			Ešnuna[]SN		field-name? (Nippur)
+2201	Ac2-nun-na-ta			Ešnuna[]SN
+2202	Ac2-nun-na{ki}			Ešnuna[]SN
+2203	Ac2-nun-na{ki}-ce3		Ešnuna[]SN
+2204	Ac2-nun-na{ki}-ka		Ešnuna[]SN
+2205	Ac2-nun-na{ki}-ke4		Ešnuna[]SN
+2206	Ac2-nun-na{ki}-ta		Ešnuna[]SN
+2207	Ac2-nun{ki}			Ešnuna[]SN
+2208	Ac2-nun{ki}-ce3			Ešnuna[]SN
+2209	Ac2-nun{ki}-ka			Ešnuna[]SN
+2210	Ac2-nun{ki}-ta			Ešnuna[]SN
+2211	Ac2-ra-nu-um			Ašranum[]PN
+2212	Ac2-ta2-kar3			Aštakar[]PN
+2213	Ac2-te-ni-ib			Aštenib[]PN		1 Girsu
+2214	Ac2-ti				Ašti[]PN		1 Irisaŋrig
+2215	Ac7-ga				Ašga[]PN		1 Umma
+2216	AcC				not PN			typo for number
+2217	Acc				not PN			typo for number
+2218	Account				not PN			content of Souvay 47: 52 geme2 for grinding ba-zi from ka-lu5-lu5's account
+2219	Ac×				unkn			typo?
+2220	Ad-				unkn			2933 possibilities
+2221	Ad-ILLAT			Abuʾillat[]PN		1 Umma, 1 Ur
+2222	Ad-KA-ge-na			Addaʾinimgina[]PN
+2223	Ad-NE-na			Ad.NE.na[]PN		KVM 32.1214 o iii 18'
+2224	Ad-da				Adda[]PN
+2225	Ad-da-				unkn			1725 possibilities
+2226	Ad-da-AN			Addadiŋir[]PN		1 Umma
+2227	Ad-da-NIM			Adda[]PN		provisions for Adda NIM (profession?/ethnicon?) (all Girsu; messenger)
+2228	Ad-da-a				Addak[]PN
+2229	Ad-da-a-ce3			Addak[]PN
+2230	Ad-da-a-ka			Addak[]PN
+2231	Ad-da-a-ka-ce3			Addak[]PN
+2232	Ad-da-a-ka-ra			Addak[]PN
+2233	Ad-da-a-ka-ta			Addak[]PN
+2234	Ad-da-a-ke4			Addak[]PN
+2235	Ad-da-a-ra			Addak[]PN
+2236	Ad-da-a-ta			Addak[]PN
+2237	Ad-da-be-li2			Abubeli[]PN		all Umma
+2238	Ad-da-bi			Addabi[]PN
+2239	Ad-da-bi-li-ir			Addabilir[]PN		1 Girsu (messenger; Elamite?)
+2240	Ad-da-bu-NI-hu-dah		Ad.da.bu.NI.hu.dah[]PN	PDT 2 0807 o ii 10 (1 PD broken context)
+2241	Ad-da-bu-ni			Addabuni[]PN		1 PD
+2242	Ad-da-ce3			Adda[]PN
+2243	Ad-da-da			Addada[]PN		mostly Umma
+2244	Ad-da-du			Addada[]PN		BM 113812 o 6: Ad-da-d[u] (Umma; no photo/copy); probly Addada
+2245	Ad-da-du10-ga			Addaduga[]PN
+2246	Ad-da-e				Adda[]PN		JRL 0733 r 1-2:  (wheat) Ad-da-ra# / su-su-dam (Umma; photo/copy)
+2247	Ad-da-ga-da			Addagada[]PN
+2248	Ad-da-ga-da-ta			Addagada[]PN
+2249	Ad-da-ga-ta			Addaga[]PN		1 Nippur
+2250	Ad-da-gal-e2-a-me-lam2		Addagaleʾamelam[]PN	NYPLC 369 r i 4 (Girsu; broken context)
+2251	Ad-da-ge-na			Addagina[]PN
+2252	Ad-da-gu-ka			Addagu[]PN		1 Umma
+2253	Ad-da-gu-la			Addagula[]PN
+2254	Ad-da-gu-la-ta			Addagula[]PN
+2255	Ad-da-ha-li			Addahali[]PN		1 PD
+2256	Ad-da-ha-ma-ti			Addahamatil[]PN
+2257	Ad-da-hi-li			Addahili[]PN
+2258	Ad-da-ka			Adda[]PN
+2259	Ad-da-ka-la			Addakala[]PN
+2260	Ad-da-kal			Addakala[]PN
+2261	Ad-da-kal-la			Addakala[]PN
+2262	Ad-da-kal-la-a			Addakala[]PN
+2263	Ad-da-kal-la-ac			Addakala[]PN
+2264	Ad-da-kal-la-ce3		Addakala[]PN
+2265	Ad-da-kal-la-ra			Addakala[]PN
+2266	Ad-da-kal-la-ta			Addakala[]PN
+2267	Ad-da-kal-la2			Addakala[]PN
+2268	Ad-da-ke4			Adda[]PN
+2269	Ad-da-lu2			Addalu[]PN
+2270	Ad-da-lu5			Addalu[]PN		1 Umma; rdg of LUL uncertain
+2271	Ad-da-mu			Addaŋu[]PN
+2272	Ad-da-mu-ce3			Addaŋu[]PN
+2273	Ad-da-mu-ta			Addaŋu[]PN
+2274	Ad-da-na			Addana[]PN		hypo?
+2275	Ad-da-na-GIR3			Abunawir[]PN		= Ad-da-na-PIRIG?; BM 015316 o ii 13 (Girsu; no photo/copy)
+2276	Ad-da-na-PI-a			unkn			no citations
+2277	Ad-da-na-PIRIG			Abunawir[]PN		= Ad-da-na-GIR3?; BM 018409 r 6 (Girsu; copy)
+2278	Ad-da-na-bi			Abunawir[]PN		uncertain (2 Girsu)
+2279	Ad-da-na-bi-ir			Abunawir[]PN
+2280	Ad-da-na-nam			Abunawir[]PN		1 Girsu
+2281	Ad-da-na-num2			Ad.da.na.LUM[]PN	= Abunawir? (1 Umma; no photo/copy)
+2282	Ad-da-na-pir			Abunawir[]PN		1 Girsu
+2283	Ad-da-na-pirig			Abunawir[]PN		= Ad-da-na-GIR3?; WMAH 175 o ii 27 (Girsu; photo/copy)
+2284	Ad-da-na-ud			Abunawir[]PN		1 Girsu
+2285	Ad-da-na-wi-ir			Abunawir[]PN
+2286	Ad-da-na-zum			Abunawir[]PN		PTS 1504 r 5: (provisions) Ad-da-na-bi-ir (Umma messenger; photo)
+2287	Ad-da-ni			Addani[]PN
+2288	Ad-da-ra			Adda[]PN
+2289	Ad-da-ri2			Addari[]PN		Addaʾirik 'father of (his) city'?
+2290	Ad-da-sa6-ga			Addasaga[]PN
+2291	Ad-da-ta			Adda[]PN
+2292	Ad-da-tur			Addatur[]PN
+2293	Ad-da-tur-ce3			Addatur[]PN
+2294	Ad-da-tur-ta			Addatur[]PN
+2295	Ad-da-unu-ka-ke4		Addaʾunugak[]PN
+2296	Ad-da-zu			Addazu[]PN
+2297	Ad-da-{d}Gu-la			AddaGula[]PN
+2298	Ad-da2-kal-la-ta		Addakala[]PN
+2299	Ad-da{ki}			Adda[]SN		1 Girsu
+2300	Ad-di3-ic-ta			Addišta[]PN		1 Girsu
+2301	Ad-di3-la-at			Addilat[]PN
+2302	Ad-du				Addu[]PN
+2303	Ad-du-EN			Adduʾenna[]PN		1 Girsu; Haddu is gracious?
+2304	Ad-du-ca			Adduša[]PN
+2305	Ad-du-en-na			Adduʾenna[]PN		Haddu is gracious?
+2306	Ad-du-na			Adduna[]PN		1 PD
+2307	Ad-du-zu			Adduzu[]PN		= Adduzum? (1 Šāt-Eštar Arch?)
+2308	Ad-du-zum			Adduzum[]PN		= Adduzu? (1 Umma)
+2309	Ad-du11-ge			Addaduge[]PN		1 Ur
+2310	Ad-ga-nu-um			Abuganum[]PN		uncertain (2 PD); WSem
+2311	Ad-gi6-par4			Addaŋipar[]PN		1 Irisaŋrig
+2312	Ad-il-ad			Abuʾillat[]PN
+2313	Ad-il-at			Abuʾillat[]PN
+2314	Ad-il3-at			Abuʾillat[]PN
+2315	Ad-il8-at			Abuʾillat[]PN
+2316	Ad-kal-la			Addakala[]PN
+2317	Ad-lal3				Addalal[]PN
+2318	Ad-mu				Addaŋu[]PN		= AD.mu.um?
+2319	Ad-mu-a				Admuʾa[]PN		uncertain (all Girsu)
+2320	Ad-mu-um			AD.mu.um[]PN		Irisaŋrig
+2321	Ad-mu-um-me			AD.mu.um.me[]PN		1 Irisaŋrig
+2322	Ad-ti-e2-mah			Addiʾemah[]PN		= Addaʾemah? (1 Umma)
+2323	Ad-tu-ge			Attuge[]PN		1 Ur
+2324	Ad-…				unkn			2933 possibilities
+2325	Ad6-NI-mu			Ad₆.NI.mu[]PN		1 PD
+2326	Ad6-gi6				Addagiggi[]PN		uncertain; 'black-corpse'?
+2327	Ad6-gi6-mu			Addagiggiŋu[]PN		uncertain; 'my black-corpse'?
+2328	Ad6-gi6-ta			Addagiggi[]PN
+2329	Adab{ki}			Adab[]SN
+2330	Adab{ki}-ba			Adab[]SN
+2331	Adab{ki}-ce3			Adab[]SN
+2332	Adab{ki}-ka			Adab[]SN
+2333	Adab{ki}-ke4			Adab[]SN
+2334	Adab{ki}-me			Adab[]SN
+2335	Adab{ki}-ne			Adab[]SN
+2336	Adab{ki}-ta			Adab[]SN
+2337	Ag-ga				not PN			verb (1 Nippur)
+2338	Ag-ga-mu			Agaŋu[]PN
+2339	Ag-sag-kecda			Agasaŋkeš[]PN		typo
+2340	Aga-sag-kec2			Agasaŋkeš[]PN
+2341	Aga-sag-kec2-e			Agasaŋkeš[]PN
+2342	Aga3-la2			Agala[]PN
+2343	Ah-ba-bu			Ahbabu[]PN		1 PD
+2344	Ah-da-li-ib			Ahdalib[]PN		1 PD
+2345	Ah-dam-i3-li2			Ahdamili[]PN		2 Garshana, 1 Umma?
+2346	Ah-ha-ti-mur			Ahatimur[]PN		1 PD
+2347	Ai				not PN			formatting
+2348	Ai'				not PN			formatting
+2349	Aii				not PN			formatting
+2350	Aii'				not PN			formatting
+2351	Aiii'				not PN			formatting
+2352	Aiv'				not PN			formatting
+2353	Ak-ba-ni			Akbani[]PN		all PD
+2354	Ak-ba-zum			Akbazum[]PN		all Garshana
+2355	Ak-du-nu-um			Akdunum[]PN		2 Irisaŋrig
+2356	Ak-ma-a				Akma[]PN		1 Garshana
+2357	Ak-ri				Akri[]PN		1 Ur
+2358	Ak-zi				Akzi[]PN		1 Umma
+2359	Akcak2{ki}-ta			Akšak[]SN
+2360	Akcak{ki}			Akšak[]SN
+2361	Akcak{ki}-ta			Akšak[]SN
+2362	Al				unkn			6788 possibilities
+2363	Al-				unkn			6788 possibilities
+2364	Al-KU				Al.KU[]PN		1 Umma
+2365	Al-al-li2-ta			Alalli[]PN		1 Umma
+2366	Al-ba-an-ni-du11		Albanidug[]PN
+2367	Al-ba-ni			unkn			JCS 52 12 57 r iii 14 (Umma; broken context)
+2368	Al-ba-ni-a-du11			Albanidug[]PN		UET 3 0915 r 1: ŋiri3 Al-ba-ni-x?/-dug4 šidim (NI overwrites X) (Ur; photo/copy)
+2369	Al-ba-ni-du10			Albanidug[]PN
+2370	Al-ba-ni-du11			Albanidug[]PN
+2371	Al-ba-ni-du11-			Albanidug[]PN
+2372	Al-ba-ni-du11-ce3		Albanidug[]PN
+2373	Al-ba-ni-du11-ke4		Albanidug[]PN
+2374	Al-ba-ni-du11-me		Albanidug[]PN
+2375	Al-ba-ni-du11-ta		Albanidug[]PN
+2376	Al-ca-na-bi			Alšanabi[]PN		1 Girsu
+2377	Al-ca-na{ki}			Alšana[]SN
+2378	Al-ca-na{ki}-ka-bi		Alšana[]SN
+2379	Al-ca-na{ki}-ta			Alšana[]SN
+2380	Al-ci-DINGIR			A.ŠI.AN[]PN		typo; Torino 2 603 o 2: {d}Šara2-kam dumu A/.ŠI.AN (1 Umma); Erdiŋirak 'tears of god'?
+2381	Al-du-ru-um			Aldurum[]PN		2 Garshana
+2382	Al-du10				Alduga[]PN
+2383	Al-du10-ga			Alduga[]PN
+2384	Al-hu-ca			Alhuša[]PN
+2385	Al-la				Alla[]PN
+2386	Al-la-DI			Alladi[]PN
+2387	Al-la-DI-ce3			Alladi[]PN
+2388	Al-la-DI-mu			Alladiŋu[]PN
+2389	Al-la-DI.NE			Al.la.DI.NE[]PN
+2390	Al-la-LUL			Al.la.LUL[]PN
+2391	Al-la-LUL-ke4			Al.la.LUL[]PN
+2392	Al-la-a				Alla[]PN
+2393	Al-la-ac			Allaš[]PN		= Allaše? (1 Umma)
+2394	Al-la-ba-an-gi4			Allabangi[]PN
+2395	Al-la-ba-an-zi			Allabanzig[]PN
+2396	Al-la-ba-ni-ka			Allabanidug[]PN		all Girsu
+2397	Al-la-ba-zi			Allabanzig[]PN
+2398	Al-la-ba-zi-ge			Allabanzige[]PN		MVN 11 218 o 5 (unkn source)
+2399	Al-la-ba-zi-ra			Allabanzig[]PN
+2400	Al-la-bi			Allabi[]PN
+2401	Al-la-bi-ce3			Allabi[]PN
+2402	Al-la-ca-ru-um			Allašarrum[]PN		= Allašar?
+2403	Al-la-car			Allašar[]PN		= Allašarrum?
+2404	Al-la-car-ru-um			Allašarrum[]PN		= Allašar?
+2405	Al-la-car-u3			Allašar[]PN		typo; RA 08 197 21 o 4-5: Al-la-šar u3 / Nin-e-ma-šum2 dumu-ni (Nippur); = Allašarrum?
+2406	Al-la-ce3			Allaše[]PN		= Allaš?
+2407	Al-la-cu			Allašu[]PN
+2408	Al-la-cu-hu			Allašuhu[]PN		1 Girsu
+2409	Al-la-cu-sa6-ga			Allašusaga[]PN
+2410	Al-la-da			Allada[]PN
+2411	Al-la-di			Alladi[]PN
+2412	Al-la-di-mu			Alladiŋu[]PN
+2413	Al-la-di-mu-ta			Alladiŋu[]PN
+2414	Al-la-dingir			Alladiŋir[]PN
+2415	Al-la-dingir-ra			Alladiŋir[]PN		AnOr 01 243 r i 1 (Umma; broken context)
+2416	Al-la-e				Allaʾe[]PN		-e may be agent (1 Irisaŋrig)
+2417	Al-la-ge-na			Allagina[]PN
+2418	Al-la-ge-na-ta			Allagina[]PN
+2419	Al-la-gu			Allagu[]PN		AOAT 240 76 3 seal 2: dumu Al-la?-gu (Girsu; translit)
+2420	Al-la-gu-la			Allagula[]PN
+2421	Al-la-ha-ma-ti			Allahamatil[]PN		1 Girsu, 1 PD
+2422	Al-la-ha-ti			Allahamatil[]PN		1 Girsu
+2423	Al-la-ka			not PN			(ac)counting of hoes
+2424	Al-la-kal-la			Allakala[]PN		or, Allakala 'Alla is dear' (1 Umma)
+2425	Al-la-kam			Allakam[]PN
+2426	Al-la-kam-ta			Allakam[]PN
+2427	Al-la-ke4			Allake[]PN		hypo?
+2428	Al-la-ke4-ne			Allake[]PN
+2429	Al-la-ke4-sa6-ga		Allakesaga[]PN
+2430	Al-la-la			Allala[]PN
+2431	Al-la-me			Allame[]PN		2? Umma
+2432	Al-la-mu			Allaŋu[]PN
+2433	Al-la-mu-bi			Allamubi[]PN		uncertain; BM 087733A o 4 Al-la- restored (Girsu; translit)
+2434	Al-la-mu-ce3			Allaŋu[]PN
+2435	Al-la-mu-ta			Allaŋu[]PN
+2436	Al-la-na			unkn			uncertain; Bod. S 435 r 1: kišib gur?/ur?#-ra?-na (Umma; photo/copy)
+2437	Al-la-na-ce3			Allani[]PN		TCTI 2 03475 o 5: (kišib) mu Al-la-na-še3 ib2-ra
+2438	Al-la-ni			Allani[]PN
+2439	Al-la-ni-du11			Allaʾidug[]PN		or, Allanidug? (1 Umma)
+2440	Al-la-ni-ta			Allani[]PN
+2441	Al-la-ni-zu			Allaʾizu[]PN		or, Allanizu? (1 Girsu)
+2442	Al-la-nig2-gur2			Allaniŋgur[]PN		1 Umma
+2443	Al-la-palil2			Al.la.IGI.EŠ₂.DU[]PN	Allapalil?
+2444	Al-la-palil2-ta			Al.la.IGI.EŠ₂.DU[]PN
+2445	Al-la-ra			Alla[]PN
+2446	Al-la-sa-ad			Allasad[]PN		MVN 06 299 r 1: 1 udu dumu Al-la?-sa-ad (Girsu; not photo/copy)
+2447	Al-la-sa6-ga			Allasaga[]PN
+2448	Al-la-su-ka			Allasu[]PN		may be EN (Umma; photo)
+2449	Al-la-su2			Allasu[]PN		may be EN
+2450	Al-la-ta			Alla[]PN
+2451	Al-la-ti-mu			Allatilŋu[]PN
+2452	Al-la-tur-tur			Al.la.TUR.TUR[]PN
+2453	Al-la-{d}Cul-gi			AllaŠulgir[]PN
+2454	Al-la-{gic}gectin		Allaŋeštin[]PN
+2455	Al-la2-la2			Allala[]PN
+2456	Al-ladi-ne			Al.la.DI.NE[]PN		typo; BM 015791 o ii 4: 0.0.1 Ur-{d}Ba-u2 dumu Al?-<la>-di-ne (Girsu; no photo/copy)
+2457	Al-li2-a			Alliʾa[]PN
+2458	Al-li2-ga			Alliga[]PN
+2459	Al-lu				Allu[]PN
+2460	Al-lu-a				Alluʾa[]PN
+2461	Al-lu-erasure			Al.lu.X[]PN		ASJ 03 190 4 o 17 (Umma; copy)
+2462	Al-lu-me			Allu[]PN
+2463	Al-lu-mu			Alluŋu[]PN
+2464	Al-lu-na			Alluna[]PN
+2465	Al-lu-ri-num2			Allurinum[]PN		1 PD
+2466	Al-lu-ri2-ca			Alluriša[]PN		1 Umma
+2467	Al-lu-ta			Allu[]PN
+2468	Al-lu2*				X.X[]PN			Nisaba 11 31 o ii 12: 1 Al?#-lu2?#* (Umma; no photo/copy)
+2469	Al-lu5-a			Alluʾa[]PN
+2470	Al-lu5-mu			Alluŋu[]PN
+2471	Al-lum				Allum[]PN		1 Girsu
+2472	Al-mu				Alŋu[]PN		= Allaŋu?
+2473	Al-mu-ki-e2-gal			Alŋukiʾegal[]PN		1 Ur
+2474	Al-na-ni-du11			Allanaʾidug[]PN		1 Umma
+2475	Al-ni-mu			Alniŋu[]PN		= Allaniŋu?		
+2476	Al-ni-mu-me			Alniŋu[]PN		= Allaniŋu?
+2477	Al-u2-a				Aluʾa[]PN		2 Umma
+2478	Altavilla:			not PN			editor comment
+2479	Am-KAL-pi			Am.KAL.pi[]PN
+2480	Am-Ma-ma-ra			AmMama[]PN		1 Nippur
+2481	Am-NE-ce			Am.NE.še[]PN		1 unkn prov
+2482	Am-NI.NI			Rimili[]PN		1 PD
+2483	Am-am				unkn			no citations
+2484	Am-bu3				Ambu[]PN		1 Ur
+2485	Am-hu-uc			Amhuš[]PN		1 Ur
+2486	Am-i3-li2			Rimili[]PN
+2487	Am-ma				Amma[]PN		PD/Irisaŋrig
+2488	Am-ma-PI			Am.ma.PI[]PN		2 Ur
+2489	Am-ma-mu			Ammaŋu[]PN		all Girsu
+2490	Am-ma-pi			Am.ma.PI[]PN		2 Ur
+2491	Am-ma-ti			Ammati[]PN		1 PD
+2492	Am-ma-za-za			Ammazaza[]PN		1 Ur
+2493	Am-ri-ni			Amrini[]PN		all Garshana
+2494	Am-ri-ni-ta			Amrini[]PN
+2495	Am-ri2-ma			Amrim[]SN		8 Umma, 2 Girsu (all entries seem genitive)
+2496	Am-ri2-ma{ki}			Amrim[]SN
+2497	Am-ti-NI			Am.ti.NI[]PN		1 Girsu
+2498	Am-za-ku-um			Amzakum[]PN		1 PD
+2499	Am3-da-da			Amdada[]PN
+2500	Am3-ma				Amma[]PN
+2501	Am3-ma-a			Amma[]PN
+2502	Am3-ma-a-ta			Amma[]PN
+2503	Am3-ma-ke4			Amma[]PN
+2504	Am3-ma-mu			Ammaŋu[]PN
+2505	Am3-ma-ni			Ammani[]PN		all Umma
+2506	Am3-ma-ta			Amma[]PN
+2507	Am3-mi-ri2-ma			Amrim[]SN		workers kab2-ku5 Am3(-mi)-ri2-ma(-ka) kun-zi-da gi4-a (Umma)
+2508	Am3-mi-ri2-ma-ka		Amrim[]SN
+2509	Am3-mu				A.AN.MU[]PN
+2510	Am3-na-ni-tum			Amnanitum[]PN		1 SI.A-a Arch.
+2511	Am3-ri2-ma			Amrim[]SN
+2512	Am3-ri2-ma-ka			Amrim[]SN
+2513	Am3-ri2-ma-ka{ki}		Amrim[]SN
+2514	Am3-ri2-ma{ki}			Amrim[]SN
+2515	Am3-ta				Am[]PN			1 Girsu (Gudea 16)
+2516	AmA-ki-lu5-la			Amakilula[]PN		all Girsu
+2517	Ama-A.DU.NA2			Ama.A.DU.NA₂[]PN	NA2 uncertain (2 Umma; no photo/copy)
+2518	Ama-CID				Ama.ŠID[]PN		1 Nippur
+2519	Ama-CIMxPI			Ama.ŠIM×PI[]PN		AO 02449 r 3, 5 possibly Ama-ŠIM×SAL (Girsu; copy)
+2520	Ama-CIMxPI-ta			Ama.ŠIM×PI[]PN
+2521	Ama-DI.NE			Ama.DI.NE[]PN
+2522	Ama-KI.KAL{ki}			Ama.KI.KAL{ki}[]PN	all PD
+2523	Ama-KI.KAL{ki}-ce3		Ama.KI.KAL{ki}[]PN
+2524	Ama-KIC.IR			Belumliwwir[]PN		uncertain; Akk. 'may the lord shine' (Ama for En)? (1 Umma)
+2525	Ama-LUL.PI.IR			Belumliwwir[]PN		uncertain; Akk. 'may the lord shine' (Ama for En)? (1 PD)
+2526	Ama-Nin-he2-gal2		AmaNinheŋal[]PN		1 Girsu
+2527	Ama-a-ba-ni-bi			Ama.a.ba.ni.BI[]PN	Amaʾabaʾibe 'mother, who speaks?'? (1 Umma)
+2528	Ama-a-du-alan			Ama.a.DU.NA₂[]PN	either ALAN or NA2; 1 Umma (photo/copy)
+2529	Ama-a-du-na2			Ama.a.DU.NA₂[]PN	NA2 uncertain (2 Umma; no photo/copy)
+2530	Ama-ak-nu-um			Amaknum[]PN		1 PD
+2531	Ama-ar-gi4-ra			Amargi[]PN		1 Girsu
+2532	Ama-ba-a			Amaba[]PN		1 Umma
+2533	Ama-banda3{da}			Amabanda[]PN
+2534	Ama-bara2			Amabarag[]PN
+2535	Ama-ce3-hal-bi			Amašehalbi[]PN		possibly Amašuhalbi (1 Umma; no photo/copy)
+2536	Ama-cim				Amašim[]PN		SACT 2 285 o 2 (1 Umma; clearly ŠIM & not ŠIM×PI? in photo)
+2537	Ama-cu-hal-bi			Amašuhalbi[]PN		= Amašehalbi?
+2538	Ama-dingir			Amadiŋirak[]PN
+2539	Ama-dingir-ra			Amadiŋirak[]PN
+2540	Ama-dingir-re-ne-ka-ce3		Amadiŋirenek[]PN
+2541	Ama-dingir-re-ne-ta		Amadiŋirenek[]PN
+2542	Ama-du10-ga			Amaduga[]PN
+2543	Ama-du6-du6			Amadudu[]PN
+2544	Ama-e2-mah-e			Amaʾemahe[]PN		all Umma
+2545	Ama-eme2			Amaʾeme[]PN		1 Nippur
+2546	Ama-ga				Amaga[]PN
+2547	Ama-ga-GICGAL			Ama.ga.URU×MIN[]PN	URU×MIN (KWU no. 226)
+2548	Ama-ga-GICGAL-ce3		Ama.ga.URU×MIN[]PN
+2549	Ama-ga-da			Amaga[]PN
+2550	Ama-ga2-na-na			Amaŋanana[]PN		or, Amabanana? (1 unkn prov)
+2551	Ama-ge-na			Amagina[]PN
+2552	Ama-gen7-nu2			Amaginnud[]PN
+2553	Ama-gu-la			Amagula[]PN
+2554	Ama-gu-la-ta			Amagula[]PN
+2555	Ama-ha-ma-ti			Amahamatil[]PN
+2556	Ama-kal-la			Amakala[]PN
+2557	Ama-kal-la-a			Amakala[]PN
+2558	Ama-kal-la-me			Amakalame[]PN
+2559	Ama-kalam-ma			Amakalamak[]PN
+2560	Ama-ki-bi			Amakibi[]PN
+2561	Ama-ku3-zu			Amakugzu[]PN
+2562	Ama-ku3-zuSU			Amakugzu[]PN		BM 013665 o i 11: 5 sila3 Ama-kug-zu!(SU)
+2563	Ama-lugal			Amalugal[]PN
+2564	Ama-mac				Amamaš[]PN
+2565	Ama-mackim			Amamaškim[]PN
+2566	Ama-mu				Amaŋu[]PN		hypo?
+2567	Ama-mu-ma-an-gi4		Amaŋumangi[]PN
+2568	Ama-mu-ma-an-gig-kam		Amaŋumangi[]PN		BM 130164 r 14: 0.0.1 kišib Ama-ŋu10-ma!-an-GIG (probly for GI4) (Ur; copy)
+2569	Ama-mu-ma-he2			Amaŋumahe[]PN		'my mother exists for me'? (1 Girsu); or, Amaŋumagan 'my mother bore me'?
+2570	Ama-mu-un-ni-tu			Amamunitud[]PN		all Umma
+2571	Ama-na-a			Amanaʾa[]PN		1 PD
+2572	Ama-ne2-ba-an-sa6		Amanebansag[]PN
+2573	Ama-ne2-ba-an-sa6-ka		Amanebansag[]PN
+2574	Ama-nesag-e			Amanesaŋe[]PN		all Umma
+2575	Ama-ni-ba-an-sa6		Amanebansag[]PN
+2576	Ama-ni-ba-sa6			Amanebansag[]PN
+2577	Ama-ni-gen7{gi}			Amanigin[]PN		1 Girsu
+2578	Ama-nig2-du10			Amaniŋdug[]PN
+2579	Ama-nig2-gur-ra			Amaniŋgura[]PN		1 Umma
+2580	Ama-nig2-kal-la			Amaniŋkala[]PN
+2581	Ama-ra-ki-ag2-ra		Amarakiʾaŋ[]PN		1 Girsu
+2582	Ama-ti				Amatil[]PN		1 Umma
+2583	Ama-tu				Amatud[]PN
+2584	Ama-tu-da			Amatud[]PN
+2585	Ama-tu-da-ke4			Amatud[]PN
+2586	Ama-tu-me			Amatud[]PN
+2587	Ama-tu-mu			Amatudŋu[]PN
+2588	Ama-tu-{d}Nanna-ke4		AmatudNannak[]PN
+2589	Ama-ug2				Amaʾuga[]PN		'angry mother'? (1 PD?, 1 Girsu)
+2590	Ama-ur4-ca3-ge			Amaʾuršage[]PN
+2591	Ama-ze-na			Amazina[]PN		1 Umma
+2592	Ama-zi-da			Amazida[]PN
+2593	Ama-zi-mu			Amazidŋu[]PN
+2594	Ama-zi-mu-ta			Amazidŋu[]PN
+2595	Ama-{d}Ba-u2			AmaBaʾu[]PN
+2596	Ama-{d}Cara2			AmaŠara[]PN		AmaŠarak?
+2597	Ama-{d}Cul-gi-e-an-ir3-ru	Ama.{d}Šul.gi.e.AN.NI.pad₃[]PN	uncertain; A 31684 o ii 16 (Girsu; photo/copy)
+2598	Ama-{d}Ec4-tar2			UmmiʾEštar[]PN			1 PD
+2599	Ama-{d}Lamma-mu			AmaLammarŋu[]PN
+2600	Ama-{d}Lamma-re-ba-zi		AmaLammarebazig[]PN
+2601	Ama-{d}Ur3-bar-tab		AmaʾUrbartab[]PN
+2602	Amar				not PN			uncertain (10243 possibilities)
+2603	Amar-Cuba3-be2			AmarŠubabi[]PN		1 Adab
+2604	Amar-Ma-ma			AmarMamak[]PN		BurMama?
+2605	Amar-Ma-ma-ta			AmarMamak[]PN
+2606	Amar-bu-um-ma			AMAR.bu.um.ma[]PN	1 PD
+2607	Amar-cuba			AmarŠubak[]PN
+2608	Amar-cuba-ra			AmarŠubak[]PN
+2609	Amar-cuba-ta			AmarŠubak[]PN
+2610	Amar-cuba2			AmarŠubak[]PN
+2611	Amar-cuba2-ka			AmarŠubak[]PN
+2612	Amar-cuba2-ke4			AmarŠubak[]PN
+2613	Amar-cuba2-ta			AmarŠubak[]PN
+2614	Amar-cuba23			AmarŠubak[]PN		typo
+2615	Amar-cuba3			AmarŠubak[]PN
+2616	Amar-cuba3-ke4			AmarŠubak[]PN
+2617	Amar-cuba3-ta			AmarŠubak[]PN
+2618	Amar-cubaX			AmarŠubak[]PN		2 Girsu (X not defined; no photos/copies)
+2619	Amar-cubur			AmarŠuburak[]PN
+2620	Amar-du6			Amar.LAGAR@g[]PN	Amardu, Amarduda, Amardula (1 Umma)
+2621	Amar-inim-du10-ga		Amarinimdugak[]PN
+2622	Amar-isin2{si}-na		AmarIsinak[]PN
+2623	Amar-ka5			Amarkak[]PN
+2624	Amar-ka5{a}			Amarkak[]PN
+2625	Amar-ka5{a}-ka-ke4		Amarkak[]PN
+2626	Amar-kal-la			Amarkala[]PN		or, Amarkalag 'strong calf'
+2627	Amar-ki				Amarki[]PN		hypo? (1 Girsu)
+2628	Amar-ki-ku3-ga			Amarkikugak[]PN
+2629	Amar-ku3			Amarkug[]PN
+2630	Amar-ma-an{ki}-ta		AMAR.ma.an[]SN		1 PD
+2631	Amar-si4			Amarsu[]PN
+2632	Amar-si4-ka			Amarsu[]PN
+2633	Amar-si4-ra			Amarsu[]PN
+2634	Amar-sila-ce3			Amarsilak[]PN
+2635	Amar-sun2			Amarsunak[]PN
+2636	Amar-sun2-zi			Amarsunzidak[]PN	all Girsu
+2637	Amar-sun2-zi-da			Amarsunzidak[]PN
+2638	Amar-sun2-zi-da-ka		Amarsunzidak[]PN
+2639	Amar-u3				Amarsunak[]PN		TCTI 2 03884 seal 1f: Lu2-diŋir-ra / dumu# Amar-u3?#; r 1: Amar-sun2? ((Girsu); copy resembles GUL)
+2640	Amar-{d}Cuba3			AmarŠubak[]PN
+2641	Amar-{d}Cuba3-be2		AmarŠubabi[]PN		1 Adab
+2642	Amar-{d}Cul-gi			AmarŠulgirak[]PN	attested forms seem to consider PN as AmarŠulgir not AmarŠulgirak
+2643	Amar-{d}Da-mu			AmarDamuk[]PN
+2644	Amar-{d}Da-mu-ce3		AmarDamuk[]PN
+2645	Amar-{d}Ickur-ta		AmarIškurak[]PN		all Ur
+2646	Amar-{d}Inanna			AmarInanak[]PN		attested forms seem to consider DN as Inana not Inanak
+2647	Amar-{d}Suen			AmarSuʾenak[]RN
+2648	Amar-{d}Suen-ga2-ra		AmarSuʾenakeŋara[]WN	all Umma
+2649	Amar-{d}Suen-ga2-re		AmarSuʾenakeŋare[]WN	= AmarSuʾenakeŋara? (1 Umma)
+2650	Amar-{d}Suen-ha-ma-ti		AmarSuʾenakhamatil[]PN
+2651	Amar-{d}Suen-ka			AmarSuʾenak[]RN
+2652	Amar-{d}Suen-ka-ce3		AmarSuʾenak[]RN
+2653	Amar-{d}Suen-ke4		AmarSuʾenak[]RN
+2654	Amar-{d}Suen-ke4-ga2-ra		AmarSuʾenkeŋara[]WN
+2655	Amar-{d}Suen-na-bi2-du11-ga-ce3	AmarSuʾenak[]PN		MVN 15 172 r 2: (messenger) mu Amar-{d}Suʾna bi2-du11-ga-še3 (šu ba-ti)
+2656	Amar-{d}Suen-ni-tum-ce3		AmarSuʾenitum[]WN	all Umma
+2657	Amar-{d}Suen-ra			AmarSuʾenak[]RN		part of AS 8 year-name
+2658	Amar-{d}Suen-ra-ki-ag2		AmarSuʾenak[]PN		part of AS 8 year-name
+2659	Amar-{d}Suen-{d}Cara2-ki-	AmarSuʾenakŠarakiʾaŋ[]PN
+2660	Amar-{d}Suen-{d}Cara2-ki-ag2	AmarSuʾenakŠarakiʾaŋ[]PN
+2661	Amar-{d}SuenEN.ZU		AmarSuʾenak[]PN
+2662	AmarCu-{d}Suen			unkn			broken year-name (1 Girsu)
+2663	Ambar-mah-ta			Ambarmah[]SN
+2664	Ambar-mah{ki}-ta		Ambarmah[]SN
+2665	Ambar{ki}			Ambar[]SN
+2666	Ambar{ki}-ce3			Ambar[]SN
+2667	Ambar{ki}-ta			Ambar[]SN
+2668	Amuc				not PN			possibly water-feature (all Umma)
+2669	Amuc-ce3			not PN
+2670	Amuc-ta				not PN
+2671	An				unkn
+2672	An-				unkn
+2673	An-NE-tur			An.NE.tur[]PN		1 Girsu?
+2674	An-ba-an			Anban[]PN		1 Umma
+2675	An-ba-ba			Anbaba[]PN
+2676	An-ba-sa6-ga-ta			Anbasaga[]PN		1 PD
+2677	An-ca				unkn			probly Anšan
+2678	An-ca-				unkn			probly Anšan
+2679	An-ca-an			Anšan[]SN
+2680	An-ca-an-ca-me			Anšan[]SN		dittography (Nisaba 22 127 r 9)
+2681	An-ca-an-ca-ta			Anšan[]SN		dittography (Nisaba 22 127 ue 1)
+2682	An-ca-an-ce3			Anšan[]SN
+2683	An-ca-an-na			Anšan[]SN
+2684	An-ca-an-na-ce3			Anšan[]SN
+2685	An-ca-an-na-ke4			Anšan[]SN
+2686	An-ca-an-na-me			Anšan[]SN
+2687	An-ca-an-na{ki}			Anšan[]SN
+2688	An-ca-an-na{ki}-ce3		Anšan[]SN
+2689	An-ca-an-na{ki}-ke4		Anšan[]SN
+2690	An-ca-an-na{ki}-me		Anšan[]SN
+2691	An-ca-an-na{ki}-ta		Anšan[]SN
+2692	An-ca-an{ki}			Anšan[]SN
+2693	An-ca-an{ki}-ce3		Anšan[]SN
+2694	An-ca-an{ki}-ka			Anšan[]SN
+2695	An-ca-an{ki}-ke4		Anšan[]SN
+2696	An-ca-an{ki}-me			Anšan[]SN
+2697	An-ca-an{ki}-na			Anšan[]SN
+2698	An-ca-an{ki}-na-ce3		Anšan[]SN
+2699	An-ca-an{ki}-na-ke4		Anšan[]SN
+2700	An-ca-an{ki}-ta			Anšan[]SN
+2701	An-ca-na			Anšan[]SN
+2702	An-ca-na-ce3			Anšan[]PN
+2703	An-ca-na-ke4			Anšan[]PN
+2704	An-ca-na-{ki}			Anšan[]SN		typo
+2705	An-ca-na{ki}			Anšan[]SN
+2706	An-ca-na{ki}-ke4		Anšan[]SN
+2707	An-ca-na{ki}-me			Anšan[]SN
+2708	An-ca3-an{ki}			Anšan[]SN		1 Umma
+2709	An-ca{ki}			Anšan[]SN
+2710	An-ca{ki}-ke4			Anšan[]SN
+2711	An-ca{ki}-me			Anšan[]SN
+2712	An-ca{ki}-na			Anšan[]SN
+2713	An-ca{ki}-na-ke4		Anšan[]SN
+2714	An-ca{ki}-na-me			Anšan[]SN
+2715	An-ca{ki}-ta			Anšan[]SN
+2716	An-da-ga			Andaga[]PN
+2717	An-da-gu-du			Andagudu[]PN
+2718	An-da-gu-du-ce3			Andagudu[]PN
+2719	An-da-gu-du-ec3-e-ki-ag2	Andaguduʾešekiʾaŋ[]PN	BCT 2 132 o 8 (unkn prov)
+2720	An-du				Andu[]PN
+2721	An-du-lu5			Andulu[]PN
+2722	An-du-mu			Anduŋu[]PN
+2723	An-du-u2			Andu[]PN		1 Nippur
+2724	An-e				Ane[]PN			BM 106839 o 10: sizkur2 a-ša3 An-e (E)-gar (Umma)
+2725	An-e-ba-ab-du			Anebabdu[]PN		1 Nippur
+2726	An-e-ba-ab-du7			Anebabdu[]PN		1 Girsu
+2727	An-e2				AN.E₂[]PN
+2728	An-ga-za-a-ni			Angazani[]PN		1 Girsu
+2729	An-ka				unkn			texts with broken context
+2730	An-ki-bi			Ankibi[]PN
+2731	An-ki-da			Ankida[]PN
+2732	An-ki-hi-li-a			Ankihiliʾa[]PN
+2733	An-ki-in			Ankin[]PN
+2734	An-lu2-sa6			Anlusag[]PN
+2735	An-na				unkn			6034 possibilities
+2736	An-na-a				Ana[]PN
+2737	An-na-a-zi			Anazi[]PN
+2738	An-na-ah-			Anahili[]PN		BDTNS 063963 seal (Garshana)
+2739	An-na-ah-i3-li2			Anahili[]PN
+2740	An-na-bi2-du11			Anakbindug[]PN
+2741	An-na-bi2-kuc2			Anakbinkušu[]PN
+2742	An-na-ca-an{ki}-ce3		Anšan[]SN
+2743	An-na-ce3			An[]DN
+2744	An-na-da			Ana[]PN
+2745	An-na-du3-a			Anakduʾa[]PN
+2746	An-na-he-gal2			Anaheŋal[]PN
+2747	An-na-he-gal2-ta		Anaheŋal[]PN
+2748	An-na-he2-gal2			Anaheŋal[]PN
+2749	An-na-hi			unkn			Nisaba 15/2 0185 r 1 broken context (Irisaŋring; no photo/copy)
+2750	An-na-hi-AL			An.na.hi.AL[]PN		Nisaba 01 277 o 12 (Umma; no photo/copy)
+2751	An-na-hi-gal2			Anaheŋal[]PN
+2752	An-na-hi-li			Anahili[]PN
+2753	An-na-hi-li-bi			Anahilibi[]PN
+2754	An-na-hi-li-bi-ta		Anahilibi[]PN
+2755	An-na-hi-li-mu			Anahiliŋu[]PN
+2756	An-na-hi-li-ta			Anahili[]PN
+2757	An-na-i3-li2			Anaʾili[]PN
+2758	An-na-ka			An[]DN
+2759	An-na-ke4-ta			Anake[]PN		UET 3 0939 o 3: (grain) ki An-na-ke4-ta (Ur S 43); hypo?
+2760	An-na-ke4-zu			Anakezu[]PN
+2761	An-na-ma-at			Anamat[]PN		1 Umma (messenger)
+2762	An-na-mu			Anaŋu[]PN		hypo?
+2763	An-na-na			Anana[]PN
+2764	An-na-ni-tum			Annanitum[]PN
+2765	An-na-ra			An[]DN
+2766	An-na-ri			Annari[]PN		1 Irisaŋrig
+2767	An-na-sa6-ga			Anasaga[]PN
+2768	An-na-ta			An[]DN
+2769	An-na-tal			Anatal[]PN		Hurrian
+2770	An-na-ti			Anatil[]PN		hypo?
+2771	An-ne-ba-ab-du7			Anebabdu[]PN		typo? (BM 110258; no photo/copy)
+2772	An-ne-ba-du7			Anebabdu[]PN		typo (KVM 32.1137 o 11: NI not NE (Umma; photo/copy); RA 66 21 r vi 5 (Girsu; no photo/copy)
+2773	An-ne2				Ane[]PN			hypo?
+2774	An-ne2-a			Aneʾa[]PN		hypo?
+2775	An-ne2-a2-bar			Aneʾabar[]PN		1 Girsu
+2776	An-ne2-ab-du7			Aneʾabdu[]PN		= Anebabdu?
+2777	An-ne2-ba-DU			Anebabdu[]PN		BM 105917 o 3: DU for DU7? (Umma; no photo/copy)
+2778	An-ne2-ba-ab-			unkn			probly Anebabdu in broken context
+2779	An-ne2-ba-ab-du2		Anebabdu[]PN		TU for DU7? (2 Irisaŋrig)
+2780	An-ne2-ba-ab-du7		Anebabdu[]PN
+2781	An-ne2-ba-ab-du7-e		Anebabdu[]PN		YBC 09839 o 6: E possibly RA (Nippur; copy)
+2782	An-ne2-ba-ab-du7-me		Anebabdu[]PN
+2783	An-ne2-ba-ab-du7-ra		Anebabdu[]PN		YBC 09839 r 8, 15 (Nippur; copy)
+2784	An-ne2-ba-du2			Anebabdu[]PN		YBC 01108 seal 1: TU for DU7? (Nippur; copy)
+2785	An-ne2-ba-du7			Anebabdu[]PN
+2786	An-ne2-ba-du7-ta		Anebabdu[]PN
+2787	An-ne2-ba-zi-ge			Anebazige[]PN
+2788	An-ne2-ce3			Ane[]PN
+2789	An-ne2-du11-ce3			Anedug[]PN
+2790	An-ne2-e			Ane[]PN			CBS 09268 r 5: An-ne2-e (erasure; possibly AN?.ŠEŠ?.KI) (Nippur; photos/copy)
+2791	An-ne2-e-{d}Nanna		An.ne₂.e.AN.X[]PN	uncertain; BE 3-1 005 o 1: An-ne2-e-AN.ŠE[Š?.KI?] (Nippur; photo/copy)
+2792	An-ne2-ga2-ra			Aneŋara[]SN		all Umma
+2793	An-ne2-ga2-ra-ac		Aneŋara[]SN		MVN 16 0812 o 4 related to BIN 5 230 o 4 (both SS 1)
+2794	An-ne2-ga2-ra-ac-ta		Aneŋara[]SN		BIN 5 230 o 4 (Umma SS 1; copy); AŠ is mistake?; related to MVN 16 0812 o 4
+2795	An-ne2-ga2-ra-ce3		Aneŋara[]SN
+2796	An-ne2-ga2-ra-ka		Aneŋara[]SN
+2797	An-ne2-ga2-ra-ta		Aneŋara[]SN
+2798	An-ne2-gar			Aneŋara[]SN
+2799	An-ne2-gar-ra			Aneŋara[]PN		1 PD
+2800	An-ne2-ki-ag2			Anekiʾaŋ[]PN
+2801	An-ne2-me			Ane[]PN
+2802	An-ne2-mu			Aneŋu[]PN
+2803	An-ne2-mu-kuX			Anemude[]PN
+2804	An-ne2-mu-ra			Aneŋu[]PN
+2805	An-ne2-si			Anesi[]PN
+2806	An-ne2-si-me			Anesi[]PN
+2807	An-ne2-ta			Ane[]PN
+2808	An-ne2-tum			Annitum[]PN
+2809	An-ne2-u3-du			An.ne₂.u₃.DU[]PN	1 Umma
+2810	An-ne2-zu			Anezu[]PN
+2811	An-ni-ic-ti-kal2		Aništikal[]PN		1 Ur
+2812	An-ni-na-dan			Anninadan[]PN		1 Girsu
+2813	An-ni-tum			Annitum[]PN
+2814	An-ni-zu			Anezu[]PN
+2815	An-nu-ni-tum			Annunitum[]PN
+2816	An-nu-ni-tum-ce3		Annunitum[]PN
+2817	An-nu-ni-tum-ka			Annunitum[]PN
+2818	An-nu-ni-tum-ma			Annunitum[]PN
+2819	An-nu-ni-tum-ma-ka		Annunitum[]PN
+2820	An-pi-a2			Anpiʾa[]PN		1 Ur
+2821	An-sa-an{ki}			Anšan[]SN
+2822	An-sukkal			Ansukal[]PN
+2823	An-ta-he2-gal2			Antaheŋal[]PN
+2824	An-ta-ka-ce3			Antaka[]PN		YBC 14509 o 2: ({ŋeš}kab2-kul) {ŋeš}gu-za An-ta-ka-še3 (Umma; no photo/copy)
+2825	An-ta-lu2			Antalu[]PN
+2826	An-ta-lu2-ta			Antalu[]PN
+2827	An-ta-mu-zu			Antamuzu[]PN
+2828	An-ta-sur-ra			Antasura[]SN		all Girsu
+2829	An-ta-sur-ra-ce3		Antasura[]SN
+2830	An-ta-zal			Antazal[]PN
+2831	An-ti-a				Antiʾa[]PN
+2832	An-ti-gir4			Antigir[]PN		2 unkn prov (both witnesses)
+2833	An-tu				AN.TU[]PN		2 Umma
+2834	An-za-ba-li2-ta			Anzabaʾli[]PN
+2835	An-za-gar3			not PN			tower/fort (generic)
+2836	An-za-gar3-Da-da-ce3		AnzagarDada[]SN		2 Garshana
+2837	An-za-gar3-Da-da-ta		AnzagarDada[]SN		2 Garshana
+2838	An-za-gar3-ce3			not PN			may be generic (all Umma)
+2839	An-za-gar3-ka			not PN			may be generic (1 Umma)
+2840	An-za-gar3-ta			not PN			may be generic (7 Umma; 2 Garshana)
+2841	An-za-gar3-{gic}kiri6-Zabalam4{ki}	AnzagarkiriZabalamak[]SN   all Garshana
+2842	An-za-gar3-{gic}kiri6-Zabalam4{ki}-ce3	AnzagarkiriZabalamak[]SN   1 Garshana
+2843	An-za-gar3{ki}			Anzagar[]SN
+2844	An-za-gar3{ki}-ce3		Anzagar[]SN
+2845	An-za-gar3{ki}-ta		Anzagar[]SN
+2846	An-za-gir13			Anzagar[]SN
+2847	An-za-gir13-ce3			Anzagar[]SN
+2848	An-za-gir13-ra			Anzagar[]SN
+2849	An-za-gir13-ta			Anzagar[]SN
+2850	An-za-za-a			Anzaza[]PN		1 Umma
+2851	An-za3-gar3			Anzagar[]SN
+2852	An-za3-gar3-ce3			Anzagar[]SN
+2853	An-za3-gar3-ta			Anzagar[]SN
+2854	An-za3-gar3{ki}-ce3		Anzagar[]SN
+2855	An-za3-gir13			Anzagar[]SN
+2856	An-za3-gir13-ce3		Anzagar[]SN
+2857	An-za3-gir13-ta			Anzagar[]SN
+2858	An-za:gar3			Anzagar[]SN
+2859	An-zag3-gar			Anzagar[]SN		UTI 4 2447 o 6: [An]-zag3-gar id2#-Gir2-su#[{ki}-še3] (Umma; no photo/copy)
+2860	An-zag3-gar3-ce3		Anzagar[]SN		BM 111515 o 2: An-zag3(ŠID)-gar3-še3 (Umma; no photo/copy)
+2861	An:za-gar3			Anzagar[]SN
+2862	Anan-dul3			Andul[]PN		typo (1 Girsu)
+2863	Anzu2{mucen}-bar6-bar6-ta	Anzudbabbar[]TN		1 Girsu
+2864	Apin-ki-du10			Apinkidug[]PN
+2865	Aq-ba-ia3			Aqbaya[]PN		3 PD
+2866	Ar-KU-ma			Ar.KU.ma[]PN		1 Umma
+2867	Ar-ba-tal			Arpatal[]PN		no citations
+2868	Ar-bi2-gi4			Arbigi[]PN		2 PD
+2869	Ar-bi2-i3-lum			Arbaʾil[]SN
+2870	Ar-bi2-ib			Arbib[]PN
+2871	Ar-bi2-id			Arbid[]PN		= Arbitum?; 1 Nippur
+2872	Ar-bi2-il			Arbaʾil[]SN
+2873	Ar-bi2-lum			Arbaʾil[]SN
+2874	Ar-bi2-lum{ki}			Arbaʾil[]SN
+2875	Ar-bi2-tum			Arbitum[]PN
+2876	Ar-bi2-um			Arbiʾum[]PN		1 Girsu
+2877	Ar-ca-ba-ni			Aršabani[]PN		1 Umma
+2878	Ar-ca-ti			Aršati[]SN		all Girsu
+2879	Ar-ca-ti{ki}			Aršati[]SN
+2880	Ar-ca-tum			Aršatum[]PN		3 Garshana
+2881	Ar-ci				unkn			for Aršiʾah? (1476 possibilities)
+2882	Ar-ci-ah			Aršiʾah[]PN
+2883	Ar-ci-ah-ce3			Aršiʾah[]PN
+2884	Ar-ci-ah-e			Aršiʾah[]PN
+2885	Ar-ci-ah-ra			Aršiʾah[]PN
+2886	Ar-ci-ah-ta			Aršiʾah[]PN
+2887	Ar-ci-ha			Aršiʾah[]PN		1 Girsu
+2888	Ar-ci-ih			Aršiʾah[]PN
+2889	Ar-ci-ni			Aršini[]PN		1 Umma
+2890	Ar-ci-tam			Aršitam[]PN		1 Irisaŋrig
+2891	Ar-ci2				Arši[]PN		= Aršiʾah? (1 Irisaŋrig)
+2892	Ar-ci2-ah			Aršiʾah[]PN
+2893	Ar-ci{ki}			Harši[]SN		uncertain (1154 possibilities)
+2894	Ar-da-ci-in-gi4			Ardašingi[]PN		2 Umma (AS 5)
+2895	Ar-ha				Arha[]PN		3 Umma		
+2896	Ar-ha-ta			Arha[]PN
+2897	Ar-la-AN			Ar.la.AN[]PN		1 Girsu
+2898	Ar-ma-an{ki}			Arman[]SN
+2899	Ar-pa2-tal			Arpatal[]PN		Hurrian
+2900	Ar-ri-az			Arriʾaz[]PN		2 Garshana
+2901	Ar-ri-du-ga			Arriduga[]PN		1 PD
+2902	Ar-um				Arum[]PN		2 unkn prov (S 31)
+2903	Ar-wa-lu-uk-bi			Arwilugga[]PN		MLC 00036 o 5, r 1 (AS 01-05-28); < Marhaši 1 udu niga each (PD; no photo/copy)
+2904	Ar-wa-tum			Arwatum[]PN
+2905	Ar-wi-lu-ug-bi			Arwilugga[]PN[]PN	UMNH 1830 o 1, 2 (AS 01-06-21); < Marhaši 1 udu niga each (PD; no photo/copy)
+2906	Ar-wi-lu-ug-ga			Arwilugga[]PN[]PN	Fonthill Mus. 519 o 6, r 2 (AS 01-06-08); < Marhaši 1 udu niga each (PD; copy)
+2907	Ar-wi-tum			Arwatum[]PN
+2908	Ar-za-an-{d}Amar-{d}Suen	ArzanAmarSuʾen[]PN	Irisaŋrig
+2909	Ar-zi-ni			Arzini[]PN		1 Ur (seal)
+2910	Ar.i'				not PN			formatting
+2911	Ar.ii'				not PN			formatting
+2912	Ar.iii'				not PN			formatting
+2913	Ar.iv'				not PN			formatting
+2914	Arad				Arad[]PN
+2915	Arad-				unkn			2 Girsu (broken context)
+2916	Arad-al-la-ka			Aradalak[]PN		1 Girsu
+2917	Arad-da-ke4			Arad[]PN
+2918	Arad-da-ni			Aradani[]PN
+2919	Arad-da-ni-ta			Aradani[]PN
+2920	Arad-da-ta			Arad[]PN
+2921	Arad-dam			Aradam[]PN
+2922	Arad-ib				Aradebak[]PN		'servant of the (temple-)oval'? (1 Girsu)
+2923	Arad-lugal			Aradlugalak[]PN		1 Girsu
+2924	Arad-mu				Aradŋu[]PN
+2925	Arad-ra-ba-ni			Waradrabani[]PN		1 Girsu
+2926	Arad-ta				Arad[]PN
+2927	Arad-u3				Aradu[]PN		1 Girsu
+2928	Arad-{d}Cara2			AradŠarak[]PN
+2929	Arad-{d}Gu-la			AradGulak[]PN
+2930	Arad-{d}Nanna			AradNannak[]PN
+2931	Arad-{d}Nanna-ke4		AradNannak[]PN
+2932	Arad-{d}Utu			AradUtuk[]PN
+2933	Arad2				Arad[]PN
+2934	Arad2-				unkn			9817 possibilities
+2935	Arad2-DU			Arad₂.DU[]PN		1 Umma
+2936	Arad2-Da-da			AradDadak[]PN
+2937	Arad2-Er3-ra			AradErrak[]PN
+2938	Arad2-HI			Araddug[]PN
+2939	Arad2-KA-sa6			Arad₂.KA.sag₉[]PN	'servant (having) sweet mouth/word(s)'?
+2940	Arad2-Me-me			AradMemek[]PN
+2941	Arad2-a-mu			Aradayakŋu[]PN		uncertain (1 Umma)
+2942	Arad2-a-zu			Aradayakzu[]PN		uncertain (1 Umma)
+2943	Arad2-a2-ge-na			Aradaginak[]PN		or, Aradagina 'servant (having) trusty arm'?
+2944	Arad2-aga			Aradagak[]PN
+2945	Arad2-al-la			AradAllak[]PN
+2946	Arad2-am3			Aradam[]PN
+2947	Arad2-bar-ra			Aradbara[]PN
+2948	Arad2-ce3			Arad[]PN
+2949	Arad2-da			Arad[]PN
+2950	Arad2-da-kam			Arad[]PN
+2951	Arad2-da-na			Aradana[]PN		1 Umma, 1 Ur (not genitive)
+2952	Arad2-da-ni			Aradani[]PN
+2953	Arad2-da-ni-ce3			Aradani[]PN
+2954	Arad2-da-ni-ta			Aradani[]PN
+2955	Arad2-da-ta			Arad[]PN
+2956	Arad2-dam			Aradam[]PN
+2957	Arad2-dam-ra			Aradam[]PN
+2958	Arad2-de3			Arad[]PN
+2959	Arad2-dingir-ra			Araddiŋirak[]PN
+2960	Arad2-du10			Araddug[]PN
+2961	Arad2-du10-lu2			Araddugluk[]PN		YBC 01318 seal (restored)
+2962	Arad2-e-bi			Šu.ARAD₂.e.bi[]PN	1 Irisaŋrig
+2963	Arad2-e2			Aradeʾak[]PN
+2964	Arad2-e2-a			Aradeʾak[]PN
+2965	Arad2-ge-na			Aradgina[]PN
+2966	Arad2-gi-gi			ARAD₂.GI.GI[]PN		1 Garshana (seal)
+2967	Arad2-gi4-sal4-la{ki}		Aradgisalak[]SN		1 PD
+2968	Arad2-hu-Ila			unkn			typo; probly Arad2-hu-la (YBC 01769 r 9; no photo/copy)
+2969	Arad2-hu-la			Aradhula[]PN
+2970	Arad2-hu-la-ce3			Aradhula[]PN
+2971	Arad2-hu-la-ke4			Aradhula[]PN
+2972	Arad2-hu-la-ta			Aradhula[]PN
+2973	Arad2-hul2-la			Aradhula[]PN		1 PD
+2974	Arad2-hul3			Aradhula[]PN
+2975	Arad2-hul3-e			Aradhule[]PN		= Aradhula? (2 Girsu)
+2976	Arad2-hul3-la			Aradhula[]PN
+2977	Arad2-hul3-la-ka-ce3		Aradhula[]PN
+2978	Arad2-hul3-la-ta		Aradhula[]PN
+2979	Arad2-hul3-ta			Aradhula[]PN
+2980	Arad2-i3-li2			Waradili[]PN
+2981	Arad2-kala-ga			Aradkalaga[]PN
+2982	Arad2-ki-ag2			Aradkiʾaŋ[]PN
+2983	Arad2-ku3-ga			Aradkuga[]PN
+2984	Arad2-ku3-ga-ta			Aradkuga[]PN
+2985	Arad2-lugal			Aradlugalak[]PN
+2986	Arad2-me-me			AradMemek[]PN
+2987	Arad2-me-me-ke4			AradMemek[]PN
+2988	Arad2-mu			Aradŋu[]PN
+2989	Arad2-mu-ce3			Aradŋu[]PN
+2990	Arad2-mu-ka			Aradŋu[]PN
+2991	Arad2-mu-ra			Aradŋu[]PN
+2992	Arad2-mu-ta			Aradŋu[]PN
+2993	Arad2-ni			Aradani[]PN
+2994	Arad2-nigarX			Aradniŋarak[]PN		1 unkn prov (MCS 4 012 02 o 5')
+2995	Arad2-nin-cu4			Arad.nin.ŠU₄[]PN	1 Umma
+2996	Arad2-ra			Arad[]PN
+2997	Arad2-sa6-sa6			Aradsagsag[]PN
+2998	Arad2-sag-gic			Aradsaŋŋeš[]PN
+2999	Arad2-sanga--mu-ta		Arad₂.ŠID.ŋu₁₀[]PN	BM 103411 o i 20: Arad2-<<SANGA>>-mu-ta? (PD; no photo/copy)
+3000	Arad2-sig5			Aradsag[]PN
+3001	Arad2-ta			Arad[]PN
+3002	Arad2-tur			Aradtur[]PN
+3003	Arad2-tur-ta			Aradtur[]PN
+3004	Arad2-u3			Aradu[]PN
+3005	Arad2-zu			Aradzu[]PN
+3006	Arad2-{da}dam			Aradam[]PN
+3007	Arad2-{d}Ac3-gi5		AradAšgik[]PN
+3008	Arad2-{d}Alamuc-e		AradAlamuše[]PN		may be Akk or Semitic (1 Girsu AS 2)
+3009	Arad2-{d}Alamuc-ta		AradAlamuš[]PN		may be Akk or Semitic (1 Girsu SS 5)
+3010	Arad2-{d}Amar-{d}Suen		AradAmarSuʾenak[]PN
+3011	Arad2-{d}Amar-{d}Suen-ka	AradAmarSuʾenak[]PN
+3012	Arad2-{d}Amar-{d}Suen-ta	AradAmarSuʾenak[]PN
+3013	Arad2-{d}Ba-u2			AradBaʾuk[]PN
+3014	Arad2-{d}Ba-u2-ce3		AradBaʾuk[]PN
+3015	Arad2-{d}Ba-u2-ta		AradBaʾuk[]PN
+3016	Arad2-{d}Cara2			AradŠarak[]PN
+3017	Arad2-{d}Cara2-ce3		AradŠarak[]PN
+3018	Arad2-{d}Cul-pa-e3		AradŠulpaʾek[]PN	1 Umma
+3019	Arad2-{d}Dumu-zi		AradDumuzidak[]PN
+3020	Arad2-{d}EN.KA			unkn			UET 3 1066 o ii 12' (copy; broken context)
+3021	Arad2-{d}En-lil2-la2		AradEnlilak[]PN
+3022	Arad2-{d}Hul3-e			AradHulek[]PN
+3023	Arad2-{d}Ig-alim		AradIgalimak[]PN
+3024	Arad2-{d}Inanna			AradInanak[]PN
+3025	Arad2-{d}LU			Arad₂.{d}LU[]PN		Nisaba 15/2 1032 r ii 12': 0.0.1 5 sila3 Arad2-{d}LU? (Umma?; no photo/copy)
+3026	Arad2-{d}MA			Arad₂.{d}MA[]PN		Orient 16 058 60 seal 1: Arad2-{d}MA?# (Umma S 25; photo/copy)
+3027	Arad2-{d}Na-du3-a		AradNaduʾak[]PN
+3028	Arad2-{d}Nance			AradNanšek[]PN
+3029	Arad2-{d}Nanna			AradNannak[]PN
+3030	Arad2-{d}Nanna-ce3		AradNannak[]PN
+3031	Arad2-{d}Nanna-ke4		AradNannak[]PN
+3032	Arad2-{d}Nanna-ta		AradNannak[]PN
+3033	Arad2-{d}Nin-gal		AradNingalak[]PN
+3034	Arad2-{d}Nin-gal-ce3		AradNingalak[]PN
+3035	Arad2-{d}Nuska			AradNuskak[]PN
+3036	Arad2-{d}Su-ha			AradSuhak[]PN
+3037	Arad2-{d}Suen			AradSuʾenak[]PN
+3038	Arad2-{d}Utu			AradUtuk[]PN
+3039	Arad2-{d}Utu-ce3		AradUtuk[]PN
+3040	Aratta{ki}			Aratta[]SN
+3041	Arr-ci-ah			Aršiʾah[]PN		typo
+3042	Asar-lu2-hi			Asarluhi[]DN
+3043	Ashm.				not PN			museum no heading
+3044	At-ba-a				Atba[]PN		Nisaba 15/2 1032 o i 15: [0.0.x] At-ba?-a (Umma?; no photo/copy)
+3045	At-la-te			Atlate[]PN		1 Irisaŋrig
+3046	At-rum2				Atrum[]PN		1 Umma
+3047	At-te-na			Attena[]PN		1 Irisaŋrig
+3048	At-ti-a				Attiʾa[]PN		2? Umma
+3049	At-tu				Attu[]PN		1 Irisaŋrig
+3050	AxHA				unkn			no citations (maybe A.HA?)
+3051	A×UR				unkn			no citations (maybe UR₂×A.HA?)
+3052	Az-am3				Azam[]PN
+3053	Az-mu				Azŋu[]PN
+3054	Az-mu-ke4			Azŋu[]PN
+3055	Az-za-at			Azzat[]PN		1 Umma
